@@ -1,0 +1,200 @@
+Course Outline
+CHAPTER 1
+
+Welcome to the Course
+09:31
+
+Course Introduction
+01:29
+
+
+About the Training Architect
+01:45
+About the Exam
+04:19
+
+Power Platform Terminology Update
+01:58
+
+CHAPTER 2
+
+Describing the Business Value of Power Platform Services
+36:56
+
+Introducing and Defining the Power Platform
+07:24
+
+Introducing the Core Components of Power Platform
+04:57
+
+Extending Business Solutions
+06:01
+
+Reviewing the Power Platform
+03:34
+
+
+
+
+
+
+
+
+
+
+
+QUIZ
+PL-900 Quiz: Describing the Business Value of Power Platform Services
+15:00
+CHAPTER 3
+
+Demystifying the Core Components of Power Platform
+1:17:32
+
+Describing Environments
+08:44
+
+
+Describing Common Data Service
+07:55
+
+
+Describing Common Data Model
+02:28
+
+Identifying Entities, Fields, and Relationships
+11:50
+
+
+Describing Business Rules
+10:34
+
+Describing Connectors
+11:41
+
+Describing AI Builder
+09:20
+
+QUIZ
+PL-900 Quiz: Demystifying the Core Components of Power Platform
+15:00
+CHAPTER 4
+
+Describing Power Platform Administration and Security
+38:57
+
+Introducing Power Platform Administration and Security
+07:46
+
+
+
+
+Administering and Securing Power Platform
+06:23
+
+
+Creating DLP (Data Loss Prevention) Policies
+06:15
+
+
+Understanding Data Privacy, Compliance, and Accessibility
+03:33
+
+
+QUIZ
+PL-900 Quiz: Describing Power Platform Administration and Security
+15:00
+CHAPTER 5
+
+Introduction to Power Apps
+1:18:07
+
+Introducing Power Apps
+08:08
+
+Creating Canvas Apps
+11:23
+
+
+Creating Canvas Apps - Wrapping Up
+12:14
+Creating Model-Driven Apps
+16:36
+
+Creating Portal Apps
+14:46
+
+QUIZ
+PL-900 Quiz: Introduction to Power Apps
+15:00
+CHAPTER 6
+
+Introduction to Power Automate
+50:00
+
+Introducing Power Automate
+11:37
+
+Creating Flows
+14:45
+Describing Business Process Flows
+05:05
+
+Describing Desktop Flows
+03:33
+
+QUIZ
+PL-900 Quiz: Introduction to Power Automate
+15:00
+CHAPTER 7
+
+Introduction to Power BI
+59:38
+
+Introducing Power BI
+04:16
+
+Explaining Components of Power BI
+11:40
+
+
+Connecting and Consuming Data
+10:05
+
+Connecting and Consuming Data (Demonstration)
+08:59
+
+Building Reports and Dashboards (Demonstration)
+09:38
+
+QUIZ
+PL-900 Quiz: Introduction to Power BI
+15:00
+CHAPTER 8
+
+Introduction to Power Virtual Agents
+41:23
+
+Introducing Power Virtual Agents
+02:52
+
+Demystifying Components of Power Virtual Agents
+05:31
+
+Creating Chatbots
+13:47
+
+Analyzing Chatbots
+04:13
+
+QUIZ
+PL-900 Quiz: Introduction to Power Virtual Agents
+15:00
+CHAPTER 9
+
+Conclusion
+47:27
+
+Course Summary
+01:28
+Conclusion and What's Next
