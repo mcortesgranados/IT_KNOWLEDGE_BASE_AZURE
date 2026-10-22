@@ -1,0 +1,105 @@
+
+Next Lessons
+ Course Introduction thumbnail
+01:44
+Course Introduction
+
+CHAPTER 1.1
+
+ Introducing a Scalable Leaderboard Solution for All Your Games thumbnail
+03:52
+Introducing a Scalable Leaderboard Solution for All Your Games
+
+CHAPTER 1.2
+
+ Identifying Azure Services for Stream Processing thumbnail
+09:20
+Identifying Azure Services for Stream Processing
+
+CHAPTER 2.1
+
+Course Outline
+CHAPTER 1
+
+Introduction
+05:36
+
+Course Introduction
+01:44
+
+Introducing a Scalable Leaderboard Solution for All Your Games
+03:52
+CHAPTER 2
+
+Developing a Stream Processing Solution
+5:20:07
+
+Identifying Azure Services for Stream Processing
+09:20
+Process Time Series Data
+05:23
+Demo: Create a Stream Processing Solution by Using Stream Analytics and Azure Event Hubs
+07:11
+
+HANDS-ON LAB
+Create a Stream Processing Solution in Azure Stream Analytics
+30:00
+Process Data by Using Spark Structured Streaming
+11:38
+
+Demo: Create Windowed Aggregates
+13:21
+HANDS-ON LAB
+Create Windowed Aggregates in Azure Stream Analytics
+45:00
+Introducing Schema Drift
+06:17
+
+
+Demo: Handle Schema Drift
+03:48
+Process within One Partition
+06:36
+Process Data across Partitions
+10:58
+Optimize Pipelines for Analytical or Transactional Purposes
+07:32
+HANDS-ON LAB
+Processing Data in One or More Partitions in Azure Stream Analytics
+45:00
+Scale Resources
+05:20
+
+
+Demo: Create Tests for Data Pipelines
+03:53
+Configure Checkpoints and Watermarking during Processing
+05:41
+Handling Late-Arriving Data
+06:01
+Handle Interruptions
+04:17
+Demo: Configure Exception Handling
+02:16
+HANDS-ON LAB
+Handle Adversity in Azure Stream Analytics
+45:00
+Demo: Upsert Data
+06:53
+Replay Archived Stream Data
+04:02
+Section Recap
+04:40
+QUIZ
+Developing a Stream Processing Solution
+30:00
+CHAPTER 3
+
+Conclusion
+06:08
+
+Course Summary
+02:07
+Conclusion and What's Next
+01:04
+Exam Tips
