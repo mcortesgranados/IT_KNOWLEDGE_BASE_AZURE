@@ -1,0 +1,251 @@
+Course Outline
+CHAPTER 1
+
+Azure IoT Railway Routes and Timetables
+09:05
+
+Course and Training Architect Introduction
+01:55
+About the Exam
+04:02
+Setting Up Your IoT Development Environment
+03:08
+CHAPTER 2
+
+IoT Locomotives, Stations, Tracks, and Cargo
+1:30:07
+
+Understanding the IoT Basics
+10:10
+Exploring Devices
+04:32
+Understanding Device Authentication
+05:14
+Getting to Know Azure IoT
+14:27
+Azure IoT Central: A SaaS Alternative
+10:44
+HANDS-ON LAB
+Configure and Connect an Azure IoT Device Simulator
+30:00
+QUIZ
+QUIZ: IoT Basics
+15:00
+CHAPTER 3
+
+IoT Hub: Roundhouses of the Azure IoT Railway
+1:31:55
+
+Exploring Azure IoT Hub
+13:48
+
+Configuring an Azure IoT Hub
+14:25
+
+
+
+Discovering the IoT Hub Device Registry
+03:42
+
+
+
+HANDS-ON LAB
+Create Azure IoT Hubs by Two Different Methods
+45:00
+QUIZ
+IoT Hub
+15:00
+CHAPTER 4
+
+Wrangling Whistle Stops: IoT Device Management
+1:39:09
+
+Device Registration: Making the Connection
+11:35
+Synchronizing IoT Device Properties with Device Twins and Module Twins
+10:15
+Configuring Devices at Scale with Automatic Device Management
+07:46
+HANDS-ON LAB
+Leverage Automatic Device Management with IoT Device Twins in Azure
+45:00
+Managing IoT Devices with Azure IoT Central
+09:33
+
+
+
+QUIZ
+IoT Device Management
+15:00
+CHAPTER 5
+
+Laying the Track: Device Provisioning Service (DPS)
+1:39:36
+
+Exploring the Device Provisioning Service (DPS)
+08:55
+Configuring the DPS
+06:42
+
+Identifying Devices: Attestation Mechanisms
+10:06
+
+
+Enrolling Devices
+04:46
+Disenrolling and Retiring Devices
+09:07
+
+HANDS-ON LAB
+Manage Devices with the Azure IoT Device Provisioning Service
+45:00
+QUIZ
+Device Provisioning
+15:00
+CHAPTER 6
+
+Telegraphs and Torrents: IoT Communication
+1:45:21
+
+Speaking the Language of Devices: Protocol
+08:13
+
+
+Communicating with IoT Devices
+10:21
+Creating IoT Solutions Using Azure IoT SDKs
+03:19
+
+
+Managing Devices with IoT Hub Jobs and Direct Methods
+04:36
+
+HANDS-ON LAB
+Change Device Properties with IoT Hub Direct Methods
+1:00:00
+QUIZ
+IoT Communication
+15:00
+At the Crossing: A Recap of the Course to This Point
+03:52
+CHAPTER 7
+
+Grand Central Stations: Implementing IoT Edge
+2:14:50
+
+Introduction to Azure IoT Edge
+08:48
+
+Registering and Deploying a Device to IoT Edge
+05:08
+
+
+Configuring IoT Edge Devices
+05:52
+Developing and Deploying IoT Edge Modules
+06:15
+
+Rounding Out: Azure IoT Edge
+03:47
+
+
+
+
+
+HANDS-ON LAB
+Create an Azure IoT Edge Environment
+1:30:00
+QUIZ
+IoT Edge
+15:00
+CHAPTER 8
+
+Steam, Diesel, Electric: Data Processing Options
+3:58:47
+
+Going All In on Twins
+06:04
+
+Choosing the Right Path: Message Routing in IoT Hub
+10:55
+
+Routing Messages with IoT Hub and Azure Event Grid
+07:39
+
+
+HANDS-ON LAB
+Deliver IoT Device Telemetry to Other Services Using Event Grid
+45:00
+Swimming Upstream with Ease: Using Azure Stream Analytics
+12:48
+
+
+
+
+
+
+HANDS-ON LAB
+Query Real-Time IoT Data in Azure Stream Analytics
+1:30:00
+Times They Are A-Changin’: IoT Solutions with Time Series Insights (TSI)
+06:21
+HANDS-ON LAB
+Process and Visualize Historical IoT Data Using Azure Time Series Insights
+45:00
+QUIZ
+Processing IoT Data
+15:00
+CHAPTER 9
+
+Conductors, Switchmen, and IoT Railroad Engineering
+2:07:52
+
+Monitoring IoT Hub
+09:30
+
+
+
+Troubleshooting IoT Device Communication
+07:55
+
+
+Testing an IoT Solution
+05:27
+
+HANDS-ON LAB
+Monitor and Troubleshoot an IoT Solution
+1:30:00
+QUIZ
+Monitoring IoT Solutions
+15:00
+CHAPTER 10
+
+Railroad Security: Protecting Lines and Cargo
+29:03
+
+Unifying Security Management for IoT
+03:52
+
+Ensuring Device and Service Security
+04:30
+Implementing Defender for IoT
+05:41
+
+QUIZ
+IoT Security
+15:00
+CHAPTER 11
+
+Ticket to Ride: Course Conclusion
+3:38:23
+
+Course Summary
+07:00
+
+PRACTICE EXAM
+Azure AZ-220 Practice Exam 01
+1:45:00
+PRACTICE EXAM
+Azure AZ-220 Practice Exam 02
+1:45:00
+Waving from the Platform...
