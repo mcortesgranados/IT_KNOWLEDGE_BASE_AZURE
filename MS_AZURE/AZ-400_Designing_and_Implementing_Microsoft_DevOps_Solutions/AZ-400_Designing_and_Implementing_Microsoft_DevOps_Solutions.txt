@@ -1,0 +1,224 @@
+CHAPTER 01 Introduction
+01-01 Course Introduction
+01-02 About the Exam
+01-03 About the Course
+01-04 Building Our Scenario
+01-05 Microsoft Learn
+01-06 Course Updates
+
+CHAPTER 02 Analyzing Metrics
+02-01 Introduction: Analyzing Metrics
+02-02 Big Picture: What Is Site Reliability Engineering (SRE)?
+02-03 Exploring Metric Charts and Dashboards
+02-04 Implementing Application Health Checks
+02-05 Exploring System Load and Failure Conditions
+02-06 Understanding Baseline Metrics
+02-07 Discovering Application Insights Smart Detection and Dynamic Thresholds
+02-08 Deciding Which Dependencies to Set Alerts On
+02-09 Summary: Analyzing Metrics
+02-10 QUIZ QUIZ: AZ-400 Analyzing Metrics
+
+CHAPTER 03 Designing and Implementing a Source Control Strategy
+03-01 Introduction to Source Control
+03-02 Exploring Azure Repos
+03-03 Azure Repos Demo and Git Workflow
+03-04 Repository Sharing with Submodules
+03-05 Discovering Scalar
+03-06 Connecting to GitHub Using Azure Active Directory
+03-07 Incorporating Changelogs
+03-08 Summary: Designing and Implementing a Source Control Strategy
+03-09 HANDS-ON LAB Authenticate to Azure Repos Using an Authentication Token
+03-10 QUIZ QUIZ: AZ-400 Designing and Implementing a Source Control Strategy
+
+CHAPTER 04 Planning and Implementing Branching Strategies for the Source Code
+04-01 Introduction: Planning and Implementing Branching Strategies for the Source Code
+04-02 Configuring Branches
+04-03 Discovering Branch Strategies
+04-04 Understanding the Pull Request Workflow
+04-05 Exploring Code Reviews
+04-05 Exploring Static Code Analysis
+04-06 Using Pull Requests with Work Items
+04-07 Summary: Planning and Implementing Branching Strategies for the Source Code
+04-08 HANDS-ON LAB Configure Branch Policies in Azure Repos
+04-09 QUIZ QUIZ: AZ-400 Planning and Implementing Branching Strategies for the Source Code
+
+CHAPTER 05 Configuring Repositories
+05-01 Introduction: Configuring Repositories
+05-02 Using Git Tags to Organize Your Repository
+05-03 Handling Large Repositories
+05-04 Exploring Repository Permissions
+05-05 Removing Repository Data
+05-06 Recovering Repository Data
+05-07 Summary: Configuring Repositories
+05-08 QUIZ QUIZ: AZ-400 Configuring Repositories
+
+CHAPTER 06 Designing and Implementing Pipelines
+06-01 Introduction: Designing and Implementing Pipelines
+06-02 Getting Started with Azure Pipelines
+06-03 Azure Pipelines Demo
+06-04 Exploring Classic Pipelines
+06-05 Integrate Source Control with Azure DevOps Pipelines
+06-06 Understanding Build Agents and Parallelism
+06-07 Exploring Self-Hosted Build Agents
+06-08 Using Build Trigger Rules
+06-09 Incorporating Multiple Builds
+06-10 Exploring Containerized Agents
+06-11 GitHub Integration with Azure DevOps Pipelines
+06-12 Summary: Designing and Implementing Pipelines
+06-13 QUIZ QUIZ: AZ-400 Designing and Implementing Pipelines
+
+CHAPTER 07 Designing and Implementing a Package Management Strategy
+07-01 Introduction: Designing and Implementing a Package Management Strategy
+07-02 Discovering Package Management Tools
+07-03 Exploring Azure Artifacts
+07-04 Creating a Versioning Strategy for Artifacts
+07-05 Summary: Designing and Implementing a Package Management Strategy
+07-06 QUIZ QUIZ: Designing a Package Management Strategy
+
+CHAPTER 08 Designing and Building Pipeline Automation
+08-01 Introduction: Designing and Building Pipeline Automation
+08-02 Integrate External Services with Azure Pipelines
+08-03 Visual Studio Marketplace Demo
+08-04 Exploring Testing Strategies in Your Build
+08-05 Understanding Code Coverage
+08-06 Summary: Designing and Building Pipeline Automation
+08-07 HANDS-ON LAB Create and Test an ASP.NET Core App in Azure Pipelines
+08-08 HANDS-ON LAB Use Jenkins and Azure DevOps to Deploy a Node.js App
+08-09 QUIZ QUIZ: Designing Build Automation
+
+CHAPTER 09 Maintaining Pipelines
+09-01 Introduction: Maintaining Pipelines
+09-02 Discovering Pipeline Health Monitoring
+09-03 Improving Pipeline Performance and Cost Efficiency
+09-04 Exploring Pipeline Agent Analysis
+09-05 Summary: Maintaining Pipelines
+09-06 QUIZ QUIZ: Maintaining a Build Strategy
+
+CHAPTER 10 Designing a Process for Standardizing Builds Across Organization
+10-01 Introduction: Designing a Process for Standardizing Builds Across Organization
+10-02 Implementing YAML Templates
+10-03 Incorporating Variable Groups
+10-04 Summary: Designing a Process for Standardizing Builds Across Organization
+10-05 QUIZ QUIZ: AZ-400 Designing a Process for Standardizing Builds Across Organization
+
+CHAPTER 11 Designing and Implementing Infrastructure as Code (IaC)
+11-01 Introduction: Designing and Implementing Infrastructure as Code (IaC)
+11-02 Exploring Configuration Management
+11-03 Introducing PowerShell Desired State Configuration (DSC)
+11-04 Implementing PowerShell Desired State Configuration (DSC) for Application Infrastructure
+11-05 Discovering Azure Policy
+11-06 Exploring Azure Policy Guest
+11-07 Summary: Designing and Implementing Infrastructure as Code (IaC)
+11-08 HANDS-ON LAB Create a CI/CD Pipeline Using PowerShell DSC
+11-09 QUIZ QUIZ: AZ-400 Designing and Implementing Infrastructure as Code (IaC)
+
+CHAPTER 12 Developing Deployment Scripts and Templates
+12-01 Introduction: Developing Deployment Scripts and Templates
+12-02 Understanding Deployment Solution Options
+12-03 Exploring Infrastructure as Code: ARM vs. Terraform
+12-04 Discovering Azure Bicep
+12-05 Exploring Infrastructure as Code: PowerShell vs. CLI
+12-06 Linting ARM Templates
+12-07 Deploying a Database
+12-08 Understanding SQL Data Movement
+12-09 Introduction to Visual Studio App Center
+12-10 Exploring CDN and IoT Deployments
+12-11 Understanding Azure Stack and Sovereign Cloud Deployments
+12-12 Summary: Developing Deployment Scripts and Templates
+12-13 HANDS-ON LAB Build and Distribute an App in App Center
+12-14 HANDS-ON LAB Linting Your ARM Templates with Azure Pipelines
+12-15 HANDS-ON LAB Building Infrastructure with Azure Pipelines
+12-16 HANDS-ON LAB Deploy a Python App to an AKS Cluster Using Azure Pipelines
+12-17 QUIZ QUIZ: AZ-400 Developing Deployment Scripts and Templates
+
+CHAPTER 13 Implementing an Orchestration Automation Solution
+13-01 Introduction
+13-02 Exploring Release Strategies
+13-03 Exploring Stages, Dependencies, and Conditions
+13-04 Discovering Azure App Configuration
+13-05 Implementing Release Gates
+13-06 Summary
+13-07 QUIZ QUIZ: AZ-400 Implementing an Orchestration Automation Solution
+
+CHAPTER 14 Designing and Implementing Deployments
+14-01 Introduction: Designing and Implementing Deployments
+14-02 Exploring Release Strategies
+14-03 enting Deployment Slots Releases
+14-04 Implementing Load Balancer and Traffic Manager Releases
+14-05 Understanding Feature Toggles
+14-06 Summary: Designing and Implementing Deployments
+14-07 HANDS-ON LAB Deploy a Node.js App to a Deployment Slot in Azure DevOps
+14-08 QUIZ QUIZ: AZ-400 Planning the Deployment Environment Strategy
+
+CHAPTER 15 Designing and Implementing a Strategy for Managing Sensitive Information in Automation
+15-01 Introduction: Designing and Implementing a Strategy for Managing Sensitive Information in Automation
+15-02 Exploring Azure AD Privileged Identity Management (PIM)
+15-03 Exploring Azure AD Conditional Access
+15-04 Implementing Multi-Factor Authentication
+15-05 Working with Service Principals
+15-06 Working with Managed Identities
+15-07 Using Service Connections
+15-08 Incorporating Vaults
+15-09 Exploring Azure Pipelines Secrets
+15-10 Discovering GitHub Secrets
+15-11 Summary: Designing and Implementing a Strategy for Managing Sensitive Information in Automation
+15-12 HANDS-ON LAB Read a Secret from an Azure Key Vault in Azure Pipelines
+15-13 QUIZ QUIZ: AZ-400 Designing and Implementing a Strategy for Managing Sensitive Information in Automation
+
+CHAPTER 16 Automating Security and Compliance Scanning
+16-01 Introduction: Automating Security and Compliance Scanning
+16-02 Understanding Dependency Scanning
+16-03 Exploring Container Dependency Scanning
+16-04 Incorporating Security into Your Pipelines
+16-05 Scanning for Compliance with WhiteSource Bolt
+16-06 Scanning for Compliance with SonarQube
+16-07 Summary: Automating Security and Compliance Scanning
+16-08 QUIZ QUIZ: AZ-400 Automating Security and Compliance Scanning
+
+CHAPTER 17 Configuring Monitoring for a DevOps Environment
+17-01 Introduction: Configuring Monitoring for a DevOps Environment
+17-02 Discovering Logs in Azure
+17-03 Introducing Azure Monitor Logs
+17-04 Controlling Who Has Access to Your Logs
+17-05 Discovering Crash Analytics
+17-06 Introducing Distributed Tracing
+17-07 Understanding User Analytics with Application Insights and App Center
+17-08 Exploring Infrastructure Performance Indicators
+17-09 Configure Alerts for Pipeline Events with Slack and Teams
+17-10 Exploring Monitoring Feedback Loops
+17-11 Summary: Configuring Monitoring for a DevOps Environment
+17-12 HANDS-ON LAB Subscribe to Azure Pipelines Notifications from Microsoft Teams
+17-13 QUIZ QUIZ: AZ-400 Configuring Monitoring for a DevOps Environment
+
+CHAPTER 18 Configuring Communication and Collaboration
+18-01 Introduction: Configuring Communication and Collaboration
+18-02 Exploring Custom Dashboards
+18-03 Incorporating Team Analytics into Communications
+18-04 Communicating Costs
+18-05 Incorporating Work Items with Deployments
+18-06 Using GitHub with Azure Boards
+18-07 Summary: Configuring Communication and Collaboration
+18-08 HANDS-ON LAB Create a Scrum Project with an Epic, Features, and User Stories
+18-09 QUIZ QUIZ: AZ-400 Configuring Communication and Collaboration
+
+CHAPTER 19 Generating DevOps Process Documentation
+19-01 Introduction: Generating DevOps Process Documentation
+19-02 Onboarding New Employees
+19-03 Exploring Azure DevOps Dependency Tracking
+19-04 Exploring Azure Artifacts Versioning and Release Notes
+19-05 Summary: Generating DevOps Process Documentation
+19-06 QUIZ QUIZ: AZ-400 Generating DevOps Process Documentation
+
+CHAPTER 20 Automating Communication with Team Members
+20-01 Introduction: Automating Communication with Team Members
+20-02 Using Microsoft Teams for Communication
+20-03 Using Slack for Communication
+20-04 Approving GitHub Requests on Mobile Devices
+20-05 Summary: Automating Communication with Team Members
+20-06 QUIZ QUIZ: AZ-400 Automating Communication with Team Members
+
+CHAPTER 21 Conclusion Conclusion and What’s Next
+21-01 Microsoft Learn Conclusion
+21-02 PRACTICE EXAM AZ-400 Preparation Final Exam 1
+21-03 PRACTICE EXAM AZ-400 Preparation Final Exam 2
+21-04 PRACTICE EXAM AZ-400 Preparation Final Exam 3
