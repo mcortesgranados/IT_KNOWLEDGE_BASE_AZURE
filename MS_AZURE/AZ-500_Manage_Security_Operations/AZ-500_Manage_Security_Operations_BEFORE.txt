@@ -1,0 +1,98 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+01:45
+
+Course Introduction
+01:45
+
+CHAPTER 2
+
+Security Governance
+4:01:49
+
+Governing Azure Resources
+14:24
+
+
+
+Demo: Governing Resources with Azure Policy
+08:12
+HANDS-ON LAB
+Ensuring Compliance with Azure Policies
+2:00:00
+Deploying Secure Infrastructure
+11:07
+
+
+Managing Cloud Security Posture
+12:18
+Demo: Managing Cloud Security Posture
+09:21
+Customizing Security Policies
+09:50
+Securing Multi-Cloud Environments
+14:56
+
+Enabling Workload Protection
+13:21
+Responding to Security Governance Issues
+13:20
+
+QUIZ
+AZ-500: Security Governance
+15:00
+CHAPTER 3
+
+Security Operations
+2:41:00
+
+Introducing Monitoring on Azure
+10:30
+Configuring Monitoring on Azure
+13:11
+
+HANDS-ON LAB
+Monitor Storage for Security Events with Azure Monitor
+45:00
+Introducing Microsoft Sentinel
+06:10
+Collecting Security Events
+11:59
+
+Responding to Security Threats
+14:10
+HANDS-ON LAB
+Investigate Windows Security Events with Microsoft Sentinel
+45:00
+QUIZ
+AZ-500: Security Operations
+15:00
+CHAPTER 4
+
+Managing Secrets
+1:55:01
+
+Deploying Secret Storage Using Azure Key Vault
+10:32
+Managing Access to Azure Key Vault
+15:01
+
+Managing Azure Key Vault Secrets
+14:30
+
+Protecting Key Vault Secrets
+14:58
+HANDS-ON LAB
+Securely Access Script Secrets in Azure Key Vault
+45:00
+QUIZ
+AZ-500: Managing Secrets
+15:00
+CHAPTER 5
+
+Conclusion
+05:01
+
+Course Conclusion
