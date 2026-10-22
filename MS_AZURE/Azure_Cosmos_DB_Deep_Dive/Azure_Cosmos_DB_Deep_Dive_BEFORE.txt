@@ -1,0 +1,136 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+03:45
+
+Course Introduction
+02:53
+
+About the Training Architect
+00:52
+CHAPTER 2
+
+Azure Cosmos DB Introduction
+17:49
+
+What Is NoSQL?
+09:32
+What Is Azure Cosmos DB?
+08:17
+CHAPTER 3
+
+Azure Cosmos DB Architecture
+22:57
+
+Azure Cosmos DB Components
+04:36
+Available APIs
+04:16
+Partitions
+06:10
+Request Units
+07:55
+CHAPTER 4
+
+Creating Resources
+1:18:22
+
+Creating Resources in the Azure Portal
+07:43
+Creating Resources through ARM Templates
+10:39
+HANDS-ON LAB
+Provisioning Azure Cosmos DB Resources
+1:00:00
+CHAPTER 5
+
+Working with Data
+5:39:52
+
+Working with the Core (SQL) API
+09:11
+HANDS-ON LAB
+A Working Introduction to Azure Cosmos DB for NoSQL
+1:00:00
+Working with the MongoDB API
+06:38
+HANDS-ON LAB
+Working with the MongoDB API in Azure Cosmos DB
+1:00:00
+Working with the Azure Table API
+07:15
+HANDS-ON LAB
+Working with the Table API in Azure Cosmos DB
+1:00:00
+Working with the Cassandra API
+07:15
+HANDS-ON LAB
+Working with the Cassandra API in Azure Cosmos DB
+1:00:00
+Working with the Gremlin API
+09:33
+HANDS-ON LAB
+Working with the Gremlin API in Azure Cosmos DB
+1:00:00
+CHAPTER 6
+
+Programming
+1:21:12
+
+Server-side Programming
+12:45
+Application-side Programming
+02:52
+Serverless Programming
+05:35
+HANDS-ON LAB
+Implementing Stored Procedures in Azure Cosmos DB
+1:00:00
+CHAPTER 7
+
+Optimizing Azure Cosmos DB
+1:30:47
+
+Planning for Data Processing Rate
+13:15
+Partitioning Strategy
+06:59
+Indexing Strategy
+10:33
+HANDS-ON LAB
+Optimizing Azure Cosmos DB to Reduce Cost
+1:00:00
+CHAPTER 8
+
+Globally Distributing Data
+1:19:44
+
+Global Distribution Overview
+04:11
+Multiple-Region Writes
+05:14
+Consistency Levels
+10:19
+HANDS-ON LAB
+Configuring Azure Cosmos DB for Global Distribution
+1:00:00
+CHAPTER 9
+
+Protecting Data
+14:11
+
+Data Encryption
+02:38
+Backup and Restore
+03:39
+Ensuring Clean Data
+07:54
+CHAPTER 10
+
+Conclusion
+08:13
+
+Bringing It All Together
+05:47
+What's Next
