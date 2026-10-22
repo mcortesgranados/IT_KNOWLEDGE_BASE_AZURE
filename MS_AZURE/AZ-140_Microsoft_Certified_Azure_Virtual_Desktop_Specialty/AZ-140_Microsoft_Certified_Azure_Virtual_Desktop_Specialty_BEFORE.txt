@@ -1,0 +1,212 @@
+Course Outline
+CHAPTER 1
+
+Welcome to the Course
+05:50
+
+Course Introduction
+01:13
+
+About the Training Architect
+00:58
+About Labs
+00:53
+AZ-140 Course Readiness
+02:46
+CHAPTER 2
+
+Planning and Preparing for Azure Virtual Desktop
+1:02:29
+
+Section Introduction
+01:59
+Assessing Existing Environments
+06:13
+Designing for Host Pools and Session Hosts
+07:49
+Designing for Network Capacity
+10:19
+Designing for Authentication and Name Resolution
+05:34
+Designing for Storage and User Profiles
+06:39
+Preparing Your Environment for Azure Virtual Desktop
+05:29
+Section Review
+03:27
+QUIZ
+AZ-140 Chapter 02 Quiz
+15:00
+CHAPTER 3
+
+Implementing Azure Virtual Desktop
+1:07:23
+
+Section Introduction
+01:13
+Implementing ​​Azure Virtual Desktop in the Console
+04:32
+Implementing ​​Azure Virtual Desktop with PowerShell
+02:52
+Implementing ​​Azure Virtual Desktop with the Azure CLI
+02:28
+Implementing ​​Azure Virtual Desktop with an ARM Template
+02:54
+Implementing ​​a Validation Environment with Azure Virtual Desktop
+05:57
+Creating and Managing Session Host Images
+05:28
+
+Implementing an Azure Compute Gallery
+07:11
+Deploying a Session Host with a Custom Image
+02:48
+Implementing and Managing Application Groups
+07:53
+Implementing RemoteApp
+03:49
+Connecting to Azure Virtual Desktop
+03:48
+Section Review
+01:30
+QUIZ
+AZ-140 Chapter 03 Quiz
+15:00
+CHAPTER 4
+
+Migrating to Azure Virtual Desktop
+19:57
+
+Azure Virtual Desktop Migration with Azure Migrate
+02:43
+Migrating Existing User Profiles to FSLogix Profile Containers
+02:14
+QUIZ
+AZ-140 Chapter 04 Quiz
+15:00
+CHAPTER 5
+
+Optimizing Azure Virtual Desktop
+1:01:40
+
+Section Introduction
+01:02
+Optimizing Session Host Capacity and Performance
+11:36
+Expanding a Host Pool
+04:06
+Using FSLogix
+14:13
+Implementing FSLogix Profile and Office Containers
+05:33
+FSLogix Cloud Cache
+05:07
+Universal Print
+04:08
+Section Review
+00:55
+QUIZ
+AZ-140 Chapter 05 Quiz
+15:00
+CHAPTER 6
+
+Managing Access and Security
+56:46
+
+Section Introduction
+00:57
+Role-Based Access Control
+02:22
+Securing Azure Virtual Desktop User Identities
+05:06
+Azure Virtual Desktop Data Security
+08:22
+Securing Azure Virtual Desktop with Network Security Groups
+03:59
+Using Azure Firewall to Protect Azure Virtual Desktop
+06:20
+Securing Session Hosts and Applications
+09:09
+Update Management
+02:54
+Section Review
+02:37
+QUIZ
+AZ-140 Chapter 06 Quiz
+15:00
+CHAPTER 7
+
+Managing User Environments and Applications
+46:46
+
+Section Introduction
+00:59
+Remote Desktop Properties
+04:27
+Introduction to MSIX App Attach
+05:22
+
+
+Deploying Applications Using MSIX App Attach
+04:12
+FSLogix Application Masking
+09:31
+Microsoft Applications on Azure Virtual Desktop
+05:11
+Section Review
+02:04
+QUIZ
+AZ-140 Chapter 07 Quiz
+15:00
+CHAPTER 8
+
+Managing and Maintaining Azure Virtual Desktop
+41:32
+
+Section Introduction
+00:46
+Managing Azure Virtual Desktop Session Hosts with Azure Bastion
+04:46
+Business Continuity and Disaster Recovery for Azure Virtual Desktop
+05:55
+Implementing Autoscaling of Session Hosts
+05:07
+Azure Virtual Desktop Session Host Drain Mode
+03:20
+Implementing Start Virtual Machine on Connect
+05:33
+Section Review
+01:05
+QUIZ
+AZ-140 Chapter 08 Quiz
+15:00
+CHAPTER 9
+
+Monitoring and Troubleshooting Azure Virtual Desktop
+37:17
+
+Azure Virtual Desktop Logging and Monitoring
+13:00
+Troubleshooting Session Host Creation
+07:18
+Azure Virtual Desktop Client and Service Connections
+01:59
+QUIZ
+AZ-140 Chapter 09 Quiz
+15:00
+CHAPTER 10
+
+Wrap-Up and Practice
+1:19:51
+
+Course Summary
+12:01
+About the Exam
+07:00
+PRACTICE EXAM
+AZ-140 Practice Exam 1
+30:00
+PRACTICE EXAM
+AZ-140 Practice Exam 2
+30:00
+Conclusion and What’s Next
