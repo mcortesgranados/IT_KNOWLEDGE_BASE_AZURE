@@ -1,0 +1,458 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+35:17
+
+Course Introduction
+04:02
+
+About the Training Architect
+01:23
+Reviewing Windows Server Fundamentals
+14:52
+QUIZ
+Windows Server Fundamentals
+15:00
+CHAPTER 2
+
+Preparing for Active Directory Domain Services
+1:42:09
+
+Reviewing Active Directory Domain Services
+06:38
+Reviewing Windows Server DNS Fundamentals
+11:41
+
+
+
+Managing Windows Server DNS
+12:41
+HANDS-ON LAB
+Install and Manage Windows DNS Server
+45:00
+Implementing Domain Name System Security Extensions (DNSSEC) on Windows Server
+11:09
+QUIZ
+Preparing for Active Directory Domain Services
+15:00
+CHAPTER 3
+
+Implementing Active Directory Domain Services
+6:20:41
+
+Section Introduction
+01:49
+Understanding Active Directory Forests
+10:13
+HANDS-ON LAB
+Deploy a New Active Directory Forest
+45:00
+Understanding Domains and Domain Controllers
+13:14
+Deploying Domain Controllers On-Premises
+12:12
+HANDS-ON LAB
+Deploy an Additional Active Directory Domain Controller in an Existing Forest
+30:00
+Exploring Active Directory Sites and Replication
+14:53
+HANDS-ON LAB
+Deploy a New Domain Controller in a New Active Directory Site
+45:00
+Deploying Read-Only Domain Controllers (RODCs)
+07:59
+HANDS-ON LAB
+Deploy a Read-Only Domain Controller (RODC)
+45:00
+Exploring Flexible Single Master Operations (FSMO) Roles and the Global Catalog
+14:01
+HANDS-ON LAB
+Troubleshoot Flexible Single Master Operations (FSMO) Roles
+45:00
+Implementing Active Directory Trusts
+13:07
+HANDS-ON LAB
+Create an Active Directory Resource Forest Trust
+30:00
+HANDS-ON LAB
+Create an Active Directory External Trust with Selective Authentication
+30:00
+Section Conclusion
+08:13
+QUIZ
+Implementing Active Directory Domain Services
+15:00
+CHAPTER 4
+
+Managing Active Directory Domain Services Security Principals
+2:18:05
+
+Exploring Users and Groups
+09:51
+Managing Users and Groups
+08:18
+HANDS-ON LAB
+Manage Active Directory Domain Services Users and Groups
+45:00
+Securing Service Accounts
+14:56
+HANDS-ON LAB
+Create and Deploy a Group Managed Service Account (gMSA)
+45:00
+QUIZ
+Managing Active Directory Domain Services Security Principals
+15:00
+CHAPTER 5
+
+Modernizing with Hybrid Identity
+55:59
+
+Integrating Active Directory Domain Services with Azure Active Directory
+08:41
+Implementing and Managing Azure AD Connect Synchronization
+14:50
+Implementing Azure AD Connect Cloud Sync
+09:17
+Enabling Azure Active Directory Single Sign-On
+08:11
+
+QUIZ
+Modernizing with Hybrid Identity
+15:00
+CHAPTER 6
+
+Exploring Hybrid Networking Foundations
+3:20:36
+
+Connecting Hybrid Networks
+15:30
+HANDS-ON LAB
+Configuring an Azure VNet-to-VNet VPN Gateway (v2)
+1:45:00
+Introducing DNS on Azure
+11:53
+Providing Hybrid Name Resolution
+08:13
+
+HANDS-ON LAB
+Integrate On-Premises Workloads with Azure Private Link
+45:00
+QUIZ
+Hybrid Networking Foundations
+15:00
+CHAPTER 7
+
+Deploying and Managing Azure Virtual Machines
+1:14:52
+
+Deploying Azure Virtual Machines
+14:54
+
+
+HANDS-ON LAB
+Create a Virtual Machine and Connect to It Using Azure Bastion
+30:00
+Managing Azure Virtual Machines
+14:58
+QUIZ
+Deploying and Managing Azure Virtual Machines
+15:00
+CHAPTER 8
+
+Deploying Active Directory Domain Services on Azure
+2:26:02
+
+Section Introduction
+01:19
+Introducing Active Directory Domain Services on Azure
+09:33
+Implementing Azure Active Directory Domain Services
+15:00
+
+
+Performing Domain Join on Azure
+15:01
+
+Managing Azure Active Directory Domain Services
+09:55
+Deploying Domain Controllers on Azure Virtual Machines
+14:56
+HANDS-ON LAB
+Deploy an Active Directory Domain Controller on an Azure Virtual Machine
+45:00
+Section Conclusion
+05:18
+QUIZ
+Deploying Active Directory Domain Services on Azure
+30:00
+CHAPTER 9
+
+Configuring Group Policy
+3:11:34
+
+Section Introduction
+01:42
+Implementing Group Policy
+14:40
+Understanding Group Policy Inheritance
+11:28
+Understanding Group Policy Filtering
+08:36
+HANDS-ON LAB
+Implement Group Policy Inheritance and Filtering
+45:00
+Leveraging Group Policy Administrative Templates
+09:07
+Leveraging Group Policy Preferences
+12:31
+HANDS-ON LAB
+Configure Group Policy Preferences
+45:00
+Managing Group Policy in Azure Active Directory Domain Services
+10:17
+
+Section Conclusion
+03:13
+QUIZ
+Configuring Group Policy
+30:00
+CHAPTER 10
+
+Managing Windows Server
+4:48:14
+
+Section Introduction
+04:38
+Configuring PowerShell Remoting
+15:01
+
+HANDS-ON LAB
+Configure PowerShell Remoting
+30:00
+Implementing Just Enough Administration (JEA)
+14:35
+HANDS-ON LAB
+Configure Just Enough Administration (JEA)
+1:00:00
+Fixing the Second Hop Problem
+12:58
+HANDS-ON LAB
+Configure Resource-Based Kerberos Constrained Delegation for PowerShell Remoting
+30:00
+Deploying Windows Admin Center
+12:21
+Integrating Windows Admin Center with Azure
+09:33
+HANDS-ON LAB
+Deploy and Configure Windows Admin Center
+30:00
+Introducing Azure Arc
+08:38
+HANDS-ON LAB
+Onboard an On-Premises Windows Virtual Machine into Azure Arc
+15:00
+Monitoring and Securing Windows Server with Hybrid Technologies
+11:13
+
+Section Conclusion
+04:17
+QUIZ
+Managing Windows Server
+30:00
+CHAPTER 11
+
+Configuring and Automating Windows Server
+3:51:34
+
+Section Introduction
+00:55
+Introducing Azure Automation
+10:39
+Leveraging Hybrid Process Automation
+14:56
+HANDS-ON LAB
+Automate Hybrid Processes Using Azure Automation
+45:00
+Implementing Desired State Configuration (DSC) with Azure Automation: Part 1
+13:37
+Implementing Desired State Configuration (DSC) with Azure Automation: Part 2
+09:24
+HANDS-ON LAB
+Using Azure Automation State Configuration (DSC)
+45:00
+Automating Microsoft Update Management
+14:12
+HANDS-ON LAB
+Configure Update Management Using Azure Automation
+30:00
+Exploring Azure Policy Guest Configuration
+11:56
+
+
+
+
+Section Conclusion
+05:55
+QUIZ
+Configuring and Automating Windows Server
+30:00
+CHAPTER 12
+
+Managing Hyper-V Virtual Machines
+2:41:47
+
+Section Introduction
+02:32
+Introducing Hyper-V
+10:18
+Managing Hyper-V Networking
+10:32
+HANDS-ON LAB
+Configure Hyper-V Switch Embedded Teaming
+30:00
+Configuring Hyper-V Virtual Machine Storage
+14:08
+Managing Hyper-V Virtual Machines
+14:42
+
+
+Enabling Nested Virtualization
+13:30
+
+HANDS-ON LAB
+Configure Nested Virtualization on an Azure Virtual Machine
+30:00
+Section Conclusion
+06:05
+QUIZ
+Managing Hyper-V Virtual Machines
+30:00
+CHAPTER 13
+
+Deploying and Managing Windows Containers
+1:28:19
+
+Introducing Windows Containers
+13:20
+Managing Windows Server Containers
+14:59
+HANDS-ON LAB
+Create and Run a Windows Server Container Image on Windows Server
+45:00
+QUIZ
+Deploying and Managing Windows Containers
+15:00
+CHAPTER 14
+
+Managing IP Addressing On-Premises
+2:34:17
+
+Installing a Dynamic Host Configuration Protocol (DHCP) Server on Windows Server
+15:10
+Managing Windows Dynamic Host Configuration Protocol (DHCP) Servers
+14:50
+HANDS-ON LAB
+Deploy and Configure Windows Dynamic Host Configuration Protocol (DHCP) Servers
+45:00
+Implementing IP Address Management (IPAM): Part 1
+08:52
+Implementing IP Address Management (IPAM): Part 2
+10:25
+
+
+
+HANDS-ON LAB
+Implement IP Address Management (IPAM) on Windows Server
+45:00
+QUIZ
+Managing IP Addressing On-Premises
+15:00
+CHAPTER 15
+
+Providing Hybrid Network Connectivity
+1:45:49
+
+Section Introduction
+01:11
+Providing Remote Access Using Windows Server
+10:19
+Implementing Network Policy Server (NPS)
+07:13
+Providing Access to Legacy Applications: Part 1
+13:23
+Providing Access to Legacy Applications: Part 2
+13:08
+
+Implementing Azure Relay
+09:21
+
+Integrating On-Premises Virtual Machines and Azure Virtual Networks
+12:01
+Section Conclusion
+09:13
+QUIZ
+Providing Hybrid Network Connectivity
+30:00
+CHAPTER 16
+
+Configuring and Managing Windows Server Storage
+2:12:30
+
+Section Introduction
+01:39
+Reviewing Windows Storage Concepts
+11:16
+Improving Resiliency for Windows File Storage
+12:09
+Reviewing Windows Server File Sharing
+12:15
+Using File Server Resource Manager (FSRM)
+11:35
+Distributing Data between Windows File Servers
+12:03
+Providing High Availability for Windows File Shares
+11:48
+Optimizing Windows File Server Capacity
+11:30
+Enhancing Windows File Server Share Performance
+11:29
+Section Conclusion
+06:46
+QUIZ
+Configuring and Managing Windows Server Storage
+30:00
+CHAPTER 17
+
+Configuring Hybrid File Synchronization
+48:56
+
+Introducing Azure Files
+13:50
+Implementing and Managing Azure File Sync
+15:01
+Migrating from Distributed File System (DFS) to Azure File Sync
+05:05
+QUIZ
+Configuring Hybrid File Synchronization
+15:00
+CHAPTER 18
+
+Conclusion
+4:07:31
+
+Preparing for the Exam
+05:39
+
+
+
+Course Conclusion
+01:52
+PRACTICE EXAM
+AZ-800 Administering Windows Server Hybrid Core Infrastructure - Practice Exam 1
+1:30:00
+PRACTICE EXAM
+AZ-800 Administering Windows Server Hybrid Core Infrastructure - Practice Exam 2
+1:30:00
+PRACTICE EXAM
+AZ-800 Administering Windows Server Hybrid Core Infrastructure - Practice Exam 3
