@@ -1,0 +1,179 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+03:46
+
+Course Introduction
+02:07
+Housekeeping Items
+01:39
+
+
+
+
+
+CHAPTER 2
+
+Application Development in Azure: The Big Picture
+37:13
+
+Introduction
+02:07
+What Is App Dev in Azure, and Why Do I Care?
+09:58
+
+The 30,000-Foot View
+07:35
+Demo: A Lap around the Azure Portal
+14:25
+
+Summary
+03:08
+CHAPTER 3
+
+Azure at Your Service: What’s on the Menu?
+08:56
+
+Introduction
+01:08
+Prologue
+06:48
+
+Summary
+01:00
+CHAPTER 4
+
+Azure DevOps: Where's Our Code?
+33:48
+
+Introduction
+00:59
+The Story of an App: It All Starts with an Idea
+11:08
+Then Comes the Code!
+07:03
+This Will All Work the First Time, Right?
+11:36
+Summary
+03:02
+CHAPTER 5
+
+Learning to Be a Good Host: Starting with the Basics
+2:02:22
+
+Introduction
+02:03
+The Story of an App: Where Does This Thing Go?
+09:53
+The Deployment Experience in Azure
+12:42
+Deploying Azure App Services
+09:16
+
+Demo: Activating Our First Service
+11:40
+Understanding VMs
+12:12
+
+
+
+
+Demo: Starting Our First Virtual Machine
+15:01
+Understanding Azure Functions
+13:29
+
+Demo: Creating Our First Function
+11:52
+Understanding Static Web Apps
+07:08
+Demo: Static Web App Simplicity
+08:54
+Summary
+08:12
+CHAPTER 6
+
+Learning to Be a Good Host: More Advanced Concepts
+44:01
+
+Introduction
+01:04
+Containing Your Hosting Solution
+14:08
+
+Let Me Feel the Fiber of Your Service Fabric
+15:00
+Need Some Java? Let’s Spring Over into Azure
+05:05
+
+Serve Me up a Batch of Azure
+05:35
+Summary
+03:09
+CHAPTER 7
+
+It’s All about the Data
+26:32
+
+Introduction
+01:12
+The Story of an App: Worldbuilding with Data
+09:03
+Demo: Select * from HowToCreateAnAzureSQLDatabase
+14:11
+
+Summary
+02:06
+CHAPTER 8
+
+Advanced Application Enhancements
+34:18
+
+Introduction
+00:52
+Demo: The Story of an App - Configuring Your Characters
+17:52
+Demo: Faster! Faster! Faster!
+13:48
+Summary
+01:46
+CHAPTER 9
+
+Moving through the Network
+35:11
+
+Introduction
+01:07
+The Story of an App: Monitoring Your Success
+12:44
+Managing Your APIs
+09:47
+Gating Your Application
+07:49
+Summary
+03:44
+CHAPTER 10
+
+Azure the Other Way: Starting at the IDE
+23:31
+
+Introduction
+00:45
+I before D and Then Comes the E
+09:02
+Demo: Walk like a Developer
+11:47
+Summary
+01:57
+CHAPTER 11
+
+Conclusion
+22:29
+
+Course Summary
+06:31
+Conclusion and What's Next
+00:58
+QUIZ
+Application Development on Microsoft Azure
