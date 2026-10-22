@@ -1,0 +1,337 @@
+CHAPTER 01 Course Introduction
+01-01 Course Introduction
+
+01-02 Course Overview
+
+CHAPTER 02 Design and Implement Private IP Addressing for VNets
+02-01 Section Introduction
+
+02-02 Azure Networking Concepts
+
+02-03 IP Addressing
+
+02-04 Demo Create a Virtual Network and Subnets
+
+02-05 Demo Assign IP Addresses to Azure VNet Resources
+
+02-06 Subnet Delegation
+
+02-07 Section Conclusion
+
+02-08 HANDS-ON LAB Create a Virtual Network in Azure Using Azure CLI
+
+02-09 HANDS-ON LAB Creating Multiple Subnets in Azure
+
+02-10 QUIZ QUIZ: Design and Implement Private IP Addressing for VNets
+CHAPTER 03 Design and Implement Name Resolution
+03-01 Section Introduction
+
+03-02 Azure DNS Concepts
+
+03-03 Designing Public DNS Zones
+
+03-04 Demo Public DNS Zones
+
+03-05 Designing Private DNS Zones
+
+03-06 Integrate Private DNS with an Azure VNet
+
+03-07 Demo Private DNS Zones
+
+03-08 Section Conclusion
+
+03-09 HANDS-ON LAB Implement and Configure Private DNS in Azure
+
+03-10 QUIZ QUIZ: Design and Implement Name Resolution
+CHAPTER 04 Design, Implement, and Manage VNet Routing
+04-01 Section Introduction
+
+04-02 Azure VNet Routing Concepts
+
+04-03 Creating User-Defined Routes (UDRs)
+
+04-04 Demo Create Custom Routes in a Virtual Network
+
+04-05 Understanding Forced Tunneling
+
+04-06 Azure Route Server
+
+04-07 Section Conclusion
+
+04-08 HANDS-ON LAB Implement Custom Network Routes in Azure Virtual Network
+
+04-09 QUIZ QUIZ: Design, Implement, and Manage VNet Routing
+CHAPTER 05 Design and Implement Cross-VNet Connectivity
+05-01 Section Introduction
+
+05-02 Azure Network Peering Concepts
+
+05-03 Enabling Traffic Across Multiple Networks
+
+05-04 Hub and Spoke Network Topology
+
+05-05 Demo Connect VNets with Network Peering
+
+05-06 Section Conclusion
+
+05-07 HANDS-ON LAB Connect Hub and Spoke Networks with VNet Peering
+
+05-08 QUIZ QUIZ: Design and Implement Cross-VNet Connectivity
+CHAPTER 06 Implement and Manage Network Security Groups (NSGs)
+06-01 Section Introduction
+
+06-02 Azure Network Security Concepts
+
+06-03 Network Security Groups - Part 1
+
+06-04 Network Security Groups - Part 2
+
+06-05 Demo Implement a Network Security Group
+
+06-06 Application Security Groups
+
+06-07 Demo Implement an Application Security Group
+
+06-08 Network Security Group Flow Logs
+
+06-09 Demo Network Security Group Flow Logs
+
+06-10 Section Conclusion
+
+06-11 HANDS-ON LAB Restricting Access to Azure Virtual Network Resources
+
+06-12 HANDS-ON LAB Create an Application Security Group for Two Web Servers in Azure
+
+06-13 QUIZ QUIZ: Implement and Manage Network Security Groups
+CHAPTER 07 Design, Implement, and Manage an Azure Firewall Deployment
+07-01 Section Introduction
+
+07-02 Azure Firewall Concepts
+
+07-03 Demo Implement Azure Firewall
+
+07-04 Azure Firewall Rules and Policies
+
+07-05 Demo Implement Azure Firewall Rules - Part 1
+
+07-06 Demo Implement Azure Firewall Rules - Part 2
+
+07-07 Demo Implement Azure Firewall Policies - Part 1
+
+07-08 Demo Implement Azure Firewall Policies - Part 2
+
+07-09 Section Conclusion
+
+07-10 QUIZ QUIZ: Design, Implement, and Manage an Azure Firewall Deployment
+CHAPTER 08 Design, Implement, and Manage a Site-to-Site VPN Connection
+08-01 Section Introduction
+
+08-02 Azure Hybrid Connectivity Concepts
+
+08-03 Site-to-Site (S2S) VPN Connections
+
+08-04 Plan for Highly Available VPN Networks
+
+08-05 Demo Implement a Site-to-Site VPN Connection (Part 1)
+
+08-06 Demo Implement a Site-to-Site VPN Connection (Part 2)
+
+08-07 Troubleshoot S2S VPN Connectivity
+
+08-08 Section Conclusion
+
+08-09 HANDS-ON LAB Configuring an Azure VNet-to-VNet VPN Gateway (v2)
+
+08-10 QUIZ QUIZ: Design, Implement, and Manage a Site-to-Site VPN Connection
+CHAPTER 09 Design, Implement, and Manage a Point-to-Site VPN Connection
+09-01 Section Introduction
+
+09-02 Point-to-Site (P2S) VPN Concepts
+
+09-03 P2S VPN Authentication Options
+
+09-04 Demo Implement a Point-to-Site VPN Connection
+
+09-05 Troubleshoot P2S VPN Connectivity
+
+09-06 Section Conclusion
+
+09-07 HANDS-ON LAB Create P2S VPN Connection on Azure
+
+09-08 QUIZ QUIZ: Design, Implement, and Manage a Point-to-Site VPN Connection
+CHAPTER 10 Design, Implement, and Manage Azure ExpressRoute
+10-01 Section Introduction
+
+10-02 Azure ExpressRoute Concepts
+
+10-03 ExpressRoute Models
+
+10-04 ExpressRoute Global Reach and FastPath
+
+10-05 Implement an ExpressRoute Gateway
+
+10-06 Demo Implementing ExpressRoute
+
+10-07 Troubleshoot ExpressRoute Connection Issues
+
+10-08 Section Conclusion
+
+10-09 QUIZ QUIZ: Design, Implement, and Manage Azure ExpressRoute
+CHAPTER 11 Design and Implement an Azure Virtual WAN Architecture
+11-01 Section Introduction
+
+11-02 Azure Virtual WAN Concepts
+
+11-03 Understanding Virtual Hub Routing
+
+11-04 Integrate Virtual WAN with Hybrid Networks
+
+11-05 Integrate Azure Firewall and Third-Party NVAs
+
+11-06 Demo Implement Virtual WAN
+
+11-07 Section Conclusion
+
+11-08 HANDS-ON LAB Connect Multiple Virtual Networks with Azure Virtual WAN
+
+11-09 QUIZ QUIZ: Design and Implement an Azure Virtual WAN Architecture
+CHAPTER 12 Design and Implement an Azure Load Balancer
+12-01 Section Introduction
+
+12-02 Azure Load Balancing Concepts
+
+12-03 Azure Load Balancer
+
+12-04 Demo Create and Configure an Azure Load Balancer
+
+12-05 Demo Cross-Region Load Balancing
+
+12-06 Section Conclusion
+
+12-07 QUIZ QUIZ: Design and Implement an Azure Load Balancer
+CHAPTER 13 Design and Implement Azure Application Gateway
+13-01 Section Introduction
+
+13-02 Application Gateway Concepts
+
+13-03 Application Gateway Components
+
+13-04 Demo Implement Application Gateway - Part 1
+
+13-05 Demo Implement Application Gateway - Part 2
+
+13-06 Section Conclusion
+
+13-07 HANDS-ON LAB Implement an Azure Application Gateway
+
+13-08 QUIZ QUIZ: Design and Implement Azure Application Gateway
+CHAPTER 14 Implement Azure Front Door
+14-01 Section Introduction
+
+14-02 Azure Front Door Concepts
+
+14-03 Front Door Routing Rules
+
+14-04 Demo Implement Azure Front Door - Part 1
+
+14-05 Demo Implement Azure Front Door - Part 2
+
+14-06 Demo Map a Custom Domain to Front Door
+
+14-07 Section Conclusion
+
+14-08 QUIZ QUIZ: Implement Azure Front Door
+CHAPTER 15 Implement an Azure Traffic Manager Profile
+15-01 Section Introduction
+
+15-02 Traffic Manager Concepts
+
+15-03 Configure Traffic Manager Routing
+
+15-04 Demo Implement Traffic Manager
+
+15-05 Section Conclusion
+
+15-06 HANDS-ON LAB Implement an Azure Traffic Manager Environment
+
+15-07 QUIZ QUIZ: Implement an Azure Traffic Manager Profile
+CHAPTER 16 Design and Implement an Azure Virtual Network NAT
+16-01 Section Introduction
+
+16-02 Virtual Network NAT Concepts
+
+16-03 Demo Virtual Network NAT
+
+16-04 Section Conclusion
+
+16-05 HANDS-ON LAB Implement Azure Virtual Network NAT
+
+16-06 QUIZ QUIZ: Design and Implement an Azure Virtual Network NAT
+CHAPTER 17 Implement a Web Application Firewall (WAF) Deployment
+17-01 Section Introduction
+
+17-02 Web Application Firewall Concepts
+
+17-03 Demo Implement a Web Application Firewall
+
+17-04 Section Conclusion
+
+17-05 HANDS-ON LAB Implement a Web Application Firewall in Azure
+
+17-06 QUIZ QUIZ: Implement a Web Application Firewall (WAF) Deployment
+CHAPTER 18 Design and Implement Service Endpoints
+18-01 Section Introduction
+
+18-02 Service Endpoint Concepts
+
+18-03 Demo Configure Service Endpoints
+
+18-04 Understanding Service Tags
+
+18-05 Section Conclusion
+
+18-06 QUIZ QUIZ: Design and Implement Service Endpoints
+CHAPTER 19 Design and Implement Azure Private Link Service and Azure Private Endpoint
+19-01 Section Introduction
+
+19-02 Understanding Private Endpoints and Private Link
+
+19-03 Understanding Private Link Service
+
+19-04 Demo Private Link Configuration
+
+19-05 Section Conclusion
+
+19-06 HANDS-ON LAB Configure Azure Private Link for Blob Storage
+
+19-07 QUIZ QUIZ: Design and Implement Azure Private Link Service and Azure Private Endpoint
+CHAPTER 20 Configure VNet Integration for Dedicated Platform as a Service (PaaS) Services
+20-01 Configure App Service for VNet Integration
+
+20-02 Configure Azure Kubernetes Service (AKS) for Regional VNet Integration
+
+20-03 QUIZ QUIZ: Configure VNet Integration for Dedicated Platform as a Service (PaaS) Services
+CHAPTER 21 Monitor Networks
+21-01 Section Introduction
+
+21-02 Network Watcher
+
+21-03 Demo Implementing Network Watcher
+
+21-04 Configuring Traffic Analytics
+
+21-05 Configuring Connection Monitor
+
+21-06 Monitoring Networks with Azure Monitor
+
+21-07 Section Conclusion
+
+21-08 QUIZ QUIZ: Monitor Networks
+CHAPTER 22 Course Wrap-Up
+22-01 Exam Overview
+
+22-02 Course Conclusion
+
+22-03 PRACTICE EXAM Microsoft Certified: Azure Network Engineer Associate - Practice Exam 1
+22-04 PRACTICE EXAM Microsoft Certified: Azure Network Engineer Associate - Practice Exam 2
+22-05 PRACTICE EXAM Microsoft Certified: Azure Network Engineer Associate - Practice Exam 3
