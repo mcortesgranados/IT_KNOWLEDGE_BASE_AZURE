@@ -1,0 +1,184 @@
+
+Next Lessons
+ Course Introduction thumbnail
+01:56
+Course Introduction
+
+CHAPTER 1.1
+
+Introduction: Implement Data Security thumbnail
+01:03
+Introduction: Implement Data Security
+
+CHAPTER 2.1
+
+ Defense in Depth thumbnail
+04:41
+Defense in Depth
+
+CHAPTER 2.2
+
+Course Outline
+CHAPTER 1
+
+Introduction
+01:56
+
+Course Introduction
+01:56
+
+CHAPTER 2
+
+Implement Data Security
+1:40:52
+
+Introduction: Implement Data Security
+01:03
+Defense in Depth
+04:41
+
+
+Implement Data Masking
+06:38
+HANDS-ON LAB
+Implement Data Masking in Azure
+15:00
+Encrypt Data at Rest and in Motion
+07:44
+
+
+Implement Row-Level and Column-Level Security
+08:56
+Securing Azure Data Lake through RBAC and ACLs
+06:10
+Implement a Data Retention Policy
+06:18
+
+Implement Secure Endpoints
+08:45
+
+
+
+Implement Resource Tokens in Azure Databricks
+04:50
+Load a DataFrame with Sensitive Information
+03:57
+Write Encrypted Data to Tables or Parquet Files
+03:09
+Manage Sensitive Information
+04:06
+Recapping Important Concepts Related to Implementing Data Security
+04:35
+
+QUIZ
+Implement Data Security
+15:00
+CHAPTER 3
+
+Monitor Data Storage and Data Processing
+1:09:17
+
+What Is the Goal of Monitoring?
+04:11
+Implement Logging Used by Azure Monitor
+05:15
+Configure Monitoring Services
+05:17
+Monitor Stream Processing
+04:49
+
+Measure Performance of Data Movement
+03:38
+Monitor and Update Statistics about Data across a System
+07:12
+Monitor Data Pipeline Performance
+05:36
+Measure Query Performance
+02:38
+
+Schedule and Monitor Pipeline Tests
+02:34
+Interpret Azure Monitor Metrics and Logs
+03:46
+Implement a Pipeline Alert Strategy
+04:46
+Recapping Monitoring Data Storage and Data Processing
+04:35
+QUIZ
+Monitor Data Storage and Data Processing
+15:00
+CHAPTER 4
+
+Optimize and Troubleshoot Data Storage and Data Processing
+42:11
+
+Compact Small Files
+07:15
+Handle Skew in Data
+02:58
+Handle Data Spill
+02:33
+Optimize Resource Management
+01:58
+Tune Queries by Using Indexers
+02:04
+Tune Queries by Using Cache
+02:44
+Troubleshoot a Failed Spark Job
+01:26
+Troubleshoot a Failed Pipeline Run
+02:58
+Recapping Optimizing and Troubleshooting Data Storage and Data Processing
+03:15
+QUIZ
+Optimize and Troubleshoot Data Storage and Data Processing
+15:00
+CHAPTER 5
+
+Conclusion
+06:03
+
+Course Summary
+02:28
+Conclusion and What's Next
+00:51
+About the Exam
+02:44
+
+
+Your Progress
+0%
+
+COMPLETE
+
+Lesson Completion
+
+0%
+
+Lab Completion
+
+0 of 1
+
+Quiz Completion
+
+0 of 3
+
+NEW
+
+Learning Scheduler
+Tell us how many hours per week you can study.
+
+4
+22 Nov.
+HRS PER WEEKCOMPLETION DATE
+MEMBERS ONLY
+
+Cloud Playground
+Cloud along in real time. This course supports Cloud Playground sandbox environments, so you can learn by doing in a real cloud environment.
+
+Certificate of Completion
+Complete at least 80% of the course before you can request a certificate of completion.
+
+Rate this course
+Loved it? Room for improvement? Let us know!
+
