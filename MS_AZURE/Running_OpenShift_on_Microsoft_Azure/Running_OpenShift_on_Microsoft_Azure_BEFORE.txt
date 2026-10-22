@@ -1,0 +1,62 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+03:25
+
+Course Introduction
+01:27
+
+About the Training Architect
+01:58
+CHAPTER 2
+
+Create an OpenShift Cluster on Azure
+1:27:35
+
+Prerequisites for Deploying OpenShift on Azure
+10:07
+Deploy OpenShift Resources on Azure
+07:54
+Install and Connect
+09:34
+HANDS-ON LAB
+Prerequisites to Deploying OpenShift on Azure
+30:00
+HANDS-ON LAB
+Deploying OpenShift Resources to Azure
+30:00
+CHAPTER 3
+
+Post-Deployment Tasks
+7:13:41
+
+Configure Single Sign-On
+04:02
+Monitor OpenShift with Azure
+03:22
+Configure Metrics and Logging
+04:13
+Install Open Service Broker for Azure
+02:04
+HANDS-ON LAB
+Monitoring OpenShift on Azure Using the Log Analytics Agent
+3:30:00
+HANDS-ON LAB
+Enabling OpenShift Metrics and Logging on Azure
+3:30:00
+CHAPTER 4
+
+Getting to Know OpenShift
+10:58
+
+Command Line Walkthrough
+04:50
+Create Your First App
+06:08
+CHAPTER 5
+
+Final Steps
+01:14
+
+Next Steps
