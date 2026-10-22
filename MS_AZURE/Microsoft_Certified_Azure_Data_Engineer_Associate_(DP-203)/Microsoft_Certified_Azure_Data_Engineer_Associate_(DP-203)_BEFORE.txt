@@ -1,0 +1,365 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+14:52
+
+Course Introduction
+01:43
+
+About the Training Architect
+01:12
+About the Exam
+07:05
+Programming Background Needed
+04:52
+
+
+
+CHAPTER 2
+
+Data Engineering Crash Course
+1:18:02
+
+Section Introduction
+03:41
+The View from Mars: Data Engineering at a Glance
+06:36
+What Does Azure Have to Offer?
+05:00
+Introduction to Data Lakes
+08:46
+Introduction to Azure Data Factory
+06:43
+
+Introduction to Azure Synapse Analytics
+07:17
+
+Introduction to Azure Stream Analytics
+08:48
+Introduction to Azure Databricks
+08:24
+
+Section Recap
+07:47
+QUIZ
+Data Engineering Crash Course
+15:00
+CHAPTER 3
+
+Data Storage
+2:10:16
+
+Section Introduction
+02:32
+Using Azure Data Lakes
+08:06
+Getting the Folder Structure Right
+08:02
+Understanding File Types
+06:29
+Partitioning Data
+05:09
+Partitioning Best Practices: Part 1
+06:58
+Partitioning Best Practices: Part 2
+04:09
+Distributing Data
+07:44
+Archiving Data
+06:02
+Pruning Data
+04:22
+Compressing Data
+05:43
+Sharding Data
+08:48
+Implementing Data Redundancy
+08:00
+HANDS-ON LAB
+Provisioning Azure Data Lake Storage Gen2
+30:00
+Section Recap
+03:12
+QUIZ
+Data Storage
+15:00
+CHAPTER 4
+
+Data Ingestion and Transformation
+2:48:27
+
+Section Introduction
+03:09
+Meeting the Tools of the Trade: Azure Data Factory
+08:55
+Meeting the Tools of the Trade: Transact-SQL
+05:37
+Meeting the Tools of the Trade: Azure Synapse Pipelines
+03:25
+
+Meeting the Tools of the Trade: Scala
+05:39
+
+Meeting the Tools of the Trade: Apache Spark
+03:54
+Creating Data Pipelines
+10:06
+Designing and Creating Tests for Data Pipelines
+04:41
+Integrating Jupyter/Python Notebooks into a Data Pipeline
+06:02
+Cleansing Data
+05:19
+Splitting Data
+06:34
+Shredding JSON
+03:15
+Encoding and Decoding Data
+05:37
+Configuring Error Handling for Transformations
+04:51
+Normalizing and Denormalizing Values
+04:07
+Performing Data Exploratory Analysis
+04:26
+HANDS-ON LAB
+Moving and Transforming Data with Azure Data Factory
+1:00:00
+Section Recap
+07:50
+QUIZ
+Data Ingestion and Transformation
+15:00
+CHAPTER 5
+
+Batch Processing Solutions
+2:58:18
+
+Section Introduction
+03:02
+Identifying Azure Services for Batch Processing
+08:34
+HANDS-ON LAB
+Developing a Batch Processing Solution with Azure Services
+1:00:00
+Designing and Implementing Incremental Data Loads
+06:49
+Designing and Implementing Incremental Data Loads Part 2
+06:11
+Introduction to Data Factory Flow
+05:53
+Handling Schema Drift
+04:58
+Handling Duplicate and Missing Data with Data Flow
+07:22
+
+Upserting Data with Data Flow
+06:00
+Designing and Configuring Exception Handling
+11:26
+Triggering Batches
+06:59
+Implementing Azure Databricks
+09:14
+Managing Data Pipelines
+07:58
+Implementing Version Control for Pipeline Artifacts
+07:14
+Managing Spark Jobs in a Pipeline
+03:44
+Section Recap
+07:54
+QUIZ
+Batch Processing
+15:00
+CHAPTER 6
+
+Stream Processing Solutions
+3:00:32
+
+Section Introduction
+03:11
+Identifying Azure Services for Stream Processing
+08:15
+Designing a Stream Processing Solution
+08:47
+HANDS-ON LAB
+Developing a Stream Processing Solution with Azure Services
+1:00:00
+Processing Time Series Data
+04:10
+Handling Late-Arriving Data
+09:47
+Designing and Creating Windowed Aggregates: Part 1
+09:09
+
+Designing and Creating Windowed Aggregates: Part 2
+08:43
+Processing Data by Using Spark Structured Streaming
+11:44
+Monitoring for Performance and Functional Regressions
+08:30
+Processing 1 or More Partitions (Repartitioning)
+09:41
+Handling Interruptions
+03:59
+Designing and Configuring Exception Handling
+01:56
+Upserting Data
+04:56
+Replaying Archived Stream Data
+04:44
+Section Recap
+08:00
+QUIZ
+Stream Processing
+15:00
+CHAPTER 7
+
+Data Serving Layer
+1:29:06
+
+Section Introduction
+01:32
+Understanding Schema and Table Design
+07:52
+Understanding Dimensions
+06:48
+Building External Tables
+05:36
+Designing Analytical Stores
+06:12
+
+Designing Metastores
+06:42
+Maintaining Metadata
+03:22
+Section Recap
+06:02
+HANDS-ON LAB
+Designing Structures for Analytical Processing in Azure
+30:00
+QUIZ
+Data Serving Layer
+15:00
+CHAPTER 8
+
+Configuring Security and Compliance
+2:13:44
+
+Section Introduction
+02:33
+Understanding Data Protection
+07:01
+Implementing Data Protection with Data Masking
+05:12
+Auditing Data
+04:13
+Configuring Data Retention
+04:28
+Purging Data Based on Business Requirements
+06:08
+Securing Azure Data Lake Through RBAC and ACLs
+09:01
+Managing Identities, Keys, and Secrets
+05:59
+Implementing Secure Endpoints
+03:36
+HANDS-ON LAB
+Encrypting Analytical Stores in Azure
+30:00
+Implementing Resource Tokens in Azure Databricks
+05:01
+Managing Sensitive Information
+05:38
+Loading a DataFrame with Sensitive Information
+05:42
+Section Recap
+09:12
+QUIZ
+Configuring Security and Compliance
+15:00
+HANDS-ON LAB
+Securing Azure Data Lake Storage Gen2
+15:00
+CHAPTER 9
+
+Monitoring Data Storage and Data Processing
+1:45:26
+
+Section Introduction
+02:26
+Configuring Monitoring Services
+07:19
+Measuring Performance of Data Movement
+04:52
+Monitoring and Updating Statistics about Data across a System
+05:32
+
+Measuring Query Performance
+08:22
+Monitoring Cluster Performance
+03:58
+Understanding Custom Logging Options
+04:03
+Interpreting a Spark Directed Acyclic Graph (DAG)
+05:15
+Section Recap
+03:39
+QUIZ
+Monitoring Data Storage and Data Processing
+15:00
+HANDS-ON LAB
+Monitoring Azure Data Factory Pipeline Performance
+45:00
+CHAPTER 10
+
+Optimizing and Troubleshooting Data Storage and Processing
+1:46:01
+
+Section Introduction
+01:53
+Compacting Small Files
+03:51
+Rewriting User-Defined Functions
+03:25
+Handling Skew in Data
+08:13
+Handling Data Spill
+09:09
+Finding Shuffling in a Pipeline
+05:41
+Tuning Shuffle Partitions
+05:46
+Optimizing Resource Management
+05:03
+Tuning Queries by Using Cache
+04:16
+Troubleshooting a Failed Spark Job
+05:01
+Debugging Spark Jobs by Using the Spark UI
+04:09
+Optimizing Pipelines for Analytical or Transactional Purposes
+07:27
+HANDS-ON LAB
+Optimizing Azure Data Factory Jobs
+15:00
+Troubleshooting a Failed Pipeline Run
+04:22
+
+Section Recap
+07:45
+QUIZ
+Optimizing and Troubleshooting Data Storage and Processing
+15:00
+CHAPTER 11
+
+Conclusion
+2:09:51
+
+Bringing It All Together
+02:34
+Exam Tips
+04:25
+Final Notes
