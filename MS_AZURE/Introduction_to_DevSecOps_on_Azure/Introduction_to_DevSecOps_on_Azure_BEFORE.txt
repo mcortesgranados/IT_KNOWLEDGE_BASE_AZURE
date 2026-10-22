@@ -1,0 +1,49 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+02:37
+
+Course Introduction
+02:37
+
+CHAPTER 2
+
+Improve Code Security with DevSecOps
+49:54
+
+Introduction to DevSecOps
+14:06
+Improve Code Security with Azure DevOps and GitHub
+08:02
+Keep Azure Infrastructure Code Secure
+10:14
+Summary
+02:32
+QUIZ
+Improve Code Security with DevSecOps
+15:00
+CHAPTER 3
+
+Implement DevSecOps Practices on Azure
+53:07
+
+Control Access with Azure AD and Azure RBAC
+10:50
+Achieve Continuous Compliance with Azure Policy
+07:03
+Improve Security of an Application Environment in Azure
+08:02
+Detect and Respond to Security Events in Azure with Microsoft Sentinel
+08:06
+Summary
+04:06
+QUIZ
+Implement DevSecOps Practices on Azure
+15:00
+CHAPTER 4
+
+Conclusion
+04:09
+
+Course Summary
