@@ -1,0 +1,166 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+06:42
+
+Course Overview
+03:27
+About the Training Architect
+00:30
+About the Interactive Diagram
+02:45
+CHAPTER 2
+
+DevOps Practices and Methodologies
+30:02
+
+Continuous Integration
+05:38
+Continuous Deployment
+03:30
+Source Control Management
+04:46
+Branches
+06:34
+Artifacts
+03:25
+Code Testing
+03:46
+Distributed Builds
+02:23
+CHAPTER 3
+
+Introduction to Azure DevOps
+37:31
+
+What is Azure DevOps?
+05:35
+DevOps Services and DevOps Server
+11:03
+Azure Pipelines as Code
+06:05
+Azure Repos and GitHub Integration
+09:11
+Agile Tools in Azure DevOps
+05:37
+CHAPTER 4
+
+Build and Pipeline Steps
+53:24
+
+CI/CD Pipelines in Azure
+15:18
+
+
+Types of Pipelines
+07:40
+Create a Pipeline from the CLI
+08:37
+
+
+Pipeline Templates
+03:57
+Stages and Tasks
+03:24
+Conditions
+02:42
+From Build to Release
+11:46
+CHAPTER 5
+
+CI Server
+1:32:31
+
+Pipeline Agents
+06:16
+Agent Pools
+10:13
+Self-Hosted Agents
+09:48
+Deployment Groups
+10:05
+Jenkins CI
+11:09
+
+HANDS-ON LAB
+Building Apps Using Self-Hosted Build Agents in Azure Pipelines
+45:00
+CHAPTER 6
+
+Deployment Detail
+21:23
+
+Build and Release Variables
+05:05
+Variable Groups
+03:08
+Environments
+02:47
+Service Connections
+04:00
+Packages
+06:23
+CHAPTER 7
+
+Types of Deployments
+33:41
+
+Deploy to Azure Container Registry
+04:35
+Deploy to Azure Kubernetes Service (AKS)
+04:07
+Deploy to Azure Web App
+05:47
+Deploy to Azure Function
+03:59
+Deploy to Azure Web App for Containers
+04:13
+Build Cloud Infrastructure with Terraform
+11:00
+CHAPTER 8
+
+Team Tools
+1:05:19
+
+Creating a Board and Adding a Team
+07:12
+Define a Sprint and Set Tasks
+03:49
+Establishing Git Flow
+05:16
+Track Build History
+02:21
+Add a Build Badge to Repo
+01:41
+HANDS-ON LAB
+Tracking Changes from GitHub in Azure Boards
+45:00
+CHAPTER 9
+
+DevOps Security
+11:46
+
+CWE, CVE, and CVSS
+03:57
+Assessment Tools
+02:28
+Scan from the Build Pipeline
+05:21
+CHAPTER 10
+
+Testing Code
+11:25
+
+Automated and Manual Tests
+07:07
+Testing Tools
+01:40
+Tests from the Kanban Board
+02:38
+CHAPTER 11
+
+Conclusion
+00:53
+
+You Did It! What's Next?
