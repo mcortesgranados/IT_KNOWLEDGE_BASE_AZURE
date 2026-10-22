@@ -1,0 +1,257 @@
+Course Outline
+CHAPTER 1
+
+Introduction: Our Solar System from a 93 Million Mile View
+23:58
+
+Course Introduction
+02:35
+
+Proposing a Different Approach to the DP-420 Exam
+03:35
+Preparing Your Development Environment
+02:48
+QUIZ
+DP-420 Course Prerequisites Knowledge Check
+15:00
+CHAPTER 2
+
+Cosmos DB: Getting to Know Your Spacecraft
+1:51:44
+
+Separating the Language from the Format: SQL on Cosmos DB for NoSQL
+12:24
+Dissecting JSON
+06:25
+Exploring Cosmos DB Knobs and Levers
+09:16
+Understanding Cosmos DB SDK Essentials
+08:39
+
+
+
+
+
+HANDS-ON LAB
+A Working Introduction to Azure Cosmos DB for NoSQL
+1:00:00
+QUIZ
+DP-420 Introductory Concepts and Tooling
+15:00
+CHAPTER 3
+
+Mission Control: Working with the Cosmos SDKs
+1:45:21
+
+Connecting to Cosmos DB for NoSQL with the SDK
+12:52
+
+
+Executing SDK Control Plane Operations in Cosmos DB for NoSQL
+07:51
+Applying SDK Data Plane Options in Cosmos DB for NoSQL
+10:05
+
+
+Applying Advanced Data Interactions in the SDK for Cosmos DB for NoSQL
+07:46
+
+Handling Query Response Errors and Metrics
+06:47
+
+
+HANDS-ON LAB
+Bulk Load Data into Cosmos DB for NoSQL
+45:00
+QUIZ
+DP-420 Cosmos DB for NoSQL SDKs
+15:00
+CHAPTER 4
+
+Planetary Sampling: Queries and Server-Side Objects
+1:34:14
+
+Querying JSON Documents in Cosmos DB for NoSQL
+14:52
+Applying SQL Functions and Parameters in Cosmos DB for NoSQL
+08:24
+
+Working with JavaScript Server-Side Objects in Cosmos DB for NoSQL
+10:58
+
+HANDS-ON LAB
+Author Advanced Queries and Objects in Cosmos DB for NoSQL
+45:00
+QUIZ
+DP-420 Queries and Server-Side Programming
+15:00
+CHAPTER 5
+
+Gravity-Assist Slingshots: Optimizing Cosmos DB
+2:20:44
+
+Optimizing Query Performance
+14:51
+
+
+
+Implementing the Cosmos DB Change Feed
+10:30
+Developing Azure Functions against the Change Feed
+06:08
+Implementing Triggers in Cosmos DB for NoSQL
+07:18
+Applying Indexing Policies to Optimize Cost and Performance
+11:57
+
+
+HANDS-ON LAB
+Implement Triggers on a Container in Cosmos DB for NoSQL
+45:00
+HANDS-ON LAB
+Optimize Query Performance in Cosmos DB for NoSQL
+30:00
+QUIZ
+DP-420 Optimizing Cosmos DB for NoSQL
+15:00
+CHAPTER 6
+
+Moons and Satellites: Integrating Cosmos DB Solutions
+1:22:41
+
+Exploring Analytical Workloads in Cosmos DB for NoSQL
+09:00
+Applying Solutions Using Change Feed and Azure Functions
+07:01
+Implementing Azure Cognitive Search on Cosmos DB Data
+06:40
+
+HANDS-ON LAB
+Archive Cosmos DB Data Using the Change Feed and an Azure Function
+45:00
+QUIZ
+DP-420 Integrating Cosmos DB Solutions
+15:00
+CHAPTER 7
+
+Order Out of Chaos: Designing Cosmos DB Data Models
+1:24:50
+
+Evaluating Workloads for Design, Throughput, and Storage
+09:58
+
+
+Examining JSON Data Model Options
+06:41
+Optimizing a Data Model
+07:22
+
+
+
+Designing a Partition Strategy
+10:40
+
+
+
+Applying Configuration Choices to Cosmos DB for NoSQL
+05:09
+
+HANDS-ON LAB
+Apply Appropriate Data Models in Cosmos DB for NoSQL
+30:00
+QUIZ
+DP-420 Designing and Converting Data Models
+15:00
+CHAPTER 8
+
+Interplanetary Travel: Implementing Data Distribution
+1:30:10
+
+Implementing a Data Distribution Plan
+11:15
+Understanding Consistency Models in Cosmos DB
+09:08
+Considering Multi-Region Writes
+09:47
+
+HANDS-ON LAB
+Implement a Conflict Resolution Policy in Cosmos DB for NoSQL
+45:00
+QUIZ
+DP-420 Cosmos DB for NoSQL Data Distribution
+15:00
+CHAPTER 9
+
+Cyberspace: Securing Cosmos DB Solutions
+52:23
+
+Implementing Backup and Restore
+10:26
+
+
+Configuring Authentication and Access for Cosmos DB
+11:59
+
+
+
+Managing Keys and Encryption for Cosmos DB
+07:43
+
+Implementing Always Encrypted for Cosmos DB
+07:15
+QUIZ
+DP-420 Securing Cosmos DB Solutions
+15:00
+CHAPTER 10
+
+Launch Sequence: Deploying and Monitoring Cosmos DB Solutions
+1:31:49
+
+Monitoring Cosmos DB Metrics with Azure Monitor
+08:40
+Implementing and Querying Cosmos DB Logs
+07:00
+
+
+Moving Cosmos DB Data via ETL Methods
+09:34
+Moving Cosmos DB Data via Service Connectors
+08:16
+
+Implementing Select DevOps Processes for Cosmos DB
+13:19
+
+
+
+HANDS-ON LAB
+Manage Azure Cosmos DB with Declarative and Imperative Code
+30:00
+QUIZ
+DP-420 Deploying and Monitoring Cosmos DB Solutions
+15:00
+CHAPTER 11
+
+Pilot Checklist: Practice Exams
+3:30:00
+
+PRACTICE EXAM
+Microsoft DP-420 Practice Exam 1
+1:45:00
+PRACTICE EXAM
+Microsoft DP-420 Practice Exam 2
+1:45:00
+CHAPTER 12
+
+Splash-Down: Debrief and Future Missions
+08:58
+
+Course Summary
+04:07
+
+
+
+Preparing for the Exam
+03:18
+
+
+Conclusion and What’s Next
