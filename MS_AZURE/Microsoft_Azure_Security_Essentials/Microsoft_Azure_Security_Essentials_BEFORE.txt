@@ -1,0 +1,151 @@
+Course Outline
+CHAPTER 1
+
+Course Introduction
+03:24
+
+What to Expect
+03:24
+
+CHAPTER 2
+
+Security in the Cloud
+14:23
+
+Introduction into Azure Security
+04:22
+Shared Responsibilities
+10:01
+CHAPTER 3
+
+Transparency
+35:03
+
+Securing Customer Data in Azure Services
+08:23
+Managing Data Location in Azure Services
+07:44
+Who Can Access Your Data and on What Terms?
+06:14
+Review Certification for Azure Services, Transparency Hub
+07:50
+Conclusion
+04:52
+CHAPTER 4
+
+Identity and Access Management
+32:40
+
+Secure Identity
+10:33
+Secure Apps and Data
+08:02
+Role-Based Access Control (RBAC)
+07:32
+Conclusion
+06:33
+CHAPTER 5
+
+Operations
+40:58
+
+Security and the Audit Dashboard
+07:07
+Application Insights
+03:08
+Azure Monitor
+05:29
+Azure Monitor Logs
+05:47
+Azure Advisor
+08:00
+Azure Security Center
+04:45
+Conclusion
+06:42
+CHAPTER 6
+
+Storage
+1:18:35
+
+Shared Access Signature
+09:55
+Encryption in Transit
+02:39
+Encryption at Rest
+03:01
+Storage Analytics
+06:21
+Enabling Browser-Based Clients Using CORS
+08:33
+Conclusion
+03:06
+HANDS-ON LAB
+Configure Application-Level Rules within Azure Firewall
+45:00
+CHAPTER 7
+
+Networking
+1:35:37
+
+Network Layer Controls
+06:10
+Network Security Groups (NSG)
+07:24
+Route Control and Forced Tunneling
+07:06
+Application Gateway
+04:04
+Web Application Firewall
+03:43
+Security Center
+16:22
+Conclusion
+05:48
+HANDS-ON LAB
+Creating Service Endpoints Between Virtual Machines and Blob Storage
+45:00
+CHAPTER 8
+
+Compute
+46:48
+
+Antimalware and Antivirus
+06:33
+Hardware Security Module
+13:42
+SQL VM TDE
+08:19
+VM Disk Encryption
+03:14
+Patch Updates
+03:13
+Security Policy and Management and Reporting
+07:01
+Conclusion
+04:46
+CHAPTER 9
+
+Secure Platform
+25:51
+
+Security Development Cycle and Internal Audits
+08:35
+Mandatory Security Training and Background Checks
+02:05
+Penetration Testing, Intrusion Detection, DDoS, Audits, and Logging
+03:20
+State of the Art Data Centers, Physical Security, and Secure Networks
+04:03
+Security Incident Response and Shared Responsibility
+04:07
+Conclusion
+03:41
+CHAPTER 10
+
+Wrapping Up
+05:58
+
+Additional Resources
+04:26
+What's Next?

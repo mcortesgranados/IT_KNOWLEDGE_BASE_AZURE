@@ -1,0 +1,108 @@
+CHAPTER 01 Course Introduction
+01-01 What to Expect
+
+CHAPTER 02 Security in the Cloud
+02-01 Introduction into Azure Security
+
+02-02 Shared Responsibilities
+
+CHAPTER 03 Transparency
+03-01 Securing Customer Data in Azure Services
+
+03-02 Managing Data Location in Azure Services
+
+03-03 Who Can Access Your Data and on What Terms?
+
+03-04 Review Certification for Azure Services, Transparency Hub
+
+03-05 Conclusion
+
+CHAPTER 04 Identity and Access Management
+04-01 Secure Identity
+
+04-02 Secure Apps and Data
+
+04-03 Role-Based Access Control (RBAC)
+
+04-04 Conclusion
+
+CHAPTER 05 Operations
+05-01 Security and the Audit Dashboard
+
+05-02 Application Insights
+
+05-03 Azure Monitor
+
+05-04 Azure Monitor Logs
+
+05-05 Azure Advisor
+
+05-06 Azure Security Center
+
+05-07 Conclusion
+
+CHAPTER 06 Storage
+06-01 Shared Access Signature
+
+06-02 Encryption in Transit
+
+06-03 Encryption at Rest
+
+06-04 Storage Analytics
+
+06-05 Enabling Browser-Based Clients Using CORS
+
+06-06 Conclusion
+
+06-07 HANDS-ON LAB Configure Application-Level Rules within Azure Firewall
+
+CHAPTER 07 Networking
+07-01 Network Layer Controls
+
+07-02 Network Security Groups (NSG)
+
+07-03 Route Control and Forced Tunneling
+
+07-04 Application Gateway
+
+07-05 Web Application Firewall
+
+07-06 Security Center
+
+07-07 Conclusion
+
+07-08 HANDS-ON LAB Creating Service Endpoints Between Virtual Machines and Blob Storage
+
+CHAPTER 08 Compute
+08-01 Antimalware and Antivirus
+
+08-02 Hardware Security Module
+
+08-03 SQL VM TDE
+
+08-04 VM Disk Encryption
+
+08-05 Patch Updates
+
+08-06 Security Policy and Management and Reporting
+
+08-07 Conclusion
+
+CHAPTER 09 Secure Platform
+09-01 Security Development Cycle and Internal Audits
+
+09-02 Mandatory Security Training and Background Checks
+
+09-03 Penetration Testing, Intrusion Detection, DDoS, Audits, and Logging
+
+09-04 State of the Art Data Centers, Physical Security, and Secure Networks
+
+09-05 Security Incident Response and Shared Responsibility
+
+09-06 Conclusion
+
+CHAPTER 10 Wrapping Up
+10-01 Additional Resources
+
+10-02 What's Next?
+
