@@ -1,0 +1,303 @@
+Course Outline
+CHAPTER 1
+
+Welcome to the Course
+05:16
+
+Course Introduction
+01:57
+
+About the Training Architect
+01:03
+Using the Blueshift Guide
+02:16
+CHAPTER 2
+
+Building the Basics
+31:53
+
+Azure Overview - Part 1
+08:08
+Azure Overview - Part 2
+05:57
+
+Getting Started with Virtual Networks
+05:00
+Getting Started with Storage Accounts
+05:22
+Getting Started with Virtual Machines
+07:26
+CHAPTER 3
+
+Virtual Networking
+52:02
+
+Subnets
+04:39
+Network Interfaces
+07:17
+Public and Private IPs
+11:12
+Network Security
+15:27
+VNet Routing and Connectivity
+13:27
+CHAPTER 4
+
+Virtual Machines
+32:33
+
+VM Images
+13:56
+VM Storage
+11:06
+VM Extensions
+03:26
+VM Networking
+04:05
+CHAPTER 5
+
+Storage Accounts
+42:01
+
+Storage Accounts
+14:19
+Storage Account Security
+17:29
+Storage Account Networking
+10:13
+CHAPTER 6
+
+Resource Monitoring
+58:02
+
+Azure Monitor
+15:41
+Activity Log
+05:31
+Alerts and Action Groups
+11:45
+Log Analytics
+07:59
+Log Search
+07:53
+Managing Costs
+09:13
+CHAPTER 7
+
+Integrated Networking
+1:16:00
+
+VNet Peering
+16:00
+HANDS-ON LAB
+Connecting VNets in Azure with VNet Peering
+1:00:00
+CHAPTER 8
+
+Virtual Machine High Availability
+44:11
+
+VM High Availability
+11:31
+VM Availability Sets
+10:49
+VM Scale Sets
+21:51
+CHAPTER 9
+
+Load Balancing
+37:47
+
+Azure Load Balancer
+19:35
+Azure Application Gateway
+18:12
+CHAPTER 10
+
+Automated Deployments
+16:28
+
+Automated VM Deployments
+16:28
+CHAPTER 11
+
+Azure Active Directory
+33:36
+
+Azure Active Directory
+14:30
+Azure AD Device Management
+11:19
+Azure AD Self-Service Password Reset
+07:47
+CHAPTER 12
+
+Access Control
+55:35
+
+Azure AD Identity Protection
+13:25
+Multi-Factor Authentication
+13:43
+Azure AD Conditional Access Policies
+12:49
+Role-Based Access Control
+15:38
+CHAPTER 13
+
+Hybrid Identities
+27:48
+
+Hybrid Identities
+12:47
+Azure AD Connect
+15:01
+CHAPTER 14
+
+Hybrid Networking
+2:33:06
+
+Azure VPN Gateway
+21:00
+Azure VPN Gateway Troubleshooting
+02:59
+ExpressRoute - Part 1
+10:06
+ExpressRoute - Part 2
+14:01
+HANDS-ON LAB
+Configuring an Azure VNet-to-VNet VPN Gateway (v2)
+1:45:00
+CHAPTER 15
+
+Azure Site Recovery Migrations
+40:09
+
+Azure Backups
+12:35
+Azure Site Recovery - Part 1
+11:39
+Azure Site Recovery - Part 2
+15:55
+CHAPTER 16
+
+Container-Based Apps
+23:38
+
+Azure Container Registry
+08:46
+Azure Container Instances
+05:38
+Azure Kubernetes Service
+09:14
+CHAPTER 17
+
+Web Apps
+1:42:30
+
+Azure Web Apps
+06:22
+Background Tasks with WebJobs
+06:08
+HANDS-ON LAB
+Develop with WebJobs in Azure
+1:30:00
+CHAPTER 18
+
+Serverless Architecture
+31:33
+
+Azure Functions
+17:54
+Logic Apps
+13:39
+CHAPTER 19
+
+Message-based Integration Architecture
+1:00:01
+
+Event Grid
+14:04
+Notification Hub
+06:28
+Event Hub
+13:25
+Service Bus
+13:10
+Azure Relay
+12:54
+CHAPTER 20
+
+Authentication and Data Security
+32:20
+
+Managed Identity
+10:38
+Confidential Compute
+06:30
+Key Vault
+09:28
+Azure Disk Encryption
+05:44
+CHAPTER 21
+
+Azure SQL Database
+20:27
+
+Azure SQL Database: Part 1
+14:08
+Azure SQL Database: Part 2
+06:19
+CHAPTER 22
+
+Cosmos DB
+1:23:46
+
+Cosmos DB: Part 1
+13:36
+Cosmos DB: Part 2
+10:10
+HANDS-ON LAB
+Using Azure Cosmos DB with C#
+1:00:00
+CHAPTER 23
+
+Updated Exam Content
+2:12:18
+
+Azure Files
+13:02
+Service Endpoints
+14:14
+Private Link
+11:16
+Azure AD Authentication for Storage Accounts
+13:28
+Virtual Machine Dedicated Hosts
+09:53
+Augmented Security Rules - Part 1
+07:55
+Augmented Security Rules - Part 2
+10:01
+Azure Bastion
+08:42
+Traffic Manager
+10:11
+Azure Front Door
+14:04
+Azure Migrate Overview
+06:13
+Azure Migrate for Servers
+13:19
+CHAPTER 24
+
+Final Steps
+1:36:40
+
+What's Next?
+02:14
+About the Exam
+04:26
+PRACTICE EXAM
+AZ-300: Microsoft Azure Architect Technologies - Practice Exam
