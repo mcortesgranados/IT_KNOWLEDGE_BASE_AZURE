@@ -1,0 +1,180 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+03:34
+
+Course Introduction
+02:11
+
+Prerequisites
+01:23
+CHAPTER 2
+
+What Is Azure SQL Database?
+52:31
+
+Introduction to What Is Azure SQL Database?
+01:16
+What Is Azure SQL Database?
+05:27
+Service Cost and Value
+08:21
+
+
+Getting Started
+05:05
+
+
+Demo: Creating an Azure SQL Database
+13:51
+
+Section Summary
+03:31
+QUIZ
+Azure SQL Database Fundamentals
+15:00
+CHAPTER 3
+
+Connecting and Managing Azure SQL Database
+59:12
+
+Introduction
+01:06
+Networking, Firewalls, and Authentication
+10:21
+Demo: Connecting to the Database
+08:22
+Security Features
+07:23
+Differences with SQL Server
+06:00
+Demo: Management Differences
+07:48
+
+
+
+Section Summary
+03:12
+QUIZ
+Connecting and Managing Azure SQL Database
+15:00
+CHAPTER 4
+
+Understanding the Service Tiers
+57:38
+
+Introduction
+01:17
+Service Tiers Fundamentals
+05:56
+Core-Based Tiers
+07:06
+Demo: Scaling Up the Service Tier
+07:56
+
+
+
+
+
+
+Azure SQL Database Optional Modes
+08:19
+
+
+
+Demo: Creating a Database Elastic Pool
+07:51
+
+Section Summary
+04:13
+QUIZ
+Azure SQL Database Service Tiers
+15:00
+CHAPTER 5
+
+Recovery in Azure SQL Database
+53:31
+
+Introduction
+01:05
+Backup Capabilities
+06:41
+Performing Restores
+03:23
+Demo: Restoring a Database
+05:25
+High Availability and Disaster Recovery
+10:51
+Demo: Configuring an Auto-Failover Group
+07:41
+Section Summary
+03:25
+QUIZ
+Recovery in Azure SQL Database
+15:00
+CHAPTER 6
+
+Migrating to and from Azure SQL Database
+54:47
+
+Introduction
+01:27
+Migration Methodology
+06:08
+Migration Tools
+06:40
+
+
+
+
+Demo: Migrating with the Microsoft Data Migration Assistant
+06:40
+
+Demo: Migrating with SQL Server Transactional Replication
+07:34
+Moving Back to SQL Server
+03:00
+Demo: Migrating Back to SQL Server
+05:08
+
+Section Summary
+03:10
+QUIZ
+Azure SQL Database Migration
+15:00
+CHAPTER 7
+
+Monitoring and Tuning Azure SQL Database
+1:03:18
+
+Introduction
+01:38
+Azure Metrics Alerts
+05:38
+Demo: Creating Database Alerts
+12:05
+
+Performance System Views
+05:12
+Demo: Tracking Performance with System Views
+06:28
+
+Azure Performance Tools
+04:20
+Demo: Reviewing Performance and Recommendations in the Portal
+09:08
+
+Section Summary
+03:49
+QUIZ
+Monitoring and Tuning Azure SQL Database
+15:00
+CHAPTER 8
+
+Conclusion
+07:34
+
+Course Summary
+06:19
+Conclusion and What’s Next
