@@ -1,0 +1,160 @@
+CHAPTER 01 Welcome to the Course
+01-01 Course Introduction
+01-02 Important Information about This Course
+
+CHAPTER 02 Architecting Azure Solutions
+02-01 Being a Solution Architect
+02-02 Exploring the Cloud Adoption Framework
+
+CHAPTER 03 Design Identity and Access Management
+03-01 Introduction
+03-02 Recapping Azure AD
+03-03 HANDS-ON LAB Create and Manage Azure AD Users in the Portal
+03-04 Understanding Azure AD Hybrid Identities
+03-05 Exploring Azure AD External Identities
+03-06 Recapping Azure Access Control
+03-07 Scenario: Design for Identity and Access Management
+03-08 QUIZ Design for Identity and Access Management
+
+CHAPTER 04 Design for Identity Security
+04-01 Introduction
+04-02 Securing Identities with Azure AD Identity Protection
+04-03 Protecting Resources with Azure AD Conditional Access
+04-04 Protecting Privileges with Azure AD Privileged Identity Management (PIM)
+04-05 Designing Identity Governance
+04-06 Scenario: Design for Identity Security
+04-07 QUIZ Design for Identity Security
+
+CHAPTER 05 Design a Compute Strategy
+05-01 Introduction
+05-02 Architecting Virtual Machine-Based Solutions
+05-03 Architecting Container-Based Solutions
+05-04 HANDS-ON LAB Deploy a Container with Azure Container Instances
+05-05 Architecting Application Hosting in Azure
+05-06 HANDS-ON LAB Stage a .NET Web App Using App Service Deployment Slots and Azure CLI
+05-07 Architecting Large-Scale Compute
+05-08 Isolating Compute-Based Solutions
+05-09 Scenario: Design a Compute Strategy
+05-10 QUIZ Design a Compute Strategy
+
+CHAPTER 06 Design a Networking Strategy
+06-01 Introduction
+06-02 Recapping Virtual Networks
+06-03 Recapping Integrated Networks
+06-04 HANDS-ON LAB Connect Hub and Spoke Networks with VNet Peering
+06-05 Recapping Hybrid Networks
+06-06 Designing Networks for Azure Services
+06-07 Scenario: Design a Networking Strategy
+06-08 QUIZ Design a Networking Strategy
+
+CHAPTER 07 Design Connectivity and Security
+07-01 Introduction
+07-02 Recapping Azure Global Infrastructure
+07-03 Designing Highly Available Connectivity - Part 1
+07-04 Designing Highly Available Connectivity - Part 2
+07-05 Exploring Network Security Services
+07-06 HANDS-ON LAB Attach a Firewall to a Virtual Network in Azure
+07-07 Scenario: Design Connectivity and Security
+07-08 QUIZ Design Connectivity and Security
+
+CHAPTER 08 Design Apps for the Cloud
+08-01 Introduction
+08-02 Design Message-Driven Solutions
+08-03 Design Event-Driven Solutions
+08-04 Exploring Caching Services
+08-05 Designing App Configuration and Deployments
+08-06 Exploring Application Integration Services
+08-07 Exploring Azure AD App Proxy
+08-08 Scenario: Design Apps for the Cloud
+08-09 QUIZ Design Apps for the Cloud
+
+CHAPTER 09 Design Security for Apps in the Cloud
+09-01 Introduction
+09-02 Using Service Principals
+09-03 Using Managed Identities
+09-04 Understanding API Security and OAuth 2.0
+09-05 Exploring Delegated Permissions and Consent - Part 1
+09-06 Exploring Delegated Permissions and Consent - Part 2
+09-07 Exploring Application Permissions and Consent
+09-08 Understanding Key Vault
+09-09 HANDS-ON LAB Securely Access Script Secrets in Azure Key Vault
+09-10 Scenario: Design Security for Apps in the Cloud
+09-11 QUIZ AZ-305 Quiz - Design Security for Apps in the Cloud
+
+CHAPTER 10 Design Data Platforms
+10-01 Introduction
+10-02 Recapping Storage Accounts
+10-03 Recapping Azure Files Services
+10-04 Exploring Azure SQL Services
+10-05 HANDS-ON LAB Securely Connect a Web App to Azure SQL Database Using Private Link
+10-06 Exploring Cosmos DB and Table Storage
+10-07 Scenario: Design Data Platforms
+10-08 QUIZ Design Data Platforms
+
+CHAPTER 11 Design an Analytics Platform
+11-01 Introduction
+11-02 Exploring Azure Data Lake Storage
+11-03 Exploring Azure Analytics Services
+11-04 Exploring Azure Data Factory
+11-05 Exploring Azure Databricks
+11-06 Scenario: Design an Analytics Platform
+11-07 QUIZ Design an Analytics Platform
+
+CHAPTER 12 Design Security for Data
+12-01 Introduction
+12-02 Controlling Access to Azure Storage
+12-03 Protecting Data in Azure Storage
+12-04 Controlling Access to Azure SQL Services
+12-05 Protecting Data in Azure SQL Services
+12-06 HANDS-ON LAB Enabling Always Encrypted in Azure SQL
+12-07 Scenario: Design Security for Data
+12-08 QUIZ Design Security for Data
+
+CHAPTER 13 Design Recovery and Resilience
+13-01 Introduction
+13-02 Design Recovery and Resilience for Azure Storage
+13-03 Design Recovery and Resilience for Azure SQL Services - Part 1
+13-04 Design Recovery and Resilience for Azure SQL Services - Part 2
+13-05 HANDS-ON LAB Configure Azure SQL with Failover Groups
+13-06 Design Recovery and Resilience for Cosmos DB
+13-07 Back Up Workloads with Azure Backup
+13-08 HANDS-ON LAB Back Up an Azure Virtual Machine with Azure Backup
+13-09 Design for Business Continuity with Azure Site Recovery
+13-10 Scenario: Design Recovery and Resilience
+13-11 QUIZ AZ-305 Quiz: Design Recovery and Resilience
+
+CHAPTER 14 Design Migrations
+14-01 Introduction
+14-02 Migrate Workloads with Azure Migrate
+14-03 Migrate Data with Database Migration Service
+14-04 Explore Azure Data Transfer Technologies
+14-05 Scenario: Design Migrations
+14-06 QUIZ Design Migrations
+
+CHAPTER 15 Design Governance
+15-01 Introduction
+15-02 Organizing Azure Resources
+15-03 Organizing Azure AD
+15-04 Understanding Azure Policy
+15-05 HANDS-ON LAB Ensuring Compliance with Azure Policies
+15-06 Exploring Tools to Enforce Standards
+15-07 Scenario: Design Governance
+15-08 QUIZ Design Governance
+
+CHAPTER 16 Designing an Auditing and Monitoring Strategy
+16-01 Introduction
+16-02 Design Monitoring in Azure
+16-03 Exploring Logging and Retention
+16-04 HANDS-ON LAB Configure Virtual Machine Monitoring in Azure
+16-05 Exploring Resource Monitoring Tools
+16-06 Design Monitoring for Security and Standards
+16-07 Design Monitoring Alerts and Actions
+16-08 Scenario: Design an Auditing and Monitoring Strategy
+16-09 QUIZ Design Auditing and Monitoring
+
+CHAPTER 17 Final Steps
+17-01 Preparing for the Exam
+17-02 Course Completion
+17-03 PRACTICE EXAM AZ-305 Designing Microsoft Azure Infrastructure Solutions: Practice Exam 1
+17-04 PRACTICE EXAM AZ-305 Designing Microsoft Azure Infrastructure Solutions: Practice Exam 2
+17-05 PRACTICE EXAM AZ-305 Designing Microsoft Azure Infrastructure Solutions: Practice Exam 3
