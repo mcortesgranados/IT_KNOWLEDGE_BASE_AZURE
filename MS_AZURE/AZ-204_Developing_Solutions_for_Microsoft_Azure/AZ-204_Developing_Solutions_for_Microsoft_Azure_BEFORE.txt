@@ -1,0 +1,67 @@
+CHAPTER 01 Introduction
+01-01 Browse the Menu and Meet the Chef
+01-02 Organizing Your Kitchen
+01-03 QUIZ AZ-204 Course Prerequisites Knowledge Check
+
+CHAPTER 02 Sous Vide or Sauté: Develop Azure Compute Solutions
+02-01 Considering Compute Options
+02-02 Leaving Behind Virtual Machines
+02-03 HANDS-ON LAB Migrate a Website to Azure Web Apps
+02-04 Storing and Sharing Your Containers
+02-05 Running Azure Container Instances
+02-06 HANDS-ON LAB Run Containers by Using Azure Container Instances
+02-07 Creating Solutions with Azure Container Apps
+02-08 Introducing the Azure App Service
+02-09 Creating Web Apps on Azure App Service
+02-10 HANDS-ON LAB Stage a .NET Web App Using App Service Deployment Slots and Azure CLI
+02-11 Coding and Deploying Azure Functions
+02-12 HANDS-ON LAB Deploy and Run Your First Azure Function
+02-13 Episode Wrap-Up: Packing a To-Go Box
+02-14 QUIZ AZ-204 Develop Azure Compute Solutions
+
+CHAPTER 03 Practical Pantries: Develop for Azure Storage
+03-01 Configuring Azure Blob Storage
+03-02 Managing Data in Azure Blob Storage
+03-03 Implementing Static Site Hosting
+03-04 HANDS-ON LAB Work with Azure Blob Storage Using the Azure SDK for Python
+03-05 Configuring Azure Cosmos DB
+03-06 Managing Data in Azure Cosmos DB
+03-07 HANDS-ON LAB Work with Azure Cosmos DB Data Using Two Azure SDKs
+03-08 QUIZ AZ-204 Develop for Azure Storage
+
+CHAPTER 04 Too Many Cooks: Implement Azure Security
+04-01 Understanding Authentication and Authorization Options
+04-02 Implementing Secure Storage Solutions
+04-03 HANDS-ON LAB Limit Access to Azure Storage Account Using SAS URI
+04-04 Interacting with Microsoft Graph
+04-05 Working with Azure Key Vault
+04-06 Using Managed Identities
+04-07 HANDS-ON LAB Develop a Python App to Access Key Vault Using a Service Principal
+QUIZ AZ-204 Implement Azure Security
+
+CHAPTER 05 Limiting Leftovers: Optimize and Monitor
+05-01 Leveraging Application Insights
+05-02 Responding to Metrics and Log Data
+05-03 HANDS-ON LAB Configure Application Insights with Azure
+05-04 Working with Caches
+QUIZ AZ-204 Optimize and Monitor
+
+CHAPTER 06 Gourmet Delivery: Work with Azure and Third-Party Services
+06-01 Connecting with Third-Party Services
+06-02 Simplifying Event Delivery with Azure Event Grid
+06-03 HANDS-ON LAB Manage Events with Azure Event Grid and Azure CLI
+06-04 Consuming Real-Time Messages
+06-05 Implementing Message-Based Solutions
+06-06 HANDS-ON LAB Manage Messages with Azure Service Bus and Azure Queue Storage
+07-07 QUIZ AZ-204 Work with Azure and Third-Party Services
+
+CHAPTER 07 Practice Exam
+07-01 Preparing for the AZ-204 Exam
+07-02 PRACTICE EXAM AZ-204 Practice Exam 1
+07-03 PRACTICE EXAM AZ-204 Practice Exam 2
+07-04 PRACTICE EXAM AZ-204 Practice Exam 3
+
+CHAPTER 08 Conclusion
+08-01 Course Summary
+08-02 Dessert and Tomorrow’s Menu
+08-03 Your Progress COMPLETE
