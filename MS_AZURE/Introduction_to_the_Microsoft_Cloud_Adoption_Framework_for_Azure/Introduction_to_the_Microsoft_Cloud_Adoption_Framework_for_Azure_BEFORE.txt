@@ -1,0 +1,110 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+16:17
+
+Course Introduction
+02:11
+
+About the Training Architect
+01:23
+Introducing the Cloud Adoption Framework
+06:50
+Exploring the Cloud Adoption Methodologies
+05:53
+
+
+CHAPTER 2
+
+Defining Your Cloud Strategy
+55:49
+
+Introducing Cloud Strategy
+06:13
+
+Understanding Motivations
+06:40
+Assessing Business Outcomes
+07:18
+
+
+Evaluating Financial and Technical Considerations
+11:51
+Creating Your Cloud Adoption Strategy
+08:47
+
+
+
+QUIZ
+Cloud Strategy
+15:00
+CHAPTER 3
+
+Planning Your Cloud Adoption
+48:02
+
+Breaking Down the Cloud Adoption Plan
+04:53
+Evaluating the Digital Estate
+11:01
+Preparing the Organization
+06:05
+Creating the Cloud Adoption Plan
+11:03
+
+QUIZ
+Planning Cloud Adoption
+15:00
+CHAPTER 4
+
+Building a Cloud Ready Environment
+35:06
+
+Defining "Cloud Ready"
+04:36
+Preparing Your Azure Environment
+08:28
+Deploying Landing Zones
+07:02
+
+QUIZ
+Cloud Ready
+15:00
+CHAPTER 5
+
+Diving into Cloud Adoption
+31:41
+
+Understanding Cloud Adoption
+03:41
+Enabling Cloud Migration
+06:44
+Differentiating with Cloud Innovation
+06:16
+QUIZ
+Cloud Adoption
+15:00
+CHAPTER 6
+
+Understanding Azure Governance and Management
+57:53
+
+Introducing Azure Governance
+07:39
+Exploring Azure Governance Disciplines
+13:28
+Introducing Azure Management
+08:28
+Managing Your Azure Infrastructure
+13:18
+
+QUIZ
+Azure Governance and Management
+15:00
+CHAPTER 7
+
+Conclusion
+06:11
+
+Course Summary and What’s Next
