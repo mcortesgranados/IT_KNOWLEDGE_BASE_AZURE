@@ -1,0 +1,136 @@
+Course Outline
+CHAPTER 1
+
+Implement Data Security
+20:44
+
+Section Introduction
+02:24
+About the Exam
+07:12
+Skills Needed for This Course
+06:12
+What Are You Going to Learn?
+04:56
+CHAPTER 2
+
+An Introduction to Data Engineering
+1:06:38
+
+Data Engineering at a Glance
+07:30
+
+Introducing ETL vs. ELT
+08:46
+Introducing OLTP vs. OLAP
+04:55
+Introducing Data Warehousing
+07:36
+Introduction to Database Schema
+06:55
+The Key to Understanding Database Schemas
+08:07
+Section Recap
+07:49
+QUIZ
+An Introduction to Data Engineering
+15:00
+CHAPTER 3
+
+An Introduction to Data Partitioning
+1:02:45
+
+An Overview of Data Processing
+10:31
+The Basics of Partitioning Data
+06:46
+Partitioning Data: Best Practices
+10:33
+Sharding Data (Partitioning vs. Sharding)
+08:00
+Demo: Choosing a Partition Key
+06:19
+Section Recap
+05:36
+QUIZ
+An Introduction to Data Partitioning
+15:00
+CHAPTER 4
+
+Implement a Partition Strategy
+3:06:11
+
+Understanding File Types
+06:28
+Implement a Partition Strategy for Files
+07:06
+Introducing Streaming vs. Batch (Business Concept at a High Level)
+09:46
+Implement a Partition Strategy for Streaming Workloads
+06:13
+Demo: Implement a Partition Strategy for Streaming
+06:22
+HANDS-ON LAB
+Implement a Partition Strategy for Azure Data Factory Pipelines
+30:00
+Introducing Azure Synapse Analytics
+07:07
+Implement a Partition Strategy for Azure Synapse Analytics
+09:35
+Demo: Partition Tables in a Dedicated SQL Pool in Synapse Analytics
+04:49
+HANDS-ON LAB
+Partition Data in Azure Synapse Analytics
+30:00
+Introducing Azure Data Lake Storage
+09:16
+Identify When Partitioning Is Needed in Azure Data Lake Storage Gen2
+06:47
+HANDS-ON LAB
+Partition Data in Azure Data Lake Storage Gen2
+30:00
+Section Recap
+07:42
+QUIZ
+Implement a Partition Strategy
+15:00
+CHAPTER 5
+
+Design and Implement the Data Exploration Layer
+1:37:51
+
+Introducing Azure SQL Serverless vs. Provisioned
+09:58
+Create and Execute Queries by Using a Computer Solution that Leverages SQL Serverless and Spark Cluster
+05:27
+Demo: Execute Queries to Shared Databases from Azure Data Studio
+04:35
+HANDS-ON LAB
+Create and Execute a Query Leveraging Azure SQL Serverless
+30:00
+Recommend and Implement Azure Synapse Analytics Database Templates
+04:20
+Demo: Create a New Lake Database Leveraging Database Templates
+05:40
+Introducing Microsoft Purview
+07:06
+Push New or Updated Data Lineage to Microsoft Purview
+05:01
+Demo: Browse and Search Metadata in Microsoft Purview Data Catalog
+05:06
+Section Recap
+05:38
+QUIZ
+Design and Implement the Data Exploration Layer
+15:00
+CHAPTER 6
+
+Conclusion
+13:30
+
+Course Summary
+05:55
+Conclusion and What's Next
+01:10
+Exam Guide
+06:25
