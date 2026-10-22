@@ -1,0 +1,237 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+06:18
+
+Course Overview
+04:42
+
+
+About the Training Architect
+01:36
+CHAPTER 2
+
+Implement Batch Jobs by Using Azure Batch Services
+21:57
+
+Overview
+05:05
+Creating a Batch Account and Running a Job with CLI
+15:42
+Exam Essentials and References
+01:10
+CHAPTER 3
+
+Create Containerized Solutions
+27:41
+
+Overview
+01:27
+Create and Dockerize a .NET Core App
+11:41
+Create an AKS Cluster with CLI
+13:15
+Exam Essentials and References
+01:18
+CHAPTER 4
+
+Develop Solutions that use Storage Tables
+21:36
+
+Overview
+01:51
+Code CRUD and Query Operations with C#
+17:57
+Exam Essentials and References
+01:48
+CHAPTER 5
+
+Develop Solutions that use Cosmos DB Storage
+1:36:10
+
+Overview
+02:29
+Create and Populate a Cosmos DB Database with Data from C#
+20:03
+Understand Cosmos DB Consistency Levels
+10:49
+Exam Essentials and References
+02:49
+HANDS-ON LAB
+Using Azure Cosmos DB with C#
+1:00:00
+CHAPTER 6
+
+Develop Solutions that use Blob Storage
+16:16
+
+Overview
+01:34
+Working with Blobs using C#
+12:45
+Exam Essentials and References
+01:57
+CHAPTER 7
+
+Create Azure App Service Web Apps
+1:11:23
+
+Overview
+01:49
+Create an App Service Web App using the Portal
+07:53
+Create an App Service Web Application using CLI and GitHub
+08:17
+Create an App Service Web App using Containers and Docker Hub
+06:46
+Exam Essentials and References
+01:38
+HANDS-ON LAB
+Using Azure Web Apps with Containers, Linux, and Cloud Shell
+45:00
+CHAPTER 9
+
+Implement Azure Functions
+26:03
+
+Overview
+02:05
+Create a Queue Triggered Function with Table Output
+13:56
+Understand Azure Functions Queue Trigger / Binding Scalability
+07:33
+Exam Essentials and References
+02:29
+CHAPTER 10
+
+Develop an App Service Logic App
+1:03:29
+
+Overview
+02:04
+Create a Logic App
+21:27
+Handle Exceptions and Retries
+04:18
+Exam Essentials and References
+05:40
+HANDS-ON LAB
+Configure a Logic App to Create Blobs in Azure
+30:00
+CHAPTER 11
+
+Integrate Azure Search within Solutions
+24:40
+
+Overview
+01:45
+Create and Populate a Search Index with Data using C# and CLI
+19:16
+Exam Essentials and References
+03:39
+CHAPTER 12
+
+Establish API Gateways
+16:43
+
+Overview
+02:19
+Implement a Simple API Gateway and Policies
+12:07
+Exam Essentials and References
+02:17
+CHAPTER 13
+
+Develop Event-Based Solutions
+1:00:06
+
+Overview
+06:40
+Deliver Messages at Scale with Event Grid
+16:39
+Exam Essentials and References
+06:47
+HANDS-ON LAB
+Use Azure Event Grid with Cloud Shell, PowerShell, and CLI
+30:00
+CHAPTER 14
+
+Develop Message Based Solutions
+31:10
+
+Overview
+02:51
+Create Queues with Powershell and Send/Receive Messages with C#
+24:08
+Exam Essentials and References
+04:11
+CHAPTER 15
+
+Implement Secure Access to Services, Secrets, and Data
+2:28:02
+
+Overview
+03:40
+Create a Service Principal with CLI
+20:22
+Secure Access to Blobs with a SAS Token
+08:17
+Securely Store Web App Secrets in Key Vault
+14:48
+Secure Access to Storage Accounts with MSI
+12:23
+Implement Dynamic Data Masking and Always Encrypted
+12:50
+Secure Access to an AKS Cluster
+02:55
+Exam Essentials and References
+12:47
+HANDS-ON LAB
+Use Azure Service Bus Queues with C#, Cloud Shell, PowerShell, and CLI
+1:00:00
+CHAPTER 16
+
+Monitor Azure Solutions
+42:09
+
+Overview
+01:55
+Configure Web App Logging
+19:30
+Enable Application Insights, Tracing, and Sampling on a Web App
+12:45
+Understand Usage Analytics
+03:54
+Exam Essentials and References
+04:05
+CHAPTER 17
+
+Optimize Azure Solutions
+16:10
+
+Overview
+01:05
+Configure Auto Scaling
+08:50
+Scale Solutions using Azure Redis Cache
+03:44
+Exam Essentials and References
+02:31
+CHAPTER 18
+
+Final Steps
+03:24
+
+What's Next?
+03:24
+CHAPTER 19
+
+Practice Exam
+2:00:00
+
+PRACTICE EXAM
+Azure AZ-203 Final Exam
+1:30:00
+PRACTICE EXAM
+Azure AZ-203 Case Study 1
