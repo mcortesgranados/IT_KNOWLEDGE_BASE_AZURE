@@ -1,0 +1,54 @@
+CHAPTER 01 Introduction
+01-01 Course Introduction
+
+CHAPTER 02 Getting Started with Web Apps
+02-01 Running a Web App on Azure
+
+02-02 All About Azure App Service
+
+02-03 Creating Our First Azure App Service App
+
+02-04 HANDS-ON LAB Creating an Azure App Service App
+
+02-05 QUIZ Getting Started with Web Apps
+CHAPTER 03 Deploying Web Apps
+03-01 Deploying Our First Application Using the Azure Portal
+
+03-02 Deploying Our First Application Using Azure CLI
+
+03-03 Deployment Best Practices
+
+03-04 Diagnostics and Monitoring
+
+03-05 HANDS-ON LAB Deploying a Web App to Azure App Service
+
+03-06 QUIZ Deploying Web Apps
+CHAPTER 04 Configuring Web Apps
+04-01 Domain Names and Certificates
+
+04-02 Scaling a Web App for Better Performance
+
+04-03 HANDS-ON LAB Configuring Scaling for Azure App Service
+
+04-04 Connecting a Web App to a Database
+
+04-05 Configuring Networking
+
+04-06 Security Configuration
+
+04-07 Access and Authentication
+
+04-08 Using Containers with Azure App Service
+
+04-09 Using Deployment Slots
+
+04-10 HANDS-ON LAB Deploying Containers to Azure App Service
+
+04-11 HANDS-ON LAB Stage a .NET Web App Using App Service Deployment Slots and Azure CLI
+
+04-12 QUIZ Configuring Web Apps
+CHAPTER 05 Conclusion
+05-01 Course Summary
+
+05-02 Conclusion and What’s Next
+
