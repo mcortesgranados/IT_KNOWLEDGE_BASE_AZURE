@@ -1,0 +1,67 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+04:24
+
+About the Training Architect
+02:03
+Course Introduction
+02:21
+
+CHAPTER 2
+
+Azure AI Solution Requirements
+09:55
+
+Recommend Cognitive Services APIs to Meet Business Requirements
+03:43
+Map Security Requirements to Tools, Technologies, and Processes
+02:52
+Select the Software, Services, and Storage Required to Support a Solution
+03:20
+CHAPTER 3
+
+Azure AI Components and Solutions
+09:01
+
+Design Solutions that Include One or More Pipelines
+02:34
+Design Solutions that Use Cognitive Services
+01:11
+Design Solutions that Implement the Bot Framework
+02:34
+Design the Compute Infrastructure to Support a Solution
+02:42
+CHAPTER 4
+
+Azure AI Workflow and Pipelines
+08:39
+
+Design for Data Governance, Compliance, Integrity, and Security
+03:49
+Implement an AI Workflow
+04:50
+CHAPTER 5
+
+Azure AI Implementation and Monitoring
+07:48
+
+Integrate AI Services with Solution Components
+03:15
+Monitor and Evaluate the AI Environment
+04:33
+CHAPTER 6
+
+Practice Exam
+2:00:00
+
+PRACTICE EXAM
+Azure AI-100 Practice Exam
+2:00:00
+CHAPTER 7
+
+Final Steps
+02:53
+
+How to Prepare for the Exam
