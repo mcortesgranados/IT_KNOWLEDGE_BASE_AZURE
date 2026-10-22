@@ -1,0 +1,146 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+02:43
+
+Course Introduction
+01:10
+
+Course Overview
+01:33
+CHAPTER 2
+
+Architectural Components of Azure
+1:02:58
+
+Azure Regions
+10:55
+Availability Zones
+08:04
+Exploring Azure Global Infrastructure
+07:50
+Resource Organization
+09:14
+Resource Hierarchy
+06:42
+Exam Tips:  Architectural Components of Azure
+05:13
+QUIZ
+Architectural Components of Azure
+15:00
+CHAPTER 3
+
+Azure Compute
+2:26:45
+
+Azure Compute Concepts
+03:43
+Virtual Machines
+12:55
+Demo: Creating Virtual Machines
+13:25
+Demo: Connecting to Virtual Machines
+12:24
+HANDS-ON LAB
+Deploying Your First Azure Virtual Machine
+30:00
+Virtual Machine Scale Sets
+07:20
+Availability Sets
+09:20
+Azure Virtual Desktop
+05:56
+App Services
+06:10
+Demo: Creating an App Service
+09:24
+Azure Functions
+05:58
+Introduction to Containers
+05:17
+Container Deployment Options
+05:59
+Exam Tips: Azure Compute
+03:54
+QUIZ
+Azure Compute
+15:00
+CHAPTER 4
+
+Azure Networking
+1:50:05
+
+Virtual Networks
+13:14
+Network Security
+05:28
+HANDS-ON LAB
+Creating Azure Virtual Networks
+30:00
+Demo: Creating a Virtual Network
+11:45
+Network Peering
+03:00
+Azure DNS
+06:17
+Hybrid Networking
+02:47
+Azure VPN
+08:38
+ExpressRoute
+04:23
+Public and Private Endpoints
+03:33
+Exam Tips: Azure Networking
+06:00
+QUIZ
+Azure Networking
+15:00
+CHAPTER 5
+
+Azure Storage
+2:14:52
+
+Introduction to Azure Storage
+04:17
+Azure Blobs
+05:27
+Blob Storage Tiers
+07:42
+Demo: Create a Storage Account
+08:29
+Demo: Upload Files to a Blob Container
+09:06
+HANDS-ON LAB
+Creating an Azure Storage Account and Blob Container
+30:00
+Disks
+08:13
+Azure Files
+03:46
+Tables and Queues
+04:45
+Storage Redundancy
+08:27
+Moving Data in Azure Storage
+03:58
+Demo: Azure Storage Explorer and AzCopy
+11:45
+Additional Migration Options
+04:07
+Premium Performance Options
+03:49
+Exam Tips: Azure Storage
+06:01
+QUIZ
+Azure Storage
+15:00
+CHAPTER 6
+
+Conclusion
+06:53
+
+Revisiting Defense in Depth
+04:50
+Conclusion and What’s Next
