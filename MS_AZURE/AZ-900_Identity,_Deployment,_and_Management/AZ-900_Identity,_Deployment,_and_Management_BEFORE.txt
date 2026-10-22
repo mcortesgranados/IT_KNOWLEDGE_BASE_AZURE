@@ -1,0 +1,78 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+04:33
+
+Course Introduction
+01:40
+
+Exam and Course Overview
+02:53
+CHAPTER 2
+
+Azure Identity, Authentication, and Authorization
+1:40:59
+
+Defining Identity, Authentication, and Authorization
+04:26
+Azure Active Directory (Azure AD)
+07:21
+HANDS-ON LAB
+Create a Group and Add a Member in Microsoft Entra ID
+30:00
+Zero Trust Concepts
+04:43
+Multi-Factor Authentication
+02:15
+Conditional Access
+04:17
+Passwordless Authentication
+06:18
+External Guest Access
+06:16
+Azure Active Directory Domain Services
+04:21
+Managing Access to Resources with Role-Based Access Control (RBAC)
+04:55
+Revisiting Defense in Depth
+04:07
+Exam Tips: Azure Identity, Authentication, and Authorization
+07:00
+QUIZ
+Azure Identity, Authentication, and Authorization Knowledge Check
+15:00
+CHAPTER 3
+
+Management and Deployment Tools
+2:13:19
+
+Interacting with Azure Using Azure Resource Manager (ARM)
+02:21
+Understanding the Azure Portal
+03:42
+HANDS-ON LAB
+Accessing and Using the Azure Portal
+30:00
+Azure CLI
+03:28
+Azure PowerShell
+06:34
+Accessing Azure Cloud Shell
+02:30
+HANDS-ON LAB
+Accessing and Using the Azure Cloud Shell
+45:00
+Azure ARM Templates
+06:26
+Exam Tips: Management and Deployment Tools
+03:18
+QUIZ
+Management and Deployment Tools Knowledge Check
+30:00
+CHAPTER 4
+
+Conclusion
+01:43
+
+Course Summary
