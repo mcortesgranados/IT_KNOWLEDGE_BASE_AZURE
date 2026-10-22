@@ -1,0 +1,176 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+01:16
+
+Course Introduction
+01:16
+CHAPTER 2
+
+Introduction to Site Reliability Engineering
+36:50
+
+What Is Site Reliability Engineering?
+07:37
+
+
+
+SRE vs. DevOps vs. Traditional Operations Models
+07:34
+Exploring SRE roles and responsibilities
+06:39
+QUIZ
+Quiz: Introduction to Site Reliability Engineering
+15:00
+CHAPTER 3
+
+Automation
+1:53:13
+
+Discovering Infrastructure as Code (IaC) Concepts
+12:05
+
+Exploring IaC Tools
+05:57
+
+
+
+
+
+
+Exploring Azure Automation
+07:54
+
+Discovering Azure App Configuration
+06:41
+
+Exploring Azure Automanage Machine Configuration
+05:36
+
+
+HANDS-ON LAB
+Deploy a Small Environment Using an ARM Template
+1:00:00
+QUIZ
+Quiz: Automation
+15:00
+CHAPTER 4
+
+Designing Resilient and Scalable Systems
+1:18:16
+
+Discovering System Resiliency and Scalability in Azure
+09:04
+
+
+Exploring Azure Networking for Resilience
+14:02
+
+Scaling Azure App Service and Virtual Machine Scale Sets
+10:10
+HANDS-ON LAB
+Configure Azure Front Door Service
+30:00
+QUIZ
+Designing Resilient and Scalable Systems
+15:00
+CHAPTER 5
+
+Monitoring and Performance
+1:36:01
+
+Discovering Azure Monitor
+04:48
+
+Exploring Metric Charts and Dashboards
+08:02
+
+Logging with Azure Monitor
+11:32
+
+
+
+
+
+Exploring Application Insights
+06:42
+
+
+
+Understanding Application Health Monitoring
+07:37
+
+Understanding Baseline Metrics
+06:49
+
+
+Exploring System Load and Failure Conditions
+05:54
+
+Exploring Infrastructure Performance Indicators
+07:27
+Using Azure Monitor for SLOs
+07:10
+QUIZ
+Quiz: Monitoring and Performance
+30:00
+CHAPTER 6
+
+Incident Response and Troubleshooting
+1:59:09
+
+Discovering Incident Management Tools and Processes in Azure
+06:43
+
+
+
+Configuring Alerts
+07:39
+Deciding Which Dependencies to Set Alerts On
+11:27
+
+
+
+Implementing Application Health Checks
+04:54
+Discovering Application Insights Smart Detection and Dynamic Thresholds
+11:39
+
+Exploring Distributed Tracing
+09:55
+Exploring Monitoring Feedback Loops
+06:52
+HANDS-ON LAB
+Configure an Azure Monitor Alert Rule
+30:00
+QUIZ
+Quiz: Incident Response and Troubleshooting
+30:00
+CHAPTER 7
+
+Business Continuity and Disaster Recovery
+1:10:56
+
+Discovering Disaster Recovery (DR)
+08:58
+Backing Up with Azure
+10:06
+
+Exploring Azure Site Recovery
+06:52
+
+HANDS-ON LAB
+Configure a Backup Policy for an Azure Virtual Machine
+30:00
+QUIZ
+Quiz: Business Continuity and Disaster Recovery
+15:00
+CHAPTER 8
+
+Conclusion
+07:25
+
+Course Summary
+06:30
+Conclusion and What’s Next
