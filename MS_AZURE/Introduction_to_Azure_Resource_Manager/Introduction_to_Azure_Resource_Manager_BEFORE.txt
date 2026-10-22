@@ -1,0 +1,185 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+02:00
+
+Course Introduction
+02:00
+CHAPTER 2
+
+Principles of Azure Resource Manager
+1:32:47
+
+Principles of Azure Resource Manager: Introduction
+01:17
+Introducing Azure Resource Manager
+13:20
+
+Exploring Azure Resource Manager
+11:16
+
+Organizing Resources with Tags
+07:07
+Controlling Access to Resources
+09:48
+
+
+Principles of Azure Resource Manager: Summary
+04:59
+QUIZ
+Quiz: Principles of Azure Resource Manager
+15:00
+HANDS-ON LAB
+Azure Resource Manager Tagging and Locking Scenarios
+30:00
+CHAPTER 3
+
+Introducing Azure Resource Manager (ARM) Templates
+3:05:02
+
+Introducing ARM Templates
+01:58
+Exploring Infrastructure as Code in Azure
+14:09
+Setting Up Your ARM Environment
+13:19
+
+
+
+
+
+
+
+Understanding ARM Template Schema
+09:14
+
+
+Deploying Your Templates
+07:38
+
+
+
+Exploring ARM Template Resources
+08:38
+
+
+Exploring ARM Template Variables and Functions
+10:15
+
+
+
+Exploring ARM Template Parameters
+11:46
+
+Handling ARM Template Dependencies
+07:57
+
+Creating ARM Template Conditions
+08:03
+
+
+Adding ARM Template Loops
+08:02
+
+Enforcing Resource Policies
+09:00
+
+
+Defining Custom Roles for Role-Based Access Control
+06:38
+
+Introducing ARM Templates: Summary
+08:25
+QUIZ
+Quiz: Introducing ARM Templates
+15:00
+HANDS-ON LAB
+Making Your Existing ARM Templates Reusable Using Parameters and Functions
+45:00
+CHAPTER 4
+
+Introducing Bicep Files
+2:39:50
+
+Introducing Bicep Files
+01:21
+Understanding Bicep Files
+04:32
+
+Exploring Bicep Resources
+06:31
+
+Handling Bicep Dependencies
+08:02
+
+Exploring Bicep Variables and Functions
+06:26
+
+Exploring Bicep Parameters
+11:30
+
+
+Creating Bicep Conditions
+04:39
+
+Adding Bicep Loops
+07:00
+
+
+Introducing Bicep Files: Summary
+04:49
+QUIZ
+Quiz: Introducing Bicep Files
+15:00
+HANDS-ON LAB
+Controlling the Order of Your Bicep Deployment Using Dependencies
+45:00
+HANDS-ON LAB
+Applying Conditions to Your Bicep Files to Deploy at Scale
+45:00
+CHAPTER 5
+
+Testing and Debugging
+1:03:39
+
+Testing and Debugging: Introduction
+01:19
+Discovering the Bicep Linter
+08:04
+
+
+
+Testing Using What-If Operations
+10:05
+
+
+
+Exploring Debugging Techniques
+10:46
+
+
+
+
+
+
+Understanding Deployment History
+10:05
+
+
+Debugging a Deployment Using Logs
+04:56
+
+Testing and Debugging: Summary
+03:24
+QUIZ
+Quiz: Testing and Debugging
+15:00
+CHAPTER 6
+
+Conclusion
+10:44
+
+Course Summary
+09:43
+Conclusion and What’s Next
