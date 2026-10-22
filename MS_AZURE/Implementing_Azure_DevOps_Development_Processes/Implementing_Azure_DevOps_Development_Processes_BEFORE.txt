@@ -1,0 +1,95 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+03:12
+
+Course Introduction
+02:09
+
+
+About the Training Architect
+01:03
+CHAPTER 2
+
+Design a Version Control Strategy
+14:31
+
+Recommended Branching Models
+07:24
+Recommended Version Control Systems
+03:35
+Recommended Code Flow Strategy
+03:32
+CHAPTER 3
+
+Implement and Integrate Source Control
+41:28
+
+Integrate External Source Control
+02:18
+Integrate Source Control into Third-Party Continuous Integration and Continuous Deployment (CI/CD) Systems
+09:10
+HANDS-ON LAB
+Creating and Configuring an Azure Repo
+30:00
+CHAPTER 4
+
+Implement and Manage Build Infrastructure
+12:57
+
+Implement Private and Hosted Agents
+03:25
+Integrate Third-Party Build Systems
+03:44
+Recommended Strategy for Concurrent Pipelines
+02:55
+Manage Azure Pipeline Configuration
+02:53
+CHAPTER 5
+
+Implement Code Flow
+11:31
+
+Implement Pull Request Strategies
+04:26
+Implement Branch and Fork Strategies
+02:19
+Configure Branch Policies
+04:46
+CHAPTER 6
+
+Implement a Mobile DevOps Strategy
+22:26
+
+Manage Mobile Target Device Sets and Distribution Groups
+10:02
+Manage Target UI Test Device Sets
+05:17
+Provision Tester Devices for Deployment
+02:45
+Create Public and Private Distribution Groups
+04:22
+CHAPTER 7
+
+Managing Application Configuration and Secrets
+30:17
+
+Implement a Secure and Compliant Development Process
+05:43
+Implement General (Non-secret) Configuration Data
+03:22
+Manage Secrets, Tokens, and Certificates
+07:17
+Implement Application Configurations
+06:14
+Implement Secrets Management
+03:28
+Implement Tools for Managing Security and Compliance in the Pipeline
+04:13
+CHAPTER 8
+
+Course Wrap Up
+01:41
+
+Conclusion and Next Steps
