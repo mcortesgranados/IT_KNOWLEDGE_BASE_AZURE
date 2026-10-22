@@ -1,0 +1,61 @@
+Course Outline
+CHAPTER 1
+
+Course Introduction
+10:38
+
+Course Introduction
+07:38
+Meet the Training Architect
+03:00
+CHAPTER 2
+
+Architecture
+2:27:31
+
+Azure Active Directory
+30:03
+Azure AD B2C
+23:19
+Azure AD Domain Services
+23:32
+Azure AD Connect
+25:37
+HANDS-ON LAB
+Install Azure AD Connect
+45:00
+CHAPTER 3
+
+Authentication
+1:51:27
+
+Users and Groups
+12:06
+Enterprise Applications
+18:26
+App Registrations
+20:38
+Managed Identities
+15:17
+HANDS-ON LAB
+Create a Managed Identity
+45:00
+CHAPTER 4
+
+Administration
+1:19:09
+
+Identity Governance
+22:32
+Azure AD Conditional Access
+28:02
+Azure AD Privileged Identity Management
+19:34
+Azure AD Identity Protection
+09:01
+CHAPTER 5
+
+Course Conclusion
+01:13
+
+What's Next
