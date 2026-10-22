@@ -1,0 +1,173 @@
+Course Outline
+CHAPTER 1
+
+Welcome to the Course
+07:10
+
+Course Introduction
+03:28
+
+Course Support and Feedback
+02:39
+About the Training Architect
+01:03
+CHAPTER 2
+
+Storage Fundamentals
+21:14
+
+Data Types
+11:46
+Storage Solutions
+09:28
+CHAPTER 3
+
+Azure Storage Overview
+1:13:57
+
+Azure Storage Overview
+08:02
+Azure Storage Accounts
+13:38
+Azure Storage Management and Tools
+09:21
+Azure Storage Security
+12:56
+HANDS-ON LAB
+Creating Azure Storage Accounts
+30:00
+CHAPTER 4
+
+Blob Storage
+3:45:36
+
+Blob Storage Overview
+14:40
+Blob Storage Access Tiers
+13:02
+Storage Account Replication
+07:58
+Blob Storage Connectivity: Part I
+08:52
+Blob Storage Connectivity: Part II
+14:45
+Blob Storage Security: Part I
+18:18
+Blob Storage Security: Part II
+04:15
+Developing with Blob Storage: Part I
+09:01
+Developing with Blob Storage: Part II
+14:45
+HANDS-ON LAB
+Using Blob Storage from the Azure Cloud Shell
+30:00
+HANDS-ON LAB
+Hosting a Static Website with Azure Blob Storage
+45:00
+HANDS-ON LAB
+Interact with Azure Blobs Using REST
+45:00
+CHAPTER 5
+
+Azure Data Lake Storage (ADLS)
+45:21
+
+Azure Data Lake Storage Overview
+08:57
+Working with Azure Data Lake Storage
+06:24
+HANDS-ON LAB
+Azure Data Lake Gen2 From the Command Line
+30:00
+CHAPTER 6
+
+Azure Files
+2:34:45
+
+Azure Files Overview
+06:15
+Azure Files Security
+11:38
+Azure Files Implementation
+12:37
+Developing with Azure Files and the REST API
+19:15
+HANDS-ON LAB
+Using Azure Files with a Linux VM
+30:00
+HANDS-ON LAB
+Shared Application Configuration with Azure Files
+30:00
+HANDS-ON LAB
+Interacting with Azure Files Using REST
+45:00
+CHAPTER 7
+
+Azure File Sync
+22:38
+
+Azure File Sync Overview
+06:37
+Azure File Sync Security
+06:55
+Azure File Sync Implementation
+09:06
+CHAPTER 8
+
+Azure Queue Storage
+1:18:19
+
+Azure Queue Storage Overview
+07:25
+Azure Queue Storage Security
+11:26
+Developing with Azure Queue Storage
+14:28
+HANDS-ON LAB
+Interacting with Azure Queues Using REST
+45:00
+CHAPTER 9
+
+Azure Table Storage
+1:09:03
+
+Azure Table Storage Overview
+08:21
+Azure Table Storage Security
+04:45
+Developing with Azure Table Storage
+10:57
+HANDS-ON LAB
+Accessing Azure Table Data with REST
+45:00
+CHAPTER 10
+
+Azure Disks
+1:34:00
+
+Azure Disks Overview
+08:08
+Azure Disk Types and Performance
+09:14
+Azure Disk Encryption
+05:57
+Azure Disk Management and Snapshots
+10:41
+HANDS-ON LAB
+Attaching an Azure Managed Disk to a Linux VM
+30:00
+HANDS-ON LAB
+Using Ephemeral OS Disks in Azure for Stateless VMs
+30:00
+CHAPTER 11
+
+Final Thoughts
+39:24
+
+Choosing the Right Service
+07:09
+What's Next?
+02:15
+QUIZ
+Quiz: Azure Storage Deep Dive
