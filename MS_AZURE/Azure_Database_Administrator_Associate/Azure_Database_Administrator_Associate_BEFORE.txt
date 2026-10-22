@@ -1,0 +1,300 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+26:32
+
+Course Introduction
+02:09
+
+About the Training Architect - Steven Moran
+01:44
+About the Training Architect - Landon Fowler
+00:52
+DP-300 Exam Overview
+13:20
+
+
+
+Course Overview
+08:27
+
+CHAPTER 2
+
+Deploying Azure SQL Databases
+4:29:23
+
+Introduction to Deploying Azure SQL Systems
+01:33
+Exploring SQL Database Deployment Options in Azure
+05:16
+
+
+Exploring Azure SQL Resource Configuration Basics
+14:10
+
+
+Examining the DTU Purchasing Model
+09:27
+
+
+Examining the vCore Purchasing Model
+09:29
+
+Examining the Standard/General Purpose Service Tiers
+08:24
+
+Examining the Premium/Business Critical Service Tiers
+06:00
+
+Examining the Hyperscale Service Tier
+08:01
+
+
+Selecting the “Best” Resource Configuration Options
+17:53
+
+
+
+Provisioning Azure SQL Database Servers
+13:37
+
+Provisioning Azure SQL Single Databases
+14:37
+
+
+Demo: Creating Azure SQL Database Servers and Single Databases using the Azure Portal
+14:18
+Provisioning Azure SQL Elastic Pools
+16:05
+
+
+Demo: Creating Elastic Pools using the Azure Portal
+09:02
+HANDS-ON LAB
+Provision Azure SQL Databases
+15:00
+Implementing SQL Server on Azure VMs
+16:11
+
+
+Demo: Provisioning SQL Server on Azure VM
+10:39
+
+Provisioning Azure SQL Managed Instances - Part 1
+09:44
+
+Provisioning Azure SQL Managed Instances - Part 2
+09:22
+
+Demo: Provisioning Azure SQL Managed Instance using the Azure Portal
+09:37
+
+Selecting the “Best” Azure SQL Deployment Option
+07:42
+
+
+HANDS-ON LAB
+Implement a SQL Server Database on an Azure VM
+30:00
+Automating SQL Deployment with PowerShell and Azure CLI
+13:16
+
+
+
+
+CHAPTER 3
+
+Securing Azure SQL Databases
+4:37:21
+
+Introduction to Securing Azure Resources
+01:33
+Authorizing Management Access to Azure SQL Objects
+05:50
+Controlling Network Access to Azure SQL Databases
+15:38
+
+
+Controlling Network Access to SQL Virtual Machines
+04:05
+
+Controlling Network Access to Azure SQL Managed Instances
+07:55
+
+
+Managing Azure SQL Authentication
+14:14
+
+
+Authorizing SQL Data Access - Part 1
+09:09
+
+
+
+Authorizing SQL Data Access - Part 2
+11:50
+
+HANDS-ON LAB
+Manage Access to Azure SQL Data
+1:00:00
+Protecting SQL Data
+15:18
+
+
+
+
+
+
+Integrating with Azure Key Vault
+16:35
+
+
+Demo: Integrating Azure SQL with Azure Key Vault - Pt 1
+06:04
+Demo: Integrating Azure SQL with Azure Key Vault - Pt 2
+09:09
+Demo: Enable Column Encryption in SSMS
+07:06
+Examining Azure Defender for SQL
+10:49
+
+
+
+
+Monitoring Azure SQL Activity
+15:43
+
+
+
+
+SQL Data Discovery and Classification
+06:23
+
+
+
+HANDS-ON LAB
+Protect SQL Database Data
+1:00:00
+CHAPTER 4
+
+Implementing HA/DR for Azure SQL
+1:26:48
+
+Introduction to Implementing HA/DR for Azure SQL
+00:57
+SQL Virtual Machine Backup and Recovery Options
+08:20
+
+
+
+Azure SQL PaaS Backup and Recovery Options
+05:15
+SQL Server Continuity Solutions - Part 1
+07:34
+
+
+SQL Server Continuity Solutions - Part 2
+10:14
+
+
+Azure Virtual Machine Continuity Solutions
+13:32
+
+
+Azure SQL PaaS Continuity Solutions
+10:56
+
+
+
+HANDS-ON LAB
+Perform SQL Database Backup and Recovery in Azure
+30:00
+CHAPTER 5
+
+Migrating to Azure SQL
+57:01
+
+Introduction to Migrating to Azure SQL
+01:52
+Exploring the Azure SQL Migration Process
+11:02
+
+Exploring SQL Migration Tools & Services
+06:02
+
+
+
+
+
+Exploring Azure SQL Migration Methods
+09:39
+Azure SQL Family Migration Considerations
+08:02
+Working with the Azure Database Migration Service - Part 1
+08:55
+
+Working with the Azure Database Migration Service - Part 2
+11:29
+
+CHAPTER 6
+
+Monitoring and Maintaining Azure SQL Database Performance
+4:42:47
+
+Introduction to Azure SQL Performance
+10:05
+Working with Performance Baselines
+09:40
+Identifying Performance Problems (Part 1)
+07:56
+Identifying Performance Problems (Part 2)
+13:03
+
+Working with Extended Events
+11:43
+HANDS-ON LAB
+Use Extended Events to Identify Performance Problems
+30:00
+Improving System Performance (Part 1)
+11:56
+Improving System Performance (Part 2)
+05:51
+Examining Azure SQL Scalability Options
+07:44
+Improving Query Performance
+08:24
+HANDS-ON LAB
+Resolve Query Performance Issues
+30:00
+Maintaining Performance
+08:46
+HANDS-ON LAB
+Manually Implement Database Maintenance
+30:00
+Automating Maintenance
+09:03
+Working with SQL Server Agent
+08:02
+HANDS-ON LAB
+Establish a Maintenance Plan on SQL Server
+30:00
+Working with Azure Automation
+08:19
+Working with Elastic Jobs
+12:15
+
+HANDS-ON LAB
+Automate Maintenance on Azure SQL Databases
+30:00
+CHAPTER 7
+
+Conclusion
+2:26:41
+
+Final Words
+09:57
+Course Wrap-Up
+01:44
+PRACTICE EXAM
+DP-300 Practice Exam
