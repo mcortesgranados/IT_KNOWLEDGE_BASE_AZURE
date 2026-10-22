@@ -1,0 +1,206 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+41:12
+
+Course Introduction
+01:47
+
+Course Structure
+02:50
+A Note About Demo Lessons
+00:54
+Introduction to the Azure DevOps
+06:25
+
+
+
+
+
+
+Creating an Azure DevOps Organization
+02:19
+Creating Team Projects and Teams
+02:24
+Team Project Options
+05:06
+DevOps Licensing
+03:02
+
+Disabling Unused Services
+00:51
+Introduction Summary
+00:34
+QUIZ
+Introduction to Azure DevOps - Introduction Quiz
+15:00
+CHAPTER 2
+
+Azure Boards
+46:34
+
+Introduction to Azure Boards
+01:39
+Work Items
+04:16
+Working with the Backlog
+06:40
+Configuring the Backlog
+02:42
+Working with Boards
+03:19
+Working with Sprints
+03:20
+Area Paths and Iteration Paths
+03:44
+Bugs
+02:09
+Working with Bugs
+01:14
+Work Item Queries
+01:50
+Azure Boards Summary
+00:41
+QUIZ
+Introduction to Azure DevOps - Azure Boards Quiz
+15:00
+CHAPTER 3
+
+Azure Repos
+40:43
+
+Introduction to Azure Repos
+01:37
+Types of Source Control
+05:32
+Working with a Git Repo
+04:00
+
+Branching and Merging
+04:18
+
+
+
+
+Pull Requests
+04:26
+
+Managing Git Repositories
+02:17
+
+Branch Authorizations and Policies
+02:51
+Azure Repos Summary
+00:42
+QUIZ
+Introduction to Azure DevOps - Azure Repos Quiz
+15:00
+CHAPTER 4
+
+Azure Pipelines
+1:09:00
+
+Introduction to Azure Pipelines
+01:52
+Builds vs Releases
+02:50
+Agents and Agent Pools
+02:53
+Creating a Build for Miniboard
+06:57
+Creating a Release for Miniboard
+07:23
+Using the Library: Variable Groups and Secure Files
+02:22
+Task Groups
+02:04
+Deployment Groups
+01:30
+YAML Pipelines
+05:47
+
+Demo: Creating a YAML build for Miniboard - part 1
+09:43
+
+
+
+Demo: Creating a multi-stage pipeline for Miniboard - part 2
+09:37
+
+Azure Pipelines Summary
+01:02
+QUIZ
+Introduction to Azure DevOps - Azure Pipelines Quiz
+15:00
+CHAPTER 5
+
+Azure Test Plans
+37:47
+
+Introduction to Azure Test Plans
+01:31
+Types of Tests
+07:24
+Running Automated Tests in a Pipeline
+03:23
+Creating Manual Test Suites
+03:34
+Executing Manual Tests
+03:16
+Exploratory Testing
+02:54
+
+Azure Test Plans Summary
+00:45
+QUIZ
+Introduction to Azure DevOps - Azure Test Plans Quiz
+15:00
+CHAPTER 6
+
+Azure Artifacts
+29:04
+
+Introduction to Azure Artifacts
+00:58
+About Feeds
+03:52
+Creating a Feed
+03:05
+Publishing NuGet Packages
+02:15
+Consuming NuGet Packages
+03:09
+Azure Artifacts Summary
+00:45
+QUIZ
+Introduction to Azure DevOps - Azure Artifacts Quiz
+15:00
+CHAPTER 7
+
+Other Things You Should Know
+28:21
+
+Final Topics
+01:09
+Dashboards
+03:10
+Traceability
+04:54
+Using Extensions
+03:12
+Summary
+00:56
+QUIZ
+Introduction to Azure DevOps - Other Things You Should Know Quiz
+15:00
+CHAPTER 8
+
+Wrapping Up
+05:47
+
+Closing Notes
+02:52
+Cleaning Up
+01:27
+Thank You and Goodbye
