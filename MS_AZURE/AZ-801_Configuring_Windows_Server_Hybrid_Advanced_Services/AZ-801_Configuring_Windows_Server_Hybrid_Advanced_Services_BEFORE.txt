@@ -1,0 +1,669 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+23:01
+
+Course Introduction
+04:01
+About the Exam
+04:00
+
+QUIZ
+QUIZ: AZ-801 Readiness Check
+15:00
+CHAPTER 2
+
+Secure Windows Server Operating System
+2:41:51
+
+Introduction: Secure Windows Server Operating System
+01:05
+Configuring and Managing Exploit Protection
+14:10
+
+
+
+Configuring and Managing Windows Defender Application Control
+14:05
+
+
+Configuring and Managing Microsoft Defender for Endpoint
+13:59
+
+
+Configuring and Managing Windows Defender Credential Guard
+09:53
+
+
+Configuring SmartScreen
+10:48
+
+
+Implementing Operating System Security Using Group Policies
+12:32
+
+
+Summary: Secure Windows Server Operating System
+05:16
+HANDS-ON LAB
+Configuring Microsoft Defender SmartScreen with Group Policy
+1:00:00
+QUIZ
+QUIZ: AZ-801 Secure Windows Server Operating System
+15:00
+Exam Question Review: Secure Windows Server Operating System
+05:03
+CHAPTER 3
+
+Secure a Hybrid Active Directory (AD) Infrastructure
+3:09:10
+
+Introduction: Secure a Hybrid Active Directory (AD) Infrastructure
+01:23
+Configuring Password Policies
+12:00
+Enabling Password Block Lists
+12:13
+
+
+Managing Protected Users
+04:21
+Managing Account Security on a Read-Only Domain Controller (RODC)
+08:23
+
+Hardening Domain Controllers
+05:20
+Configuring Authentication Policy Silos
+12:22
+
+Restricting Access to Domain Controllers
+04:42
+Configuring Account Security
+04:07
+Managing AD Built-In Administrative Groups
+07:57
+
+
+Managing AD Delegation
+07:51
+
+Implementing and Managing Microsoft Defender for Identity
+07:52
+
+Summary: Secure a Hybrid Active Directory (AD) Infrastructure
+06:09
+HANDS-ON LAB
+Restrict Windows Server Access to a Specific Active Directory Group
+1:00:00
+QUIZ
+QUIZ: AZ-801 Secure a Hybrid Active Directory (AD) Infrastructure
+30:00
+Exam Question Review: Secure a Hybrid Active Directory (AD) Infrastructure
+04:30
+CHAPTER 4
+
+Secure and Troubleshoot Windows Server Networking
+2:21:27
+
+Introduction: Secure and Troubleshoot Windows Server Networking
+01:35
+Managing Windows Defender Firewall
+09:05
+Implementing Domain Isolation
+09:53
+Implementing Connection Security Rules
+07:11
+Troubleshooting Hybrid Network Connectivity
+07:00
+Troubleshooting On-Premises Connectivity
+08:02
+
+Summary: Secure and Troubleshoot Windows Server Networking
+05:15
+HANDS-ON LAB
+Secure Server Access with Windows Defender Firewall
+1:15:00
+QUIZ
+QUIZ: AZ-801 Secure and Troubleshoot Windows Server Networking
+15:00
+Exam Question Review: Secure and Troubleshoot Windows Server Networking
+03:26
+CHAPTER 5
+
+Secure Windows Server Storage
+1:42:04
+
+Introduction: Secure Windows Server Storage
+01:23
+Managing Windows BitLocker Drive Encryption
+11:07
+
+
+Managing and Recovering Encrypted Volumes
+10:52
+
+
+Enabling Storage Encryption Using Azure Disk Encryption
+07:42
+
+Managing Disk Encryption Keys for IaaS Virtual Machines
+04:30
+Summary: Secure Windows Server Storage
+03:02
+HANDS-ON LAB
+Applying Azure Disk Encryption to a Windows Virtual Machine
+45:00
+QUIZ
+QUIZ: AZ-801 Secure Windows Server Storage
+15:00
+Exam Question Review: Secure Windows Server Storage
+03:28
+CHAPTER 6
+
+Implement a Windows Server Failover Cluster
+3:01:21
+
+Introduction: Implement a Windows Server Failover Cluster
+03:40
+Implementing a Failover Cluster in On-Premises, Hybrid, or Cloud Environments
+09:34
+Creating a Windows Failover Cluster
+09:28
+
+
+
+Stretching Clusters across Data Centers or Azure Regions
+07:58
+
+Configuring Storage for Failover Clustering
+09:55
+
+
+Modifying Quorum Options
+08:45
+
+Configuring Network Adapters for Failover Clustering
+04:41
+Configuring Cluster Workload Options
+08:40
+
+
+Configuring Cluster Sets
+06:16
+
+Configuring Scale-Out File Server
+07:32
+
+
+Creating an Azure Cloud Witness
+05:40
+
+Configuring a Floating IP Address for a Cluster
+04:41
+Implementing Load Balancing for a Failover Cluster
+03:44
+Summary: Implement a Windows Server Failover Cluster
+12:38
+HANDS-ON LAB
+Creating a Windows Server Failover Cluster
+1:00:00
+QUIZ
+QUIZ: AZ-801 Implement a Windows Server Failover Cluster
+15:00
+Exam Question Review: Implement a Windows Server Failover Cluster
+03:09
+CHAPTER 7
+
+Manage Failover Clustering
+2:10:15
+
+Introduction: Manage Failover Clustering
+01:34
+Implementing Cluster-Aware Updating
+11:09
+
+
+Recovering a Failed Cluster Node
+05:27
+Upgrading a Node to Windows Server 2022
+08:43
+
+Failover Workloads between Nodes
+06:16
+Installing Windows Updates on Cluster Nodes
+05:39
+
+Managing Failover Clusters Using Windows Admin Center
+07:59
+
+Summary: Manage Failover Clustering
+04:32
+HANDS-ON LAB
+Creating a Windows Server Failover Cluster with Windows Admin Center
+1:00:00
+QUIZ
+QUIZ: AZ-801 Manage Failover Clustering
+15:00
+Exam Question Review: Manage Failover Clustering
+03:56
+CHAPTER 8
+
+Implement and Manage Storage Spaces Direct
+55:13
+
+Introduction: Implement and Manage Storage Spaces Direct
+01:32
+Creating a Failover Cluster Using Storage Spaces Direct
+10:14
+
+
+
+Upgrading a Storage Spaces Direct Node
+06:38
+Implementing Networking for Storage Spaces Direct
+04:40
+Configuring Storage Spaces Direct
+09:22
+
+Summary: Implement and Manage Storage Spaces Direct
+04:11
+QUIZ
+QUIZ: AZ-801 Implement and Manage Storage Spaces Direct
+15:00
+Exam Question Review: Implement and Manage Storage Spaces Direct
+03:36
+CHAPTER 9
+
+Manage Backup and Recovery for Windows Server
+2:05:07
+
+Introduction: Manage Backup and Recovery for Windows Server
+02:36
+Backing Up and Restoring Files and Folders to an Azure Recovery Services Vault
+11:14
+Installing and Managing Azure Backup Server
+08:42
+
+Backing Up and Recovering Using Azure Backup Server
+09:13
+
+
+Configuring Backups for Azure Virtual Machines Using the Built-In Backup Agent
+09:09
+Creating a Backup Policy
+05:33
+Managing Backups in an Azure Recovery Services Vault
+05:59
+Recovering VMs to New Azure Virtual Machines
+04:53
+Recovering a VM Using Temporary Snapshots
+03:47
+Restoring a VM
+06:30
+Summary: Manage Backup and Recovery for Windows Server
+09:14
+HANDS-ON LAB
+Configure a Backup Policy for an Azure Virtual Machine
+30:00
+QUIZ
+QUIZ: AZ-801 Manage Backup and Recovery for Windows Server
+15:00
+Exam Question Review: Manage Backup and Recovery for Windows Server
+03:17
+CHAPTER 10
+
+Implement Disaster Recovery Using Azure Site Recovery
+1:21:13
+
+Introduction: Implement Disaster Recovery Using Azure Site Recovery
+02:27
+Implementing VM Replication to a Secondary Data Center or Azure Region
+08:45
+Configuring Site Recovery for Azure Virtual Machines
+11:43
+
+
+
+Configuring Site Recovery for On-Premises VMs
+13:26
+
+
+Configuring a Recovery Plan
+09:04
+Configuring Azure Site Recovery Networking
+04:59
+Configuring Azure Site Recovery Policies
+05:10
+
+Summary: Implement Disaster Recovery Using Azure Site Recovery
+06:31
+QUIZ
+QUIZ: AZ-801 Implement Disaster Recovery Using Azure Site Recovery
+15:00
+Exam Question Review: Implement Disaster Recovery Using Azure Site Recovery
+04:08
+CHAPTER 11
+
+Protect Virtual Machines Using Hyper-V Replica
+1:47:36
+
+Introduction: Protect Virtual Machines Using Hyper-V Replica
+00:35
+Configuring Hyper-V Hosts for Replication
+10:27
+Managing Hyper-V Replica Servers
+07:08
+
+Performing a Failover
+08:23
+
+
+Summary: Protect Virtual Machines Using Hyper-V Replica
+02:51
+HANDS-ON LAB
+Configuring Hyper-V Replicas
+1:00:00
+QUIZ
+QUIZ: AZ-801 Protect Virtual Machines Using Hyper-V Replica
+15:00
+Exam Question Review: Protect Virtual Machines Using Hyper-V Replica
+03:12
+CHAPTER 12
+
+Migrate On-Premises Storage to On-Premises Servers or Azure
+2:14:05
+
+Introduction: Migrate On-Premises Storage to On-Premises Servers or Azure
+01:07
+Transferring and Sharing Data
+09:51
+Cutting Over to a New Server Using Storage Migration Service - Part 1
+13:25
+
+Cutting Over to a New Server Using Storage Migration Service - Part 2
+13:38
+
+Using Storage Migration Service to Migrate to Azure Virtual Machines
+13:37
+
+Migrating to Azure File Shares
+14:23
+
+
+Summary: Migrate On-Premises Storage to On-Premises Servers or Azure
+04:15
+HANDS-ON LAB
+Migrating to Azure File Shares from Windows Server
+45:00
+QUIZ
+QUIZ: AZ-801 Migrate On-Premises Storage to On-Premises Servers or Azure
+15:00
+Exam Question Review: Migrate On-Premises Storage to On-Premises Servers or Azure
+03:49
+CHAPTER 13
+
+Migrate On-Premises Servers to Azure
+1:26:11
+
+Introduction: Migrate On-Premises Servers to Azure
+01:57
+Deploying and Configuring the Azure Migrate Appliance - Part 1
+07:21
+Deploying and Configuring the Azure Migrate Appliance - Part 2
+13:29
+
+Migrating VM Workloads to Azure IaaS
+14:30
+Migrating Physical Workloads to Azure IaaS
+07:45
+Migrating Using Azure Migrate
+15:01
+
+Summary: Migrate On-Premises Servers to Azure
+07:27
+QUIZ
+QUIZ: AZ-801 Migrate On-Premises Servers to Azure
+15:00
+Exam Question Review: Migrate On-Premises Servers to Azure
+03:41
+CHAPTER 14
+
+Migrate Workloads from Previous Versions to Windows Server 2022
+51:34
+
+Introduction: Migrate Workloads from Previous Versions to Windows Server 2022
+00:48
+Migrating Hyper-V Hosts
+10:51
+
+
+
+Migrating Remote Desktop Services (RDS) Host Servers
+04:53
+
+
+
+Migrating Dynamic Host Configuration Protocol (DHCP)
+07:20
+
+
+
+Migrating Print Servers
+05:22
+Summary: Migrate Workloads from Previous Versions to Windows Server 2022
+04:08
+QUIZ
+QUIZ: AZ-801 Migrate Workloads from Previous Versions to Windows Server 2022
+15:00
+Exam Question Review: Migrate Workloads from Previous Versions to Windows Server 2022
+03:12
+CHAPTER 15
+
+Migrate Internet Information Services (IIS) Workloads
+2:55:12
+
+Introduction: Migrate Internet Information Services (IIS) Workloads
+01:30
+Migrating Internet Information Services (IIS)
+05:22
+Migrating IIS Workloads to Azure Web Apps
+12:38
+
+Migrating IIS Workloads to Containers
+14:09
+
+Summary: Migrate Internet Information Services (IIS) Workloads
+03:20
+HANDS-ON LAB
+Migrate an Internet Information Services (IIS) Website
+1:00:00
+HANDS-ON LAB
+Migrate a Website to Azure Web Apps
+1:00:00
+QUIZ
+QUIZ: AZ-801 Migrate Internet Information Services (IIS) Workloads
+15:00
+Exam Question Review: Migrate Internet Information Services (IIS) Workloads
+03:13
+CHAPTER 16
+
+Migrate an Active Directory Domain Services (AD DS) Infrastructure to Windows Server 2022 AD DS
+55:43
+
+Introduction: Migrate an Active Directory Domain Services (AD DS) Infrastructure to Windows Server 2022 AD DS
+01:31
+Migrating AD DS Objects (Including Users, Groups, and Group Policies) Using Active Directory Migration Tool
+12:40
+
+
+Migrating to a New Active Directory Forest
+11:39
+
+
+
+Upgrading an Existing Forest
+06:57
+
+
+Summary: Migrate an Active Directory Domain Services (AD DS) Infrastructure to Windows Server 2022 AD DS
+03:39
+QUIZ
+QUIZ: AZ-801 Migrate an Active Directory Domain Services (AD DS) Infrastructure to Windows Server 2022 AD DS
+15:00
+Exam Question Review: Migrate an Active Directory Domain Services (AD DS) Infrastructure to Windows Server 2022 AD DS
+04:17
+CHAPTER 17
+
+Monitor Windows Server Using Windows Server Tools and Azure Services
+3:35:23
+
+Introduction: Monitor Windows Server Using Windows Server Tools and Azure Services
+01:16
+Monitoring On-Premises Servers and Azure IaaS VMs Using Microsoft Sentinel
+13:31
+
+
+Identifying and Remediating Security Issues in On-Premises Servers and Azure IaaS VMs Using Microsoft Defender for Cloud
+07:49
+
+
+
+Monitoring Windows Server Using Performance Monitor
+08:07
+Creating and Configuring Data Collector Sets
+08:40
+Monitoring with Windows Admin Center and System Insights
+08:22
+
+
+
+
+Managing Event Logs
+13:28
+
+
+
+Deploying Azure Monitor Agents
+04:18
+
+
+
+
+Collecting Performance Counters with Azure
+05:38
+
+
+Creating Alerts
+08:01
+Monitoring Azure VMs' Performance Using VM Insights
+06:30
+Summary: Monitor Windows Server Using Windows Server Tools and Azure Services
+06:37
+HANDS-ON LAB
+Configure Log Analytics for a Virtual Machine
+1:00:00
+HANDS-ON LAB
+Investigate Windows Security Events with Microsoft Sentinel
+45:00
+QUIZ
+QUIZ: AZ-801 Monitor Windows Server Using Windows Server Tools and Azure Services
+15:00
+Exam Question Review: Monitor Windows Server Using Windows Server Tools and Azure Services
+03:06
+CHAPTER 18
+
+Troubleshoot Windows Server Virtual Machines in Azure
+2:47:09
+
+Introduction: Troubleshoot Windows Server Virtual Machines in Azure
+01:00
+Troubleshooting Deployment Failures
+08:23
+
+Troubleshooting Booting Failures
+12:16
+
+Troubleshooting VM Performance Issues
+10:32
+
+Troubleshooting VM Extension Issues
+14:00
+
+Troubleshooting Disk Encryption Issues
+11:31
+
+Troubleshooting Storage
+14:05
+
+Troubleshooting VM Connection Issues
+11:02
+
+Summary: Troubleshoot Windows Server Virtual Machines in Azure
+06:49
+HANDS-ON LAB
+Configuring Performance Diagnostics on an Azure Virtual Machine
+1:00:00
+QUIZ
+QUIZ: AZ-801 Troubleshoot Windows Server Virtual Machines in Azure
+15:00
+Exam Question Review: Troubleshoot Windows Server Virtual Machines in Azure
+02:31
+CHAPTER 19
+
+Troubleshoot Active Directory
+1:49:46
+
+Introduction: Troubleshoot Active Directory
+00:43
+Restoring Objects from AD Recycle Bin
+04:37
+Recovering an Active Directory Database Using Directory Services Restore Mode (DSRM)
+12:15
+
+
+Recovering the System Volume (SYSVOL) Tree
+03:21
+
+Troubleshooting Active Directory Replication
+03:08
+
+Troubleshooting Hybrid and On-Premises Active Directory
+03:52
+
+
+
+
+
+
+
+Summary: Troubleshoot Active Directory
+04:21
+HANDS-ON LAB
+Restore Active Directory User Accounts and Group Memberships
+1:00:00
+QUIZ
+QUIZ: AZ-801 Troubleshoot Active Directory
+15:00
+Exam Question Review: Troubleshoot Active Directory
+02:29
+CHAPTER 20
+
+Practice Exam
+4:06:55
+
+Preparing for the Exam
+06:55
+
+PRACTICE EXAM
+AZ-801: Configuring Windows Server Hybrid Advanced Services Practice Exam 1
+2:00:00
+PRACTICE EXAM
+AZ-801: Configuring Windows Server Hybrid Advanced Services Practice Exam 2
+2:00:00
+CHAPTER 21
+
+Conclusion
+01:12
+
+Conclusion and What’s Next
