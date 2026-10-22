@@ -1,0 +1,176 @@
+Course Outline
+CHAPTER 1
+
+Welcome to the Course
+01:56
+
+Course Introduction
+01:35
+
+About the Training Architect
+00:21
+CHAPTER 2
+
+Linux and Microsoft Can Coexist?
+08:01
+
+Introduction
+00:55
+Open Source PowerShell
+02:07
+Where to Find PowerShell Core and How Licensing Works
+02:34
+Getting Started
+02:25
+CHAPTER 3
+
+Installation
+30:30
+
+Introduction and Prerequisites
+05:27
+Installing PowerShell Core
+01:44
+Installing Visual Studio Code
+05:05
+Installing Azure Data Studio
+03:14
+HANDS-ON LAB
+Installing PowerShell for Linux
+15:00
+CHAPTER 4
+
+Starting to Use PowerShell Core on Linux
+27:02
+
+Using PowerShell Core in the Terminal
+02:54
+Using PowerShell Core in Visual Studio Code
+05:33
+Comments in PowerShell Core
+03:05
+Commands in PowerShell Core: Cmdlets
+07:54
+Debugging PowerShell in Visual Studio Code
+04:11
+What Are Aliases?
+03:25
+CHAPTER 5
+
+Leveraging PowerShell Cmdlets in Linux
+1:03:42
+
+Introduction
+01:47
+How Do Pipelines Work?
+01:34
+Pipelines and Their Implications for Linux Admins
+06:53
+PowerShell Providers
+08:28
+HANDS-ON LAB
+PowerShell Core Cmdlets in Linux
+45:00
+CHAPTER 6
+
+Working with Variables in PowerShell
+51:22
+
+Introduction to Variables
+13:16
+PowerShell Built-In Variables
+03:05
+Cmdlets for Working with Variables
+05:01
+HANDS-ON LAB
+Working with Variables in PowerShell Core for Linux
+30:00
+CHAPTER 7
+
+Strings, Arrays, and Hashtables
+1:24:35
+
+Basics of Strings
+08:03
+String Interpolation
+06:08
+String Formatting
+11:38
+Arrays
+06:36
+Hash Tables
+07:10
+HANDS-ON LAB
+Strings and Arrays in PowerShell Core for Linux
+45:00
+CHAPTER 8
+
+Understanding Logic Flow
+1:21:04
+
+Controlling Logic Flow
+08:54
+Loops
+08:48
+Script Blocks
+03:22
+HANDS-ON LAB
+Logic Flow for PowerShell Core in Linux
+1:00:00
+CHAPTER 9
+
+Advanced Functions
+29:07
+
+Introduction to Functions
+07:24
+Getting Help
+01:29
+Pipelining Functions
+03:49
+Writing Advanced Functions
+03:17
+Writing Cmdlets
+01:17
+Importing and Exporting CSV
+01:58
+Output Variables and Common Parameters
+01:34
+Creating and Checking Modules
+01:14
+Error Handling
+03:13
+Adding Help to Our Functions
+02:57
+Loading Functions from Another Script
+00:55
+CHAPTER 10
+
+What Else Can We Do with PowerShell Core in Linux?
+1:59:15
+
+PowerShell Core as Our Default Shell
+01:12
+Remoting and Bash Integration
+01:18
+Setting Up for Remote Administration
+03:16
+Working with SQL Server Using PowerShell Core
+06:02
+Working with Azure
+06:07
+Creating Azure Storage Accounts
+07:49
+Creating Azure Virtual Machines
+03:31
+HANDS-ON LAB
+Remote Administration with PowerShell Core in Linux
+1:30:00
+CHAPTER 11
+
+The Final Chapter
+02:45
+
+Course Summary
+01:10
+What's Next?
