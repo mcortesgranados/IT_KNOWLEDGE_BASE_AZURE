@@ -1,0 +1,186 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+03:23
+
+Course Introduction
+03:23
+
+CHAPTER 2
+
+Prerequisites
+1:04:42
+
+Prerequisites (Introduction)
+02:09
+Using Terraform with Azure in Visual Studio Code
+07:41
+
+
+
+Using Terraform with Azure in the Azure Cloud Shell
+09:04
+
+
+Using Terraform with Azure Locally
+07:18
+
+
+
+Authenticating Terraform to Azure
+05:09
+
+
+
+HANDS-ON LAB
+Using Terraform with Azure
+15:00
+Prerequisites (Recap)
+03:21
+QUIZ
+Prerequisites Section Quiz
+15:00
+CHAPTER 3
+
+Laying Down the Foundation
+2:17:57
+
+Laying Down the Foundation (Introduction)
+02:48
+Importing Existing Resources
+06:52
+
+HANDS-ON LAB
+Import Existing Resources into Terraform from Azure
+15:00
+Using Azure Storage for Terraform State
+07:19
+
+HANDS-ON LAB
+Setting Up Azure Storage to Be Used for Terraform Remote State
+30:00
+Configure a Virtual Network
+06:23
+
+Configure a Subnet
+04:54
+
+Configure a Load Balancer
+09:05
+
+Create Security Groups
+05:17
+
+HANDS-ON LAB
+Creating Network Resources in Azure with Terraform
+30:00
+Laying Down the Foundation (Recap)
+05:19
+QUIZ
+Laying Down the Foundation Section Quiz
+15:00
+CHAPTER 4
+
+Working with VMs
+2:29:22
+
+Working with VMs (Introduction)
+01:36
+Configure a Virtual Machine
+12:29
+
+Configure a VM Cluster Using Count
+09:26
+
+Configure a VM Cluster Using Modules
+03:48
+
+HANDS-ON LAB
+Create a VM Cluster in Azure with Terraform
+45:00
+Configure a VM Scale Set
+12:18
+
+HANDS-ON LAB
+Create a VM Scale Set in Azure with Terraform
+45:00
+Working with VMs (Recap)
+04:45
+QUIZ
+Working with VMs Section Quiz
+15:00
+CHAPTER 5
+
+Terraforming The Cosmos
+1:32:24
+
+Terraforming The Cosmos (Introduction)
+01:45
+Creating a CosmosDB Instance with Terraform
+05:25
+
+
+Updating Your Configuration to Use the CosmosDB Instance
+03:41
+
+
+Testing Your Application
+03:45
+
+
+HANDS-ON LAB
+Create a Cosmos DB Instance in Azure with Terraform
+1:00:00
+Terraforming The Cosmos (Recap)
+02:48
+QUIZ
+Terraforming The Cosmos Section Quiz
+15:00
+CHAPTER 6
+
+Did You Say Containers?
+1:56:06
+
+Did You Say Containers (Introduction)
+02:06
+Groundwork
+06:03
+
+
+Defining the Kubernetes Cluster
+05:20
+
+
+Creating the Cluster Variables
+03:26
+
+
+Creating the Cluster Outputs
+02:57
+
+
+Creating the Kubernetes Cluster
+10:01
+
+
+Testing Your Kubernetes Cluster
+06:52
+
+
+HANDS-ON LAB
+Create an AKS Cluster in Azure with Terraform
+1:00:00
+Did You Say Containers (Recap)
+04:21
+QUIZ
+Did You Say Containers Section Quiz
+15:00
+CHAPTER 7
+
+Conclusion
+08:45
+
+Course Summary
+07:14
+Conclusion and What’s Next
