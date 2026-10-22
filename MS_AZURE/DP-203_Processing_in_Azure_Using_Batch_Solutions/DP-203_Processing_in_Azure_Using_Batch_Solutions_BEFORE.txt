@@ -1,0 +1,198 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+10:10
+
+Course Introduction
+02:27
+
+Setting Up the Environment
+07:43
+CHAPTER 2
+
+Develop a Batch Processing Solution
+7:55:44
+
+Section Introduction
+01:45
+Identifying Azure Services for Batch Processing
+10:41
+Developing a Batch Processing Solution with Azure Synapse Analytics
+14:14
+Introducing Dedicated SQL Pool
+11:50
+
+Introducing PolyBase
+06:06
+Demo: Using PolyBase to Load Data to Dedicated SQL Pool
+11:46
+
+HANDS-ON LAB
+Using PolyBase to Load Data to a Dedicated SQL Pool Table
+45:00
+Introducing Azure Synapse Link (HTAP Solutions and Cosmos DB)
+05:42
+Demo: Implementing Azure Synapse Link for Cosmos DB and Querying the Replicated Data
+08:14
+
+Creating Data Pipelines Using Synapse Pipelines and Data Factory
+14:56
+
+HANDS-ON LAB
+Creating a Data Pipeline Using Azure Synapse Pipelines
+1:00:00
+Creating Tests for Data Pipelines
+06:15
+Integrating Jupyter/Python Notebooks into a Data Pipeline
+14:29
+
+Introducing Mapping Data Flows in Synapse Pipelines and Data Factory
+12:36
+
+Introducing Inserts, Upserts, and Updates
+07:04
+Demo: Upserting Data in Azure Synapse Analytics – Part 1
+08:33
+
+Demo: Upserting Data in Azure Synapse Analytics – Part 2
+08:05
+
+HANDS-ON LAB
+Upserting Data in Azure Synapse Analytics
+45:00
+Introducing Activity Dependencies in Synapse Pipelines and Data Factory
+07:09
+
+Configuring Exception Handling in Synapse Pipelines and Data Factory
+06:44
+Introducing Integration Runtime in Synapse Pipelines and Data Factory
+13:14
+
+Using Self-Hosted Integration Runtime to Copy Data from On-Premises Data Source
+09:36
+Reverting Data to a Previous State in Azure Storage
+11:34
+Reverting Data to a Previous State in Azure SQL and Dedicated SQL Pool Databases
+11:09
+Introducing Azure Databricks
+10:40
+Setting Up Azure Databricks Workspace
+13:44
+
+Building a Data Pipeline Using Azure Databricks
+11:54
+
+Integrating Databricks with Synapse Pipelines and Data Factory
+05:53
+
+Introducing Delta Lake with Azure Databricks: Part 1
+08:37
+Introducing Delta Lake with Azure Databricks: Part 2
+13:54
+Read from and Write to Delta Lake: Part 1
+11:05
+
+Read from and Write to Delta Lake: Part 2
+13:51
+
+Scale Azure SQL and Dedicated SQL Pool Databases
+07:38
+
+Section Recap
+11:46
+QUIZ
+Develop a Batch Processing Solution
+15:00
+CHAPTER 3
+
+Manage Batches and Pipelines
+2:17:39
+
+Section Introduction
+01:23
+Introducing Azure Batch
+05:18
+Demo: Processing Data with Azure Batch
+09:28
+
+
+Handle Failed Batch Loads for Azure Batch
+08:09
+Validate Batch Loads for Azure Batch
+06:45
+Configure Batch Retention for Azure Batch
+03:31
+
+Trigger Azure Batch with Synapse Pipelines and Data Factory
+08:27
+
+Manage Data Pipelines with Synapse Pipelines and Data Factory
+05:42
+
+Introducing Windows
+05:50
+Schedule Data Pipelines in Synapse Pipelines and Data Factory
+09:59
+Manage Spark Jobs in a Pipeline
+05:44
+
+Introducing Git and GitHub
+08:08
+Implement Version Control for Pipeline Artifacts
+08:52
+HANDS-ON LAB
+Work with GitHub in Azure Data Factory
+30:00
+Section Recap
+05:23
+QUIZ
+Manage Batches and Pipelines
+15:00
+CHAPTER 4
+
+Conclusion
+13:04
+
+Course Summary
+06:42
+Conclusion and What's Next
+01:31
+Exam Guide
+04:51
+Your Progress
+0%
+
+COMPLETE
+
+Lesson Completion
+
+0%
+
+Lab Completion
+
+0 of 4
+
+Quiz Completion
+
+0 of 2
+
+NEW
+
+Learning Scheduler
+Tell us how many hours per week you can study.
+
+4
+5 Dec.
+HRS PER WEEKCOMPLETION DATE
+MEMBERS ONLY
+
+Cloud Playground
+Cloud along in real time. This course supports Cloud Playground sandbox environments, so you can learn by doing in a real cloud environment.
+
+Certificate of Completion
+Complete at least 80% of the course before you can request a certificate of completion.
+
+Rate this course
+Loved it? Room for improvement? Let us know!
+
