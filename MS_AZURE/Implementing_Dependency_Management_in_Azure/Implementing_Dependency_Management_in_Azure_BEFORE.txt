@@ -1,0 +1,47 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+03:17
+
+Course Introduction
+02:14
+
+
+About the Training Architect
+01:03
+CHAPTER 2
+
+Design a Dependency Management Strategy
+1:46:46
+
+Recommended Artifact Management Tools and Practices
+04:21
+Abstract Common Packages to Enable Sharing and Reuse
+02:22
+Inspect Codebase to Identify Code Dependencies That Can Be Converted to Packages
+02:08
+Identify and Recommend Standardized Package Types and Versions across the Solution
+03:50
+Refactor Existing Build Pipelines to Implement Version Strategy That Publishes Packages
+04:05
+HANDS-ON LAB
+Creating a NuGet Package Feed to Host Artifacts
+1:30:00
+CHAPTER 3
+
+Manage Security and Compliance
+10:11
+
+Inspect Open Source Software Packages for Security and License Compliance to Align with Corporate Standards
+02:13
+Configure Build Pipeline to Access Package Security and License Rating
+05:23
+Configure Secure Access to Package Feeds
+02:35
+CHAPTER 4
+
+Course Wrap Up
+01:48
+
+Course Conclusion and Next Steps
