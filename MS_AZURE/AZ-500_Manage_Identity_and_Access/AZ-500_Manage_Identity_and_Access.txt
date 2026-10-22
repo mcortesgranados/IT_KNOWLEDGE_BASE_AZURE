@@ -1,0 +1,60 @@
+CHAPTER 01 Introduction
+01-01 Course Introduction
+
+CHAPTER 02 Managing Identities
+02-01 Differentiating Authentication and Authorization
+
+02-02 Understanding Identity Providers
+
+02-03 Understanding Security Principals
+
+02-04 Managing Users
+
+02-05 HANDS-ON LAB Create and Manage Microsoft Entra ID Users in the Portal
+
+02-06 Understanding Groups
+
+02-07 Managing Groups
+
+02-08 HANDS-ON LAB Create and Manage Azure AD Groups in the Portal
+
+02-09 Managing Service Principals
+
+02-10 Managing Identities for Azure Resources
+
+02-11 Managing External Identities
+
+02-12 QUIZ Managing Identities
+CHAPTER 03 Managing Authentication
+03-01 Enhancing Authentication
+
+03-02 Implementing Conditional Access
+
+03-03 Protecting Identities
+
+03-04 Deploying Single Sign-On (SSO)
+
+03-05 Demo Deploying Single Sign-On (SSO)
+
+03-06 Going Passwordless
+
+03-07 Decentralizing Identity
+
+03-08 QUIZ Managing Authentication
+CHAPTER 04 Managing Authorization
+04-01 Introducing Authorization
+
+04-02 Using Built-In Roles
+
+04-03 Customizing Roles
+
+04-04 Enabling Just-in-Time Authorization
+
+04-05 Continuously Evaluating Authorization
+
+04-06 Authorizing Applications
+
+04-07 QUIZ Managing Authorization
+CHAPTER 05 Conclusion
+05-01 Course Conclusion
+
