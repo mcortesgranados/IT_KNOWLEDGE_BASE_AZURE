@@ -1,0 +1,130 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+01:21
+
+Course Introduction
+01:21
+
+CHAPTER 2
+
+DevSecOps Fundamentals
+38:57
+
+DevSecOps Fundamentals Introduction
+00:32
+Software Security
+15:00
+
+
+DevSecOps Lifecycle
+05:08
+DevSecOps Fundamentals Summary
+03:17
+QUIZ
+DevSecOps Fundamentals Quiz
+15:00
+CHAPTER 3
+
+Planning and Coding Secure Software
+34:52
+
+Planning and Coding Secure Software Introduction
+00:24
+Planning Secure Software
+09:16
+
+
+
+
+
+Coding Secure Software
+06:39
+
+
+
+
+Planning and Coding Secure Software Summary
+03:33
+QUIZ
+Planning and Coding Secure Software Quiz
+15:00
+CHAPTER 4
+
+Building and Testing Secure Software
+1:21:40
+
+Building and Testing Secure Software Introduction
+00:17
+Building Secure Software
+09:40
+Testing Secure Software
+08:24
+
+
+
+
+
+Building and Testing Secure Software Summary
+03:19
+QUIZ
+Building and Testing Secure Software Quiz
+15:00
+HANDS-ON LAB
+Securing Containerized GCP Web Apps
+45:00
+CHAPTER 5
+
+Releasing and Deploying Secure Software
+39:58
+
+Releasing and Deploying Secure Software Introduction
+00:26
+Releasing Secure Software
+11:58
+
+
+
+
+Deploying Secure Software
+08:35
+
+
+
+Releasing and Deploying Secure Software Summary
+03:59
+QUIZ
+Releasing and Deploying Secure Software Quiz
+15:00
+CHAPTER 6
+
+Monitoring and Responding to Secure Software
+1:40:50
+
+Monitoring and Responding to Secure Software Introduction
+00:30
+Monitoring Secure Software
+11:02
+Responding to Secure Software
+10:42
+
+Monitoring and Responding to Secure Software Summary
+03:36
+QUIZ
+Monitoring and Responding to Secure Software Quiz
+15:00
+HANDS-ON LAB
+Configuring WAF Rules Using Azure Web App Firewall
+30:00
+HANDS-ON LAB
+Detecting Security Issues Using GuardDuty
+30:00
+CHAPTER 7
+
+Conclusion
+06:41
+
+Course Summary
+06:00
+Conclusion
