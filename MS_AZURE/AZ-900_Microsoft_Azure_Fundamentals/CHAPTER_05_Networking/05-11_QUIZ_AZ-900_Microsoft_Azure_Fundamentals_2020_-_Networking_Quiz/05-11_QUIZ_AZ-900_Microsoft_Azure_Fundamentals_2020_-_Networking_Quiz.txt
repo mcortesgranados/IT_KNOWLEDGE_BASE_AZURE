@@ -1,0 +1,93 @@
+QUESTION 1
+
+What is the best scenario for using Azure ExpressRoute?
+
+Connecting your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider
+
+Correct Answer
+ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.
+
+Reference: What is Azure ExpressRoute?
+https://docs.microsoft.com/en-au/azure/expressroute/expressroute-introduction
+
+________________________________________________________________________________________________________________________
+
+QUESTION 2
+
+In which scenario(s) would you use an Application Gateway?
+
+To provide features such as SSL offloading, Web Application Firewall (WAF), and DDoS protection for your application
+
+For incoming traffic, to make routing decisions based on additional attributes of an HTTP request, such as URI path or host headers
+
+To host multiple websites
+
+Correct Answer
+While Application Gateways primarily provide an application delivery controller (ADC) as a service, it also can provide various security features for applications such as SSL offloading, Web Application Firewall (WAF), and DDoS protection.
+
+An Application Gateway is similar to a load balancer, but it can redirect traffic based on attributes in the HTTP request, the request coming in from the internet (for instance, if you have a VM handling video, one handling images, and so on).
+
+You can use multi-site hosting to use the same Application Gateway for more than one website. You can, in fact, add up to 100 websites to the same instance of an Application Gateway. This will provide significant savings in terms of both cost and complexity.
+________________________________________________________________________________________________________________________
+
+QUESTION 3
+
+Why would you use a content delivery network?
+
+To better handle instantaneous high loads, such as the start of a product launch event
+
+To provide better performance and improved user experience for end users
+
+Correct Answer
+A CDN keeps a recent copy of your web application and can deliver this much faster to users close to an endpoint. CDNs can handle a lot more data than a typical web server, which makes it ideal to handle traffic spikes as well. CDNs don't generally handle individual traffic routing rules, nor security.
+
+________________________________________________________________________________________________________________________
+
+
+QUESTION 4
+
+Which benefits does adding a load balancer provide?
+
+A load balancer ensures only healthy servers process requests.
+
+When there is too much incoming network traffic for a single VM to handle, a load balancer can distribute the load to many VMs.
+
+A load balancer can log traffic that passes through it.
+
+Correct Answer
+A load balancer sits in front of two or more virtual machines to manage, and balance, the load to the virtual machines. This can be based on amount of incoming traffic or specific properties in the traffic. A load balancer has nothing to do with virtual disks, and the max number of VMs to manage goes up to 1,000. A load balancer ensures only healthy instances receive traffic and will stop sending traffic to any server that does not pass health checks. All Azure load balancers can log traffic that passes through them.
+
+________________________________________________________________________________________________________________________
+
+QUESTION 5
+
+Which of the following is a function of an Azure VPN Gateway?
+
+To send encrypted traffic between an Azure Virtual Network and an on-premises location over the public internet
+
+Correct Answer
+A VPN gateway is an important part of a hybrid Azure infrastructure. It allows encrypted traffic to flow between on-premises services and Azure services.
+
+________________________________________________________________________________________________________________________
+
+QUESTION 6
+
+What is an address space on a virtual network?
+
+A range of IP addresses that can be assigned to resources attached to the virtual network
+
+Correct Answer
+An address space on a virtual network is a number of IP addresses that are unique only on the specific virtual network. These IP addresses are assigned to resources connected to the VNet, which allows the resources to interact and communicate. There is no limit to the number of VNets you can have, nor on the number of address spaces.
+
+________________________________________________________________________________________________________________________
+
+How do resources on Azure use a virtual network?
+
+Azure Virtual Network enables Azure resources to securely communicate with each other, the internet, and on-premises networks.
+
+Correct Answer
+Azure Virtual Network enables Azure resources to securely communicate with each other, the internet, and on-premises networks. Key scenarios that you can accomplish a virtual network include: communication of Azure resources with the internet, communication between Azure resources, communication with on-premises resources, filtering network traffic, routing network traffic, and integration with Azure services. Reference: Why use an Azure Virtual network?
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview#why-use-an-azure-virtual-network
+
+________________________________________________________________________________________________________________________
+
