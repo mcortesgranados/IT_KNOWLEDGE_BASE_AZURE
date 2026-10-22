@@ -1,0 +1,249 @@
+Course Outline
+CHAPTER 1
+
+Introduction and Pre-Game Warmup
+43:23
+
+Course Overview: What’s In It For You?
+02:55
+
+
+A Different Approach to the DP-900 Exam
+03:30
+Review: Relevant Cloud and Azure Concepts
+06:58
+HANDS-ON LAB
+Accessing and Using the Azure Portal
+30:00
+CHAPTER 2
+
+Game Rules: Azure Data Essentials
+2:28:59
+
+Buzzword Bingo for Data Gurus
+08:55
+
+Exploring Data: Beyond Rows and Columns
+06:48
+Storing Data: Forms and Formats
+07:07
+Interacting with Data: Languages and Dialects
+06:16
+Managing Data: Moving, Processing, Securing
+08:47
+Applying Tools of the Data Trade
+07:26
+HANDS-ON LAB
+Use Cloud Shell to Survey Azure Data Resources
+45:00
+Comparing Cloud Data Workloads
+05:55
+Exploring Data Warehouses, Data Lakes, and Data Swamps
+05:40
+Understanding Data Visualization and Analytics
+07:59
+
+Case Study: Cloud Data Platform for Lowe Classic Games
+06:11
+BINGO! Yes? Collect Your $7!
+02:55
+
+QUIZ
+Azure Data Essentials
+30:00
+CHAPTER 3
+
+Azure SQL, NoSQL, MySQL, YourSQL: What Shall We Play Today?
+41:53
+
+Can’t We All Just Get Along?
+10:14
+Playing Battleship: Transactional Workloads
+05:25
+Playing Chess: Analytics Workloads
+04:16
+Case Study: Cloud Data Platform for Lowe Classic Games — Options Are Good
+04:03
+Bingo Round 2: Azure Data Offerings and Uses
+02:55
+
+QUIZ
+Data Services in Azure
+15:00
+CHAPTER 4
+
+Azure Storage: Looks Boring Until You Open the Box
+1:08:35
+
+Reimagining Cloud Storage as a Data Resource
+08:19
+Case Study and Demo: Azure Blob Storage for Cognitive Services
+04:07
+
+
+Case Study: Azure Table Storage Provides Flexible Table Schema
+04:28
+Demo: Azure File Share Speeds Cloud Migration
+03:46
+HANDS-ON LAB
+Creating an Azure Storage Table
+30:00
+Bingo Round 3: Azure Storage for the Win
+02:55
+
+QUIZ
+Azure Storage Options
+15:00
+CHAPTER 5
+
+Four Alternative Rules for Data Resource Management
+1:15:57
+
+Securing Your Data
+11:56
+Demo: Provision and Deploy Data Resources in the Azure Portal
+11:47
+Demo: Provision and Deploy Data Resources Using PowerShell and Azure CLI
+10:51
+Demo: Provision and Deploy Data Resources Using ARM Templates
+05:20
+Case Study: What Is the “Best” Way to Provision Data Resources?
+03:08
+HANDS-ON LAB
+Expire Data Based on Age in Azure Blob Storage
+15:00
+Bingo Round 4: Azure Data Resource Management
+02:55
+
+QUIZ
+Azure Data Resource Management
+15:00
+CHAPTER 6
+
+Relational Data: When Your Brother’s the Banker
+3:08:35
+
+Features and Benefits of Relational Data
+11:42
+Options for Relational Data Infrastructure: On-Premises, IaaS, and PaaS
+07:50
+Relational Data Services: Flavors in Azure
+06:49
+Case Study: Cloud Data Platform for Lowe Classic Games — Relational Data
+04:54
+HANDS-ON LAB
+Create and Save a Reusable ARM Template from an Existing Azure SQL Database
+15:00
+Bingo Round 5: Azure Relational Data
+03:16
+
+Exploring the SQL Language
+09:52
+Demo: Azure Data Studio and SQL Server Management Studio
+06:59
+
+HANDS-ON LAB
+Use Azure Data Studio to Perform 10 Fundamental SQL Queries in Azure
+45:00
+HANDS-ON LAB
+Using SQL to Manage Database Objects
+45:00
+Relational Data Summary and Review
+02:13
+QUIZ
+Relational Data in Azure
+30:00
+CHAPTER 7
+
+Cosmos DB: The Game You Want for Your Birthday
+1:45:14
+
+Understanding How Cosmos DB Lives Up to Its Hype
+09:49
+Introducing JSON: JavaScript Object Notation
+06:32
+Admiring the Many Faces of Cosmos DB — Interfaces, That Is
+07:30
+HANDS-ON LAB
+A Working Introduction to Azure Cosmos DB for NoSQL
+1:00:00
+Case Study: Cloud Data Platform for Lowe Classic Games — Non-Relational Data Choices
+03:28
+Bingo Round 6: Cosmos DB APIs
+02:55
+
+QUIZ
+Cosmos DB APIs
+15:00
+CHAPTER 8
+
+Azure Data Factory: “Mousetrap” for Data
+47:13
+
+ETL and ELT: How Data Rolls and Moves
+05:56
+Exploring Batch Data, Micro-Batch Data, and Streaming Data
+05:12
+Demo: Azure Data Factory in Action
+10:21
+Scribbage: Azure Data Factory
+10:44
+QUIZ
+ETL and Azure Data Factory
+15:00
+CHAPTER 9
+
+Azure Synapse Analytics: Revival of a Classic Game
+1:05:33
+
+Exploring Modern Data Warehouses
+07:40
+HANDS-ON LAB
+Trigger and Monitor an Azure Data Factory Pipeline
+30:00
+Understanding Major Components of Azure Synapse Analytics
+04:12
+Demo: Operating Azure Synapse Analytics Using Synapse Studio
+04:02
+Case Study: Cloud Data Platform for Lowe Classic Games — Analytics Assets
+01:44
+Bingo Round 7: Azure Synapse Analytics
+02:55
+
+QUIZ
+Modern Data Warehousing and Azure Synapse Analytics
+15:00
+CHAPTER 10
+
+Analytics in Power BI (Some Assembly Required)
+1:02:07
+
+Traversing the Workflow to Produce Winning Insights in Power BI
+05:38
+Surveying the Major Components of Power BI
+04:10
+Understanding Analytics Techniques and Associated Visualizations
+04:24
+HANDS-ON LAB
+Create a Compelling Power BI Dashboard via a Canned App
+30:00
+Final Bingo: Microsoft Power BI
+02:55
+
+QUIZ
+Analytics in Microsoft Power BI
+15:00
+CHAPTER 11
+
+Conclusion: Winning the Game
+1:08:40
+
+Course Summary and Advanced Game Strategies
+03:14
+
+PRACTICE EXAM
+DP-900 Azure Data Fundamentals Practice Exam
+1:00:00
+Booking Your DP-900 Exam
+02:36
+Beyond the Exam, Resources, and a Short History of Bingo
