@@ -1,0 +1,106 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+13:01
+
+Course Introduction
+02:33
+
+What You Need to Know to Be Successful
+10:28
+CHAPTER 2
+
+Ingest and Transform Data
+2:47:36
+
+Introducing Azure Data Factory
+08:02
+Pipelines in Azure Data Factory
+04:48
+Ingest and Transform Data Using Azure Synapse Pipelines or Azure Data Factory
+07:53
+Demo: Ingest and Transform Data by Using Azure Synapse Pipelines or Azure Data Factory
+07:20
+HANDS-ON LAB
+Ingest Data Using an Azure Synapse Pipeline
+30:00
+Introducing Azure Spark
+06:15
+Transform Data by Using Apache Spark
+08:24
+Demo: Transform Data by Using Apache Spark
+08:04
+Transform Data by Using Transact-SQL (T-SQL)
+08:29
+HANDS-ON LAB
+Transform Data Using T-SQL in Azure
+30:00
+Transform Data by Using Azure Stream Analytics
+04:52
+Introducing Incremental vs. Full Data Loads
+06:01
+Design and Implement Incremental Loads
+05:00
+Demo: Design and Implement Incremental Loads
+07:09
+Section Recap
+10:19
+QUIZ
+Ingest and Transform Data
+15:00
+CHAPTER 3
+
+Working with Data
+2:48:41
+
+Introducing Data Wrangling, Mining, and Cleansing
+08:55
+Cleanse Data
+10:15
+Demo: Cleanse Data
+09:46
+Handle Duplicate Data
+09:53
+Handle Late-Arriving Data
+10:50
+Split Data
+04:29
+Demo: Split Data
+06:35
+Shred JSON
+05:10
+HANDS-ON LAB
+Shred JSON in Azure
+15:00
+Encode and Decode Data
+03:37
+Demo: Encode and Decode Data
+03:43
+Configure Error Handling for a Transformation
+08:54
+Normalize and Denormalize Data
+05:35
+Demo: Normalize and Denormalize Data
+09:00
+Perform Data Exploratory Analysis
+04:51
+HANDS-ON LAB
+Perform Data Exploratory Analysis in Azure
+30:00
+Section Recap
+07:08
+QUIZ
+Working with Data
+15:00
+CHAPTER 4
+
+Conclusion
+13:06
+
+Course Summary
+04:46
+Conclusion and What's Next
+01:17
+Exam Guide
+07:03
