@@ -1,0 +1,212 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+25:15
+
+Course Introduction
+01:33
+About the Exam
+04:43
+
+A Note on Prerequisites for This Course
+03:59
+QUIZ
+DP-100 Prerequisites
+15:00
+CHAPTER 2
+
+Survey Machine Learning in Azure
+1:02:39
+
+An Overview of the Data Science Lifecycle
+11:56
+Responsible AI Guidelines
+06:21
+
+The Basics of Azure Machine Learning
+07:59
+Resources and Assets in Azure Machine Learning
+05:33
+Demo: Create a Machine Learning Workspace in Azure
+08:08
+Introducing Essentials of the Python SDK
+05:58
+
+
+
+Exam Essentials
+01:44
+
+
+QUIZ
+DP-100 Survey Machine Learning in Azure
+15:00
+CHAPTER 3
+
+Design and Prepare a Machine Learning Solution
+1:18:01
+
+Managing Compute for Experiments
+10:08
+Spotlighting Apache Spark Pools as Compute Targets
+05:24
+
+
+
+Selecting Development Approaches to Build or Train Models
+05:17
+
+
+Azure Machine Learning Environments
+05:20
+Code Review: Compute and Environments in the SDK
+05:01
+HANDS-ON LAB
+Create a Machine Learning Workspace in Azure
+30:00
+Exam Essentials
+01:51
+
+QUIZ
+DP-100 Design and Prepare a Machine Learning Solution
+15:00
+CHAPTER 4
+
+Manage and Explore Data Assets
+1:54:56
+
+Introducing Data Assets in Azure Machine Learning
+06:56
+Code Review: Managing Data Assets Using the SDK
+04:22
+
+Understanding What Preprocessing Is
+04:48
+An Introduction to Feature Selection
+05:54
+Applying Differential Privacy: An Example of Responsible AI
+04:43
+Accessing Data during Interactive Development
+05:25
+
+
+Wrangling Data with Apache Spark
+05:42
+
+
+HANDS-ON LAB
+Wrangle Data with Apache Spark in Azure Machine Learning
+45:00
+Exam Essentials
+02:06
+
+QUIZ
+DP-100 Manage and Explore Data Assets
+30:00
+CHAPTER 5
+
+Three Ways to Build and Train a Machine Learning Model
+5:16:43
+
+Creating Models in the Azure Machine Learning Designer
+06:56
+Custom Code Components
+04:22
+HANDS-ON LAB
+Create a Basic Pipeline in Azure Machine Learning Studio
+1:30:00
+Examine the Filter Based Feature Selection Module
+07:03
+Examine the Permutation Feature Importance Module
+09:33
+Applying Automated Machine Learning to Explore Models
+06:11
+
+HANDS-ON LAB
+Using Azure Automated ML
+1:30:00
+Using Notebooks for Custom Model Training
+06:43
+
+Code Review: Training a Model Using Python SDK
+04:05
+Tuning Hyperparameters in Azure Machine Learning
+14:47
+HANDS-ON LAB
+Tune Hyperparameters Using the Azure ML Python SDK
+45:00
+Exam Essentials
+02:03
+
+QUIZ
+DP-100 Three Ways to Build and Train a Machine Learning Model
+30:00
+CHAPTER 6
+
+Prepare a Model for Deployment
+1:43:16
+
+MLOps: Managing, Deploying, and Monitoring Models
+03:54
+
+Tracking Model Training, Metrics, and Output with MLflow
+10:36
+
+Running Model Training Scripts
+05:50
+
+
+Code Review: Training Pipelines in the SDK
+06:11
+
+
+HANDS-ON LAB
+Create a Machine Learning Pipeline Using Azure SDK
+1:00:00
+Exam Essentials
+01:45
+
+QUIZ
+DP-100 Prepare a Model for Deployment
+15:00
+CHAPTER 7
+
+Deploy and Retrain a Model
+2:18:58
+
+Evaluating Model Deployment Options
+05:56
+Deploying to an Online Endpoint
+06:55
+
+Deploying to a Batch Endpoint
+04:45
+HANDS-ON LAB
+Run a Batch Inferencing Pipeline and Obtain Outputs
+1:30:00
+Applying MLOps for Model Retraining
+14:23
+
+
+Exam Essentials
+01:59
+
+QUIZ
+DP-100 Deploy and Retrain a Model
+15:00
+CHAPTER 8
+
+Conclusion and Practice Exam
+3:08:45
+
+Prepare for the Exam
+06:24
+
+PRACTICE EXAM
+DP-100: Designing and Implementing a Data Science Solution on Azure - Practice Exam 1
+1:30:00
+PRACTICE EXAM
+DP-100: Designing and Implementing a Data Science Solution on Azure - Practice Exam 2
+1:30:00
+What’s Next (Growing in the Field of Machine Learning)
