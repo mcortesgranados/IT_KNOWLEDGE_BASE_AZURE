@@ -1,0 +1,64 @@
+QUESTION 1
+
+What is an Azure region?
+
+A set of datacenters, deployed within a latency-defined perimeter and connected through a dedicated regional low-latency network
+
+Correct Answer
+An Azure region is a set of datacenters, deployed within a latency-defined perimeter and connected through a dedicated regional low-latency network. With more global regions than any other cloud service provider, Azure gives customers the flexibility to deploy applications where they need. An Azure region has discrete pricing and service availability. Reference: Azure global infrastructure
+
+________________________________________________________________________________________________________________
+
+QUESTION 2
+
+What is an availability zone?
+
+A unique physical location within a region that is made up of one or more datacenters equipped with independent power, cooling, and networking
+
+Correct Answer
+AZs are individual physical locations within a region. Each zone is made up of one or more datacenters equipped with independent power, cooling, and networking.
+
+________________________________________________________________________________________________________________
+
+QUESTION 3
+
+Select all the true statements regarding Azure Resource Manager.
+
+If a user sends a request from any Azure tools, APIs, or SDKs, Azure Resource Manager handles the request.
+
+Azure Resource Manager is the deployment and management service for Azure.
+
+Azure Resource Manager templates (ARM templates) always deploy resources in the same consistent state.
+
+Correct Answer
+Azure Resource Manager handles the request for any Azure tools, APIs, or SDKs.
+
+Azure Resource Manager enables you to create, update, and delete resources in your Azure account.
+
+When you deploy your resources using ARM templates, you can be confident it happens in the same way every single time. Your resources will be deployed in a consistent state. Reference: What Are ARM Templates?
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
+
+________________________________________________________________________________________________________________
+
+
+QUESTION 4
+
+When can you delete a resource group from Azure?
+
+At any time, as long as your resources or resource group are not locked by a related service
+
+Correct Answer
+When a resource group is removed or deleted, all of the resources within it are deleted with it. You can remove resource groups at any time. To delete a resource group, you need access to the delete action. You also need delete for all resources in the resource group. If you have the required access, but the delete request fails, it may be because there's a lock on the resources or resource group. Even if you didn't manually lock a resource group, it may have been automatically locked by a related service. Or, the deletion can fail if the resources are connected to resources in other resource groups that aren't being deleted. For example, you can't delete a virtual network with subnets that are still in use by a virtual machine. Reference: Required access and deletion failures
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/delete-resource-group?tabs=azure-cli#required-access-and-deletion-failures
+
+________________________________________________________________________________________________________________
+
+
+QUESTION 5
+
+Which statement is true of resource groups in Azure?
+
+Resource groups are containers that hold related resources for an Azure solution.
+
+Correct Answer
+Resources belong to a resource group, which can be a geographical, logical, customer-specific, or any other type of grouping.
