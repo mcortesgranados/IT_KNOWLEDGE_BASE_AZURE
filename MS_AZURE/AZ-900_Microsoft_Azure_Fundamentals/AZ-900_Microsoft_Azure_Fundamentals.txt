@@ -1,0 +1,184 @@
+CHAPTER 01 Introduction
+01-01 Microsoft Learn
+01-02 Course Introduction
+01-03 Welcome
+01-04 Course Overview
+01-05 Course Updates
+01-06 About the Training Architects
+01-07 Supplemental Content
+01-08 Azure Portal
+01-09 HANDS-ON LAB Accessing and Using the Azure Portal
+01-10 Azure CLI 
+01-11 PowerShell
+01-12 Cloud Shell
+01-13 HANDS-ON LAB Accessing and Using the Azure Cloud Shell
+01-14 Azure Mobile Apps
+01-15 ARM Templates
+01-16 Azure Advisor
+01-17 Demo: Creating a Free Azure Account
+01-18 Summary
+01-19 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Introduction Quiz
+
+CHAPTER 02 Cloud Concepts
+02-01 Introduction
+02-02 The Language of Cloud Computing
+02-03 The Economy of Cloud Computing
+02-04 Cloud Service Models
+02-05 Azure Marketplace
+02-06 Cloud Architect Models 
+02-07 Summary
+02-08 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Cloud Concepts Quiz
+
+CHAPTER 03 Azure Architecture
+03-01 Introduction
+03-02 Regions and Availability Zones
+03-03 Resource Groups and Azure Resource Manager
+03-04 Demo: Creating Azure Resources
+03-05 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Azure Architecture Quiz
+
+CHAPTER 04 Compute
+04-01 Introduction
+04-02 Virtual Machines
+04-03 HANDS-ON LAB Deploying Your First Azure Virtual Machine
+04-04 Scale Sets
+04-05 App Services
+04-06 Azure Container Instances
+04-07 Azure Kubernetes Service
+04-08 Azure Virtual Desktop
+04-09 Functions
+04-10 Demo: Azure App Services
+04-11 Summary
+04-12 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Compute Quiz
+
+CHAPTER 05 Networking
+05-01 Introduction
+05-02 Virtual Network
+05-03 HANDS-ON LAB Creating Azure Virtual Networks
+05-04 Load Balancer
+05-05 VPN Gateway
+05-06 Application Gateway
+05-07 Content Delivery Network
+05-08 ExpressRoute
+05-09 Demo: Creating a Virtual Network Connection
+05-10 Summary
+05-11 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Networking Quiz
+
+CHAPTER 06 Storage
+06-01 Introduction
+06-02 Blob
+06-03 Disk
+06-04 File
+06-05 Archive
+06-06 Demo: Creating a Storage Account
+06-07 Storage Redundancy
+06-08 Moving Data
+06-09 Additional Migration Options
+06-10 Premium Performance Options
+06-11 Summary
+06-12 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Storage Quiz
+
+CHAPTER 07 Database (Supplemental)
+07-01 Introduction (Supplemental)
+07-02 Cosmos DB (Supplemental)
+07-03 Azure SQL (Supplemental)
+07-04 Azure Database for MySQL (Supplemental)
+07-05 Azure Database for PostgreSQL (Supplemental)
+07-06 Database Migration Services (Supplemental)
+07-07 Demo: Creating Cosmos DB (Supplemental)
+07-08 Summary (Supplemental)
+07-09 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Database Quiz
+
+CHAPTER 08 Authentication and Authorization
+08-01 Introduction
+08-02 Identity Services
+08-03 Azure Active Directory
+08-04 Zero Trust Concepts
+08-05 Multi-Factor Authentication
+08-06 Conditional Access
+08-07 Passwordless Authentication
+08-08 External Guest Access
+08-09 Azure Active Directory Domain Services
+08-10 Single Sign-On
+08-11 Demo: Azure Active Directory
+08-12 HANDS-ON LAB Create a Group and Add a Member in Azure Active Directory (Azure AD)
+08-13 Summary
+08-14 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Authentication and Authorization Quiz
+
+CHAPTER 09 Azure Solutions (Supplemental)
+09-01 Introduction (Supplemental)
+09-02 Internet of Things (Supplemental)
+09-03 Big Data (Supplemental)
+09-04 Machine Learning (Supplemental)
+09-05 Serverless (Supplemental)
+09-06 DevOps (Supplemental)
+09-07 Demo: Using Azure AI (Supplemental)
+09-08 Summary (Supplemental)
+09-09 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Azure Solutions Quiz
+
+CHAPTER 10 Security
+10-01 Introduction
+10-02 Defense in Depth
+10-03 Securing Network Connectivity (Supplemental)
+10-04 Public and Private Endpoints
+10-05 Microsoft Defender for Cloud (formerly Azure Security Center)
+10-06 Key Vault (Supplemental)
+10-07 Azure Information Protection (Supplemental)
+10-08 Microsoft Defender for Identity (formerly Azure Advanced Threat Protection) (Supplemental)
+10-09 Azure Sentinel (Supplemental)
+10-10 Azure Dedicated Hosts (Supplemental)
+10-11 Demo: Azure Key Vault
+10-12 Summary
+10-13 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Security Quiz
+
+CHAPTER 11 Monitoring and Management
+11-01 Introduction
+11-02 Governance
+11-03 Azure Monitor
+11-04 Monitoring Tools
+11-05 Azure Service Health
+11-06 Compliance (Supplemental)
+11-07 Privacy (Supplemental)
+11-08 Trust (Supplemental)
+11-09 Azure Arc
+11-10 Demo: Using Azure Monitor
+11-11 Summary
+11-12 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Privacy, Compliance and Trust Quiz
+
+CHAPTER 12 Pricing
+12-01 Introduction
+12-02 Subscriptions
+12-03 Cost Management
+12-04 Pricing Factor
+12-05 Best Practices
+12-06 Demo: Using the Pricing Calculator
+12-07 Summary
+12-08 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Pricing Quiz
+
+CHAPTER 13 Support (Supplemental)
+13-01 Introduction (Supplemental)
+13-02 Plans (Supplemental)
+13-03 Tickets (Supplemental)
+13-04 Channels (Supplemental)
+13-05 Azure on Q&A (Supplemental)
+13-06 Service Level Agreements (Supplemental)
+13-07 Service Lifecycle (Supplemental)
+13-08 Demo: Using Preview Services (Supplemental)
+13-09 Summary (Supplemental)
+13-10 QUIZ AZ-900 Microsoft Azure Fundamentals 2020 - Support Quiz
+
+CHAPTER 14 Exam Preparation
+14-01 Introduction
+14-02 Exam Overview
+14-03 Exam Strategy
+14-04 Demo: Signing Up for an Exam
+14-05 PRACTICE EXAM Microsoft Azure Fundamentals (AZ-900) - Practice Exam - 1
+14-06 PRACTICE EXAM Microsoft Azure Fundamentals (AZ-900) - Practice Exam - 2
+14-07 PRACTICE EXAM Microsoft Azure Fundamentals (AZ-900) - Practice Exam - 3
+14-08 PRACTICE EXAM Microsoft Azure Fundamentals (AZ-900) - Practice Exam - 4
+14-09 PRACTICE EXAM Microsoft Azure Fundamentals (AZ-900) - Practice Exam - 5
+14-10 PRACTICE EXAM Microsoft Azure Fundamentals (AZ-900) - Practice Exam - 6
+14-11 Next Steps
+14-12 Conclusion
+14-13 Microsoft Learn Conclusion
+14-14 Keep Up to Date with Azure This Week
+14-15 Next Steps: AZ-104
