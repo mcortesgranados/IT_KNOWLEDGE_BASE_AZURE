@@ -1,0 +1,470 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+07:03
+
+Welcome to the Course
+02:20
+
+Following Along with the Course
+04:43
+
+
+CHAPTER 2
+
+The Azure AD Identity Platform
+2:54:10
+
+Section Introduction
+02:55
+
+Azure AD Authentication and Authorization
+08:13
+Azure AD Tenant and Azure Subscription Associations
+06:06
+Managing Azure AD Tenant and Azure Subscription Associations
+10:43
+
+
+
+Azure AD Identities
+10:11
+HANDS-ON LAB
+Create and Manage Microsoft Entra ID Users in the Portal
+30:00
+Azure AD Groups
+10:09
+Azure AD Dynamic Groups
+09:51
+HANDS-ON LAB
+Create and Manage Azure AD Groups in the Portal
+45:00
+Azure AD Administrative Units
+07:16
+
+Section Conclusion
+03:46
+QUIZ
+AZ-500 Quiz: The Azure AD Identity Platform
+30:00
+CHAPTER 3
+
+Hybrid Identity
+1:14:48
+
+Section Introduction
+01:52
+Azure AD Connect and Hybrid Identities
+14:41
+
+
+
+Microsoft Entra External ID (formerly Azure AD External Identities)
+12:29
+
+User Flows with External Identities
+10:43
+Section Conclusion
+05:03
+QUIZ
+AZ-500 Quiz: Hybrid Identity
+30:00
+CHAPTER 4
+
+Controlling Access
+1:20:45
+
+Section Introduction
+01:49
+Securing Azure and Azure AD
+04:29
+Azure RBAC
+14:35
+Azure AD Roles
+10:49
+
+Custom Roles
+13:59
+
+
+
+Section Conclusion
+05:04
+QUIZ
+AZ-500 Quiz: Controlling Access
+30:00
+CHAPTER 5
+
+Securing Identities and Access
+1:53:52
+
+Section Introduction
+02:37
+Azure AD Privileged Identity Management (PIM) - Part 1
+09:06
+Azure AD Privileged Identity Management (PIM) - Part 2
+07:04
+Access Reviews - Part 1
+07:01
+Access Review - Part 2
+08:00
+Azure AD Identity Protection
+12:12
+
+Conditional Access
+14:33
+
+Azure AD Passwordless Authentication
+13:24
+
+
+
+Section Conclusion
+09:55
+QUIZ
+AZ-500 Quiz: Securing Identities and Access
+30:00
+CHAPTER 6
+
+Securing Virtual Networks
+3:58:11
+
+Section Introduction
+02:09
+Virtual Network Routing
+15:06
+Network Security Groups (NSG)
+13:53
+Augmented Security Rules
+13:33
+
+HANDS-ON LAB
+Configure Application Security Groups in Azure
+30:00
+Azure Firewall
+14:24
+HANDS-ON LAB
+Attach a Firewall to a Virtual Network in Azure
+1:15:00
+Azure Firewall Manager - Part 1
+12:52
+
+Azure Firewall Manager - Part 2
+10:28
+DDoS Protection
+10:11
+
+Section Conclusion
+10:35
+QUIZ
+AZ-500 Quiz: Securing Virtual Networks
+30:00
+CHAPTER 7
+
+Securing Integrated Networks and Services
+5:42:39
+
+Section Introduction
+01:25
+Service Endpoints
+09:49
+Private Link
+12:48
+HANDS-ON LAB
+Configure Azure Private Link for Blob Storage
+1:00:00
+VNet Peering
+10:30
+Virtual Private Networking (VPN) - Part 1
+10:00
+
+
+Virtual Private Networking (VPN) - Part 2
+06:48
+HANDS-ON LAB
+Configuring an Azure VNet-to-VNet VPN Gateway (v2)
+1:45:00
+ExpressRoute
+07:06
+
+Service Firewalls
+12:45
+Application Gateway
+12:38
+
+Azure Front Door
+11:35
+HANDS-ON LAB
+Configure Azure Front Door Service
+30:00
+Web Application Firewalls (WAF)
+10:31
+Section Conclusion
+11:44
+QUIZ
+AZ-500 Quiz: Securing Integrated Networks and Services
+30:00
+CHAPTER 8
+
+Securing Virtual Machines
+1:36:35
+
+Section Introduction
+01:14
+Azure Bastion
+11:51
+
+Just-In-Time VM Access
+12:09
+
+VM Endpoint Protection
+09:41
+Azure Disk Encryption
+10:04
+
+
+Managing VM Updates
+13:33
+Section Conclusion
+08:03
+QUIZ
+AZ-500 Quiz: Securing Virtual Machines
+30:00
+CHAPTER 9
+
+Securing Applications with Azure AD
+1:48:40
+
+Section Introduction
+01:23
+Service Principals
+12:11
+
+Managed Identities
+13:00
+
+API Access to Microsoft
+12:43
+Delegated Permissions and Consent - Part 1
+11:03
+
+Delegated Permissions and Consent - Part 2
+11:43
+Application Permissions and Consent
+09:53
+
+Section Conclusion
+06:44
+QUIZ
+AZ-500 Quiz: Securing Applications with Azure AD
+30:00
+CHAPTER 10
+
+Securing Data with Key Vault
+2:08:41
+
+Section Introduction
+01:15
+Key Vault Overview
+12:24
+HANDS-ON LAB
+Develop a Python App to Access Key Vault Using a Service Principal
+1:00:00
+Key Vault Administration
+10:18
+Key Vault Backup and Recovery
+08:48
+
+Section Conclusion
+05:56
+QUIZ
+AZ-500 Quiz: Securing Data with Key Vault
+30:00
+CHAPTER 11
+
+Securing Application Hosting
+2:22:55
+
+Section Introduction
+01:06
+Azure App Service Security
+14:09
+
+Azure Functions Security
+10:30
+
+
+App Service Environments
+10:08
+Azure Container Registry Security
+13:38
+Azure Container Instance Security
+12:10
+HANDS-ON LAB
+Configure Service Principal Authentication for Azure Container Registry
+30:00
+Azure Kubernetes Service (AKS) Security
+11:43
+Section Conclusion
+09:31
+QUIZ
+AZ-500 Quiz: Securing Application Hosting
+30:00
+CHAPTER 12
+
+Securing Storage
+3:45:51
+
+Section Introduction
+00:48
+Storage Account Access Control
+14:09
+
+
+HANDS-ON LAB
+Configuration and Security of Azure Storage Accounts
+1:30:00
+Azure Storage with Azure AD Authentication
+11:22
+HANDS-ON LAB
+Create a User Delegation SAS Using Azure CLI
+1:00:00
+Azure Files with Azure AD DS Authentication
+13:08
+
+
+Section Conclusion
+06:24
+QUIZ
+AZ-500 Quiz: Securing Storage
+30:00
+CHAPTER 13
+
+Securing Data
+2:06:05
+
+Section Introduction
+01:10
+Azure SQL Authentication
+13:48
+Azure SQL Database Encryption
+10:56
+HANDS-ON LAB
+Enabling Always Encrypted in Azure SQL
+45:00
+Dynamic Masking for SQL on Azure
+07:23
+Network Isolation for Data Solutions
+06:01
+Database Auditing
+05:41
+
+Section Conclusion
+06:06
+QUIZ
+AZ-500 Quiz: Securing Databases
+30:00
+CHAPTER 14
+
+Security Policies and Standards
+3:04:55
+
+Section Introduction
+01:26
+Azure Policy
+10:45
+
+HANDS-ON LAB
+Ensuring Compliance with Azure Policies
+2:00:00
+Resource Locks
+07:00
+Azure Blueprints
+12:04
+Section Conclusion
+03:40
+QUIZ
+AZ-500 Quiz: Security Policies and Standards
+30:00
+CHAPTER 15
+
+Threat Protection
+1:21:25
+
+Section Introduction
+01:32
+Azure Security Center Overview
+07:35
+Azure Security Center Policy Management
+10:03
+Azure Defender for SQL
+08:18
+Azure Defender for Servers
+09:04
+Microsoft Threat Modeling Tool
+09:19
+Section Conclusion
+05:34
+QUIZ
+AZ-500 Quiz: Threat Protection
+30:00
+CHAPTER 16
+
+Monitoring Security with Azure Monitor
+3:03:05
+
+Section Introduction
+01:15
+Azure Monitor Overview
+09:52
+Logging and Retention
+09:36
+
+Azure Monitor Logs
+12:17
+Azure Monitor Alerts
+10:45
+HANDS-ON LAB
+Monitor Storage for Security Events with Azure Monitor
+45:00
+HANDS-ON LAB
+Routing Azure Resource Logs
+1:00:00
+Section Conclusion
+04:20
+QUIZ
+AZ-500 Quiz: Monitoring Security with Azure Monitor
+30:00
+CHAPTER 17
+
+Monitoring Security with Azure Sentinel
+1:02:34
+
+Section Introduction
+00:58
+Azure Sentinel Overview
+05:32
+Azure Sentinel Configuration
+09:53
+
+Azure Sentinel Alerts
+13:03
+Section Conclusion
+03:08
+QUIZ
+AZ-500 Quiz: Monitoring Security with Azure Sentinel
+30:00
+CHAPTER 18
+
+Conclusion
+1:40:26
+
+Preparing for the Exam
+09:21
+
+Course Completion
+01:05
+PRACTICE EXAM
+AZ-500: Microsoft Azure Security Technologies - Practice Exam
+1:30:00
