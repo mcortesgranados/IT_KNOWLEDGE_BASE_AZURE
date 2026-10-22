@@ -1,0 +1,179 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+06:34
+
+Course Introduction
+01:17
+
+About the Exam
+04:24
+
+Course Updates and Changelogs
+00:53
+
+CHAPTER 2
+
+Artificial Intelligence
+52:02
+
+Section Introduction
+01:17
+It’s Alive! An Introduction to AI
+05:23
+Uses for AI
+08:42
+Creating Responsible AI
+06:20
+
+Exploring Azure AI Demonstrations
+06:51
+
+
+
+
+QUIZ
+AI-900 Chapter 2 Quiz
+15:00
+Section Review
+08:29
+CHAPTER 3
+
+Machine Learning
+6:20:14
+
+Section Introduction
+02:08
+Learning Everything! An Introduction to Machine Learning
+06:44
+Types of Machine Learning
+06:14
+Exploring Azure Automated Machine Learning
+09:58
+
+HANDS-ON LAB
+Using Azure Automated ML
+1:30:00
+Training, Validation, and Datasets
+05:51
+
+Exploring Azure Machine Learning Designer
+09:28
+HANDS-ON LAB
+Creating a Regression Model with Azure ML Designer
+1:00:00
+Classification Models and Azure ML Designer
+11:11
+
+HANDS-ON LAB
+Creating a Classification Model with Azure ML Designer
+1:00:00
+Clustering Models and Azure ML Designer
+04:48
+
+HANDS-ON LAB
+Creating a Clustering Model with Azure ML Designer
+1:30:00
+QUIZ
+AI-900 Chapter 3 Quiz
+15:00
+Section Review
+08:52
+CHAPTER 4
+
+Computer Vision
+3:09:49
+
+Section Introduction
+01:25
+Seeing the World! An Introduction to Computer Vision
+08:06
+
+HANDS-ON LAB
+Image Analysis with Azure Computer Vision
+30:00
+Exploring Custom Vision
+06:08
+HANDS-ON LAB
+Classifying Images with Azure Custom Vision
+30:00
+HANDS-ON LAB
+Object Detection with Azure Custom Vision
+45:00
+Exploring the Azure Face Service
+06:23
+
+HANDS-ON LAB
+Analyzing Faces with Azure Face Service
+30:00
+Reading Text from Images
+02:56
+Analyzing Receipts with Form Recognizer
+08:08
+QUIZ
+AI-900 Chapter 4 Quiz
+15:00
+Section Review
+06:43
+CHAPTER 5
+
+Natural Language Processing
+2:08:53
+
+Section Introduction
+01:59
+It Speaks! An Introduction to NLP
+05:14
+Learning to Read with Text Analytics
+06:18
+Learning to Talk with Azure Speech
+03:42
+Hola! Translating Text and Speech
+03:48
+Hey Cortana, Start the Coffee Machine! Language Understanding on Azure
+04:23
+Would You Like to Play a Game? An Introduction to Conversational AI
+04:38
+Questions and Answers with Cognitive Services for Language
+08:01
+
+Building Bots with Azure Bot Service
+07:24
+
+HANDS-ON LAB
+Analyzing Text with Text Analytics on Azure
+30:00
+HANDS-ON LAB
+Chatting with a Bot Using Azure Cognitive Services for Language
+30:00
+QUIZ
+AI-900 Chapter 5 Quiz
+15:00
+Section Review
+08:26
+CHAPTER 6
+
+Practice Exam
+3:00:00
+
+PRACTICE EXAM
+Azure AI-900 Practice Exam #1
+1:00:00
+PRACTICE EXAM
+Azure AI-900 Practice Exam #2
+1:00:00
+PRACTICE EXAM
+Azure AI-900 Practice Exam #3
+1:00:00
+CHAPTER 7
+
+Conclusion
+17:57
+
+Course Summary
+09:50
+Preparing for the Exam
+06:28
+
+Conclusion and What’s Next
