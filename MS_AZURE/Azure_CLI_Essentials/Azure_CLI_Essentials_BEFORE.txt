@@ -1,0 +1,70 @@
+Course Outline
+CHAPTER 1
+
+Welcome to the Course
+09:09
+
+Course Introduction
+03:34
+
+Course Support and Feedback
+02:24
+About the Training Architect
+01:03
+Using the Azure CLI Essentials Guide
+02:08
+CHAPTER 2
+
+Azure Management
+23:42
+
+Overview of Azure Management
+08:41
+Azure Essentials
+08:43
+Command Line Shells
+06:18
+CHAPTER 3
+
+Getting Started with Azure CLI
+2:42:33
+
+Getting Started with Azure CLI
+14:44
+Using Azure CLI through the Cloud Shell
+05:19
+Azure CLI Command Structure and Help
+09:16
+Creating Resources with Azure CLI
+13:14
+HANDS-ON LAB
+Use Azure CLI to Create a Virtual Machine
+2:00:00
+CHAPTER 4
+
+Azure CLI Essentials
+3:04:22
+
+Azure CLI with Bash Variables - Part 1
+14:07
+Azure CLI with Bash Variables - Part 2
+13:50
+Azure CLI Output
+05:50
+Azure CLI Queries and Bash Pipe
+13:26
+Managing Resources with Azure CLI
+11:53
+Azure CLI Extensions
+05:16
+HANDS-ON LAB
+Use Azure CLI to Change VM Networking
+2:00:00
+CHAPTER 5
+
+Scripting with Azure CLI
+18:14
+
+Getting Started with Bash Scripts
+09:29
+Scripted Deployments with Azure CLI and Bash
