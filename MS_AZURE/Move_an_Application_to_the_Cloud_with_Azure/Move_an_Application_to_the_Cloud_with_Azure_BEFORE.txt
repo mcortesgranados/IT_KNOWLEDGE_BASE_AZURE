@@ -1,0 +1,102 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+10:01
+
+Course Introduction
+02:16
+What Is Cloud Transformation?
+04:53
+Components of the Application
+02:52
+CHAPTER 2
+
+Databases
+1:35:33
+
+Component Introduction: The Database
+00:52
+Databases Overview
+04:03
+Setting Up the Database
+04:39
+
+Migrating Data to the Database
+08:48
+
+HANDS-ON LAB
+Moving a Basic MySQL Database to Azure
+1:00:00
+Component Summary: The Database
+02:11
+QUIZ
+Databases Quiz
+15:00
+CHAPTER 3
+
+Application Programming Interfaces (APIs)
+1:13:45
+
+Component Introduction: The API
+01:07
+Using Azure Functions with the API
+02:00
+Refactoring API Code for Event-Driven Functions
+04:30
+
+Creating an Azure Function
+03:44
+
+HANDS-ON LAB
+Moving an API Endpoint to an Azure Function
+45:00
+Component Summary: The API
+02:24
+QUIZ
+APIs Quiz
+15:00
+CHAPTER 4
+
+Frontends (Web)
+1:25:34
+
+Component Introduction: The Frontend
+00:56
+Exploring Frontend Options
+04:21
+
+Deploying Static Content
+03:35
+
+HANDS-ON LAB
+Hosting Static Content with Azure Storage
+1:00:00
+Component Summary: The Frontend
+01:42
+QUIZ
+Frontends Quiz
+15:00
+CHAPTER 5
+
+(Supplemental) Using an Alternative to a Traditional Database
+16:24
+
+Going Serverless
+05:46
+Preparing Data for Azure Table Storage
+05:59
+
+
+Full Serverless Web App
+04:39
+
+
+CHAPTER 6
+
+Conclusion
+04:33
+
+Course Summary
+03:08
+Conclusion and What’s Next
