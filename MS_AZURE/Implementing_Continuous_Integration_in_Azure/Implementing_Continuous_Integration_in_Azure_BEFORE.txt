@@ -1,0 +1,59 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+03:04
+
+Course Introduction
+02:01
+
+
+About the Training Architect
+01:03
+CHAPTER 2
+
+Manage Code Quality and Security Policies
+31:53
+
+Monitor Code Quality
+04:07
+Configure Build to Report on Code Coverage
+04:03
+Manage Automated Test Quality
+03:49
+Manage Test Suites and Categories
+03:31
+Monitor Quality of Tests
+11:06
+Integrate Security Analysis Tools
+05:17
+CHAPTER 3
+
+Implement a Container Build Strategy
+08:05
+
+Create Deployable Images
+05:18
+Analyze and Integrate Docker Multi-Stage Builds
+02:47
+CHAPTER 4
+
+Implement a Build Strategy
+21:53
+
+Design Build Triggers, Tools, Integrations, and Workflow
+06:49
+Implement a Hybrid Build Process
+04:21
+Implement Multi-Agent Builds
+03:07
+Recommended Build Tools and Configuration
+02:58
+Set Up an Automated Build Workflow
+04:38
+CHAPTER 5
+
+Course Wrap Up
+02:13
+
+Course Conclusion and Next Steps
