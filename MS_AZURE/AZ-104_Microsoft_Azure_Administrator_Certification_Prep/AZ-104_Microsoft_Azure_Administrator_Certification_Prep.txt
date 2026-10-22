@@ -1,0 +1,141 @@
+CHAPTER 01 Welcome to the Course
+01-01 Course Introduction
+01-02 About Microsoft Learn
+01-03 About the Training Architect
+01-04 About the Exam
+01-05 AZ-104 Course Readiness
+01-06 QUIZ AZ-104 Readiness Quiz
+01-07 Course Update Video
+
+CHAPTER 02 Supplementary
+02-01 Azure IAM Supplementary Course
+02-02 Azure Storage Supplementary Course
+
+CHAPTER 03 Azure Administration
+03-01 Understanding Azure Resource Manager
+03-02 Using the Azure Portal and Cloud Shell
+03-03 Using Azure CLI and PowerShell
+03-04 Using ARM Templates
+
+CHAPTER 04 Governance and Compliance
+04-01 Managing Subscriptions
+04-02 Using Management Groups
+04-03 Understanding Azure Policy
+04-04 Tagging Resources
+04-05 HANDS-ON LAB Add, Remove and Update Tags for Resources in Azure
+04-06 Locking and Moving Resources
+04-07 Managing Azure Costs
+04-08 Building a Cloud Governance Strategy
+
+CHAPTER 05 Identity
+05-01 Introduction to Section
+05-02 Conceptualizing Azure Active Directory
+05-03 Managing Tenants
+05-04 Creating and Managing Users
+05-05 HANDS-ON LAB Create and Manage Azure AD Users in the Portal
+05-06 HANDS-ON LAB Perform Bulk Azure AD Operations in the Portal
+05-07 Creating and Managing Groups
+05-08 HANDS-ON LAB Create a Group and Add a Member in Azure Active Directory (Azure AD)
+05-09 Creating Administrative Units
+05-10 Configuring SSPR
+05-11 Azure AD Device Management
+05-12 Conclusion to Section
+
+CHAPTER 06 Role-Based Access Control
+06-01 Understanding Roles in Azure
+06-02 Assigning Access to Resources
+06-03 HANDS-ON LAB Using Service Principal Identity to List AD Roles
+06-04 Creating Custom Roles
+
+CHAPTER 07 Azure Storage
+07-01 Understanding Storage Accounts
+07-02 Conceptualizing Azure Blob Storage
+07-03 Configuring Blob Object Replication
+07-04 Configuring Blob Lifecycle Management
+07-05 HANDS-ON LAB Expire Data Based on Age in Azure Blob Storage
+07-06 Configuring Azure Files
+07-07 Configuring Azure File Sync
+07-08 HANDS-ON LAB Create and Restore File Share Snapshots in Azure
+07-09 Storage Network Access
+07-10 Securing Storage Accounts
+07-11 HANDS-ON LAB Limit Access to Azure Storage Account Using SAS URI
+07-12 Using Azure Jobs
+07-13 Storage Utilities
+
+CHAPTER 08 Virtual Networking
+08-01 Conceptualizing Virtual Networks
+08-02 Creating Virtual Networks
+08-03 HANDS-ON LAB Creating Multiple Subnets in Azure
+08-04 Deploying Network Resources
+08-05 Routing Virtual Networks
+08-06 Network Security Groups (NSGs)
+08-07 HANDS-ON LAB Create an Application Security Group for Two Web Servers in Azure
+08-08 Using Azure DNS
+08-09 Using Azure Firewall
+08-10 HANDS-ON LAB Attach a Firewall to a Virtual Network in Azure
+08-11 Using Service Endpoints
+08-12 Using Private Endpoints
+
+CHAPTER 09 Intersite Connectivity
+09-01 Configuring Azure VNet Peering
+09-02 Implementing VPNs
+09-03 Implementing VPNs (Demonstration)
+09-04 Configuring ExpressRoute
+09-05 Implementing Virtual WAN
+09-06 HANDS-ON LAB Create a Hub-Spoke Network Topology in Azure
+
+CHAPTER 10 Azure Virtual Machines
+10-01 Creating and Managing Virtual Machines: Part 1
+10-02 Creating and Managing Virtual Machines: Part 2
+10-03 Managing Virtual Machine Disks
+10-04 HANDS-ON LAB Add Existing Data Disk to a VM in Azure
+10-05 Configuring Virtual Machine Availability and Scale Sets: Part 1
+10-06 Configuring Virtual Machine Availability and Scale Sets: Part 2
+10-07 HANDS-ON LAB Use PowerShell to Resize an Azure Virtual Machine in an Availability Set
+10-08 Automating Virtual Machine Deployments
+10-09 HANDS-ON LAB Install NGINX on a Linux VM in Deployment with Cloud Init
+10-10 HANDS-ON LAB Snapshot an Azure VM Disk using PowerShell
+10-11 HANDS-ON LAB Using Custom Images for a Virtual Machine Scale Set in Azure
+10-12 Managing Virtual Machine Updates
+10-13 Automating Virtual Machine Configuration
+10-14 Using Azure Bastion
+10-15 HANDS-ON LAB Access Windows VMs over SSL without Public IPs using Azure Bastion
+
+CHAPTER 11 Network Traffic Management
+11-01 Introducing Azure Load Balancer
+11-02 HANDS-ON LAB Create a Standard Load Balancer with Azure CLI
+11-03 Using Application Gateway
+
+CHAPTER 12 Web Apps and Containers
+12-01 Creating an App Service Plan
+12-02 Creating Web Apps: Part 1
+12-03 Creating Web Apps: Part 2
+12-04 Configuring Web Apps
+12-05 HANDS-ON LAB Scale Out an App Service Plan Automatically in Azure
+12-06 Describing Containers in Azure
+12-07 Using Azure Container Instances for Containers
+12-08 HANDS-ON LAB Build and Run a Container Using Azure ACR Tasks
+12-09 HANDS-ON LAB Create Web App from Docker Container in Azure
+12-10 Using Azure Kubernetes Service
+
+CHAPTER 13 Monitoring Using Azure Monitor
+13-01 Setting Up Alerts and Actions
+13-02 Configuring Azure Monitor Logs
+13-03 Understanding Monitor Insights
+13-04 Configuring Application Insights
+13-05 Using Network Watcher
+
+CHAPTER 14 Backup and Recovery
+14-01 Understanding Disaster Recovery
+14-02 Configuring Azure Backup
+14-03 HANDS-ON LAB Restore File Share from Azure Backup to Another Storage Account
+14-04 Azure Site Recovery
+14-05 Backup Reports
+
+CHAPTER 15 Wrap-Up and Practice
+15-01 Microsoft Learn Conclusion
+15-02 Course Conclusion and Next Steps
+15-03 PRACTICE EXAM AZ-104 Microsoft Azure Administrator
+15-04 PRACTICE EXAM AZ-104 Case Study 1
+15-05 PRACTICE EXAM AZ-104 Case Study 2
+15-06 Keep Up to Date with Azure This Week
