@@ -1,0 +1,146 @@
+Course Outline
+CHAPTER 1
+
+Introduction: Build Automation with Gradle in the Cloud
+03:32
+
+Course Introduction
+03:32
+
+
+CHAPTER 2
+
+Gradle Basics
+1:34:22
+
+What Is Gradle?
+07:52
+
+How to Install Gradle
+04:22
+
+How to Use Gradle
+14:21
+
+What Gradle Can Do for You
+07:47
+
+
+
+HANDS-ON LAB
+Installing Gradle and Creating Your First Gradle Project
+45:00
+QUIZ
+Gradle Basics
+15:00
+CHAPTER 3
+
+Using Gradle with AWS
+1:36:24
+
+Getting Started with Gradle and AWS
+08:15
+
+
+
+Using Gradle with AWS SDK
+05:37
+
+
+Building with Gradle and the AWS SDK
+07:32
+
+
+HANDS-ON LAB
+Build a Java Application Using Gradle and the AWS SDK
+1:00:00
+QUIZ
+Using Gradle with AWS
+15:00
+CHAPTER 4
+
+Using Gradle with Azure
+38:59
+
+Getting Started with Gradle and Azure
+09:43
+
+
+Using Gradle with Azure SDK
+06:43
+
+Using the Azure Web Apps Gradle Plugin
+03:27
+
+
+Using the Azure Functions Gradle Plugin
+04:06
+
+
+QUIZ
+Using Gradle with Azure
+15:00
+CHAPTER 5
+
+Using Gradle with GCP
+1:47:04
+
+Getting Started with Gradle and GCP
+09:12
+
+
+Using the Google Cloud App Engine Gradle Plugin
+04:02
+
+
+App Engine Gradle Plugin Tasks and Properties
+11:45
+
+
+Creating Applications Using the App Engine Plugin
+07:05
+
+
+HANDS-ON LAB
+Build a Java Application Using Gradle with the Google Cloud App Engine Gradle Plugin
+1:00:00
+QUIZ
+Using Gradle with GCP
+15:00
+CHAPTER 6
+
+Using Gradle with Terraform
+1:34:18
+
+What a Duo!
+09:02
+
+
+
+Configure Gradle to Work with Terraform
+09:00
+
+
+
+The Differences When Using Gradle with Terraform
+08:42
+
+
+
+How to Use Gradle with Terraform
+07:34
+
+
+
+HANDS-ON LAB
+Create Automation for Building Infrastructure with Gradle and Terraform
+45:00
+QUIZ
+Using Gradle with Terraform
+15:00
+CHAPTER 7
+
+Conclusion: Build Automation with Gradle in the Cloud
+06:02
+
+Course Summary
