@@ -1,0 +1,56 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+03:35
+
+Course Introduction
+01:32
+About the Training Architect
+02:03
+CHAPTER 2
+
+Design for Data Governance, Compliance, Integrity, and Security
+1:57:37
+
+Define How Users and Applications Authenticate to AI Services
+02:22
+Design a Content Moderation Strategy for Data Usage within an AI Solution
+03:33
+Ensure that Data Adheres to Compliance Requirements Defined by an Organization
+01:00
+Ensure Appropriate Governance for Data
+02:26
+Design Strategies to Ensure the Solution Meets Data Privacy and Industry Standard Regulations
+03:16
+HANDS-ON LAB
+Moderating Images Using the .NET SDK
+45:00
+HANDS-ON LAB
+Moderating Text Using the .NET SDK
+1:00:00
+CHAPTER 3
+
+Implement an AI Workflow
+18:17
+
+Develop AI Pipelines
+02:37
+Manage the Flow of Data Through Solution Components
+03:25
+Implement Data Logging Processes
+02:27
+Define and Construct Interfaces for Custom AI Services
+02:06
+Integrate AI Models with Other Solution Components
+01:55
+Design Solution Endpoints
+01:39
+Develop Streaming Solutions
+04:08
+CHAPTER 4
+
+Where do you go from here?
+00:19
+
+Good Work! Now: on to the next Course Segment!
