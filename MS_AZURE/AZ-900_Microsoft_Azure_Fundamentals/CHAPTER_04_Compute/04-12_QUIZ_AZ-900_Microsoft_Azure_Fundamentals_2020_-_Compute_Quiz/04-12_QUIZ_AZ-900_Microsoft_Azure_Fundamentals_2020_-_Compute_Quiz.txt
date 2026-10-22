@@ -1,0 +1,97 @@
+QUESTION 1
+
+What are some benefits of using a Virtual Machine on Azure, compared to using your own on-site physical server?
+
+No maintenance of hardware and only paying for what you use
+
+Correct Answer
+Virtual machines on Azure abstract away the physical hardware layer, so you don't need to worry about maintaining physical hardware. Microsoft handles this instead.
+
+______________________________________________________________________________________________________________________________________
+
+
+QUESTION 2
+
+Which cloud service model do virtual machines belong to?
+
+Infrastructure as a Service
+
+Correct Answer
+Infrastructure as a Service includes services that emulate hardware, such as virtual machines, networks, and storage.
+
+______________________________________________________________________________________________________________________________________
+
+QUESTION 3
+
+What is a fully managed platform on Azure?
+
+Servers, network, storage, and more are all managed by Azure. You focus on your business value and logic.
+
+Correct Answer
+A fully managed platform means the provider manages the infrastructure layer, such as VMs, disks, networks, and more. You only have to focus on the core functionality of your application. Fully managed services on Azure are available on all subscription types and come at no extra cost.
+
+______________________________________________________________________________________________________________________________________
+
+QUESTION 4
+
+What are the three kinds of App Service?
+
+Web App for Containers
+
+Web Apps
+
+API Apps
+
+______________________________________________________________________________________________________________________________________
+
+
+QUESTION 5
+
+What is a scale set?
+
+A set of individual virtual machines that can be configured and managed as a single group
+
+Good work!
+Azure virtual machine scale sets let you create and manage a group of load balanced VMs. The number of VM instances can automatically increase or decrease in response to demand or a defined schedule. Scale sets provide high availability to your applications and allow you to centrally manage, configure, and update a large number of VMs. With virtual machine scale sets, you can build large-scale services for areas such as compute, big data, and container workloads. Reference: What are virtual machine scale sets?
+https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/learn/compute/quiz/quiz/az-900-microsoft-azure-fundamentals-chapter-4-quiz#:~:text=Good%20work!,machine%20scale%20sets%3F
+
+______________________________________________________________________________________________________________________________________
+
+QUESTION 6
+
+What is an Azure Function?
+
+The smallest compute service on Azure that represents a single function of compute
+
+A serverless solution that allows you to write less code, maintain less infrastructure, and save on costs.
+
+Correct Answer
+Azure Functions are the smallest compute services on Azure that represent a single function of compute. Functions can be called or invoked via standard web address (URL).
+
+Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs. Instead of worrying about deploying and maintaining servers, the cloud infrastructure provides all the up-to-date resources needed to keep your applications running. Reference: Introduction to Azure Functions.
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
+
+______________________________________________________________________________________________________________________________________
+
+QUESTION 7
+
+Which definition best describes compute on Microsoft Azure?
+
+Any service that performs or enables a computation
+
+Good work!
+Compute is one of three foundational components of cloud computing. The other two are network and storage. This means any service that performs a compute function on Azure is part of "Compute" on Azure. It isn't a single service.
+
+______________________________________________________________________________________________________________________________________
+
+Your company suddenly has a bunch of new remote employees, who all need a Windows environment to work from. Which is the best Azure solution to get them up and running quickly?
+
+Azure Virtual Desktop (formerly Windows Virtual Desktop)
+
+Correct Answer
+Azure Virtual Desktop (formerly Windows Virtual Desktop) helps you quickly set up an environment, and even lets you reuse any existing Windows 10 licenses you have.
+
+______________________________________________________________________________________________________________________________________
+
+
+
